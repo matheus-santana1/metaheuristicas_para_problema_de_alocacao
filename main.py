@@ -2,6 +2,7 @@ import argparse
 from src.leitor_de_instancias import ler_ordens, ler_equipes
 from src.heuristicas_construtivas import heuristica_simples, heuristica_por_ferramenta
 from src.heuristica_de_alocacao import alocar_ordens
+from src.grafico_de_gantt import plotar_grafico_gantt
 
 
 def main():
@@ -23,6 +24,8 @@ def main():
 
     print(f"\nPenalidade total: {penalidade}")
     print("Ordens não alocadas:", [o.id for o in solucao.ordens_nao_alocadas])
+
+    plotar_grafico_gantt(solucao)
 
 
 if __name__ == "__main__":
