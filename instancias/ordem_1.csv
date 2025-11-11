@@ -1,0 +1,7 @@
+id,tarefa,equipamento,especialidade,inicio,fim,duracao,penalidade
+1,Alinhamento,Carro,Mecânica,0,4,1,20
+2,Alinhamento,Caminhão,Mecânica,2,7,2,30
+3,Revisão de motor,Carro,Mecânica,3,9,3,40
+4,Revisão elétrica,Moto,Elétrica,2,6,1,20
+5,Revisão elétrica,Carro,Elétrica,3,8,2,30
+6,Revisão de motor,Caminhão,Mecânica,4,7,1,40
