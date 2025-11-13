@@ -1,6 +1,6 @@
-from collections import Counter
 from typing import List
 from src.modelo import OrdemManutencao
+import random
 
 
 def heuristica_simples(ordens: List[OrdemManutencao]) -> List[OrdemManutencao]:
@@ -21,31 +21,19 @@ def heuristica_simples(ordens: List[OrdemManutencao]) -> List[OrdemManutencao]:
     return N
 
 
-def heuristica_por_ferramenta(ordens: List[OrdemManutencao]) -> List[OrdemManutencao]:
+def heuristica_parcialmente_gulosa(ordens: List[OrdemManutencao], alpha=0.5) -> List[OrdemManutencao]:
+    """
+    alpha: nível de aleatoriedade (0=guloso, 1=aleatório)
+    """
     N = []
-    contagem = Counter(o.equipamento for o in ordens)
-    equipamentos = list(contagem.keys())
-    usados = set()
-    while len(usados) < len(equipamentos):
-        mais_usado = None
-        maior_freq = -1
-        for eq in equipamentos:
-            if eq not in usados and contagem[eq] > maior_freq:
-                mais_usado = eq
-                maior_freq = contagem[eq]
-        usados.add(mais_usado)
+    C = ordens.copy()
 
-        C = [o for o in ordens if o.equipamento == mais_usado]
-        while C:
-            melhor_ordem = None
-            melhor_tempo = float('inf')
-            melhor_penalidade = -1
-
-            for c in C:
-                if (c.fim < melhor_tempo) or (c.fim == melhor_tempo and c.penalidade > melhor_penalidade):
-                    melhor_ordem = c
-                    melhor_tempo = c.fim
-                    melhor_penalidade = c.penalidade
-            N.append(melhor_ordem)
-            C.remove(melhor_ordem)
+    while C:
+        prioridades = [o.penalidade / o.duracao for o in C]
+        prioridade_max, prioridade_min = max(prioridades), min(prioridades)
+        limiar = prioridade_max - alpha * (prioridade_max - prioridade_min)
+        LRC = [o for o in C if o.penalidade / o.duracao >= limiar]
+        escolhida = random.choice(LRC)
+        N.append(escolhida)
+        C.remove(escolhida)
     return N

@@ -1,21 +1,17 @@
-import argparse
 from src.leitor_de_instancias import ler_ordens, ler_equipes
-from src.heuristicas_construtivas import heuristica_simples, heuristica_por_ferramenta
+from src.heuristicas_construtivas import heuristica_simples, heuristica_parcialmente_gulosa
 from src.heuristica_de_alocacao import alocar_ordens
 from src.grafico_de_gantt import plotar_grafico_gantt
+from args import get_args
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Leitor de equipes e ordens de manutenção.")
-    parser.add_argument("--equipes", required=True, help="Caminho para o arquivo de equipes (.csv)")
-    parser.add_argument("--ordem", required=True, help="Caminho para o arquivo de ordens (.csv)")
-
-    args = parser.parse_args()
+    args = get_args()
 
     equipes = ler_equipes(args.equipes)
     ordens = ler_ordens(args.ordem)
 
-    N = heuristica_por_ferramenta(ordens)
+    N = heuristica_parcialmente_gulosa(ordens)
     solucao = alocar_ordens(ordens, equipes, N)
 
     print(solucao)
