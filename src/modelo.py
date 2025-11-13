@@ -55,10 +55,22 @@ class Alocacao:
 class Solucao:
     def __init__(self):
         self.custo_total: int = 0
+        self.penalidade_total: int = 0
         self.ordens_alocadas: List[Alocacao] = []
         self.ordens_nao_alocadas: List[OrdemManutencao] = []
+        self.N: List[OrdemManutencao] = []
 
     def __repr__(self):
         return (f"solucao(custo={self.custo_total}, "
+                f"penalidade_total={self.penalidade_total}, "
                 f"alocadas={len(self.ordens_alocadas)}, "
-                f"nao_alocadas={len(self.ordens_nao_alocadas)})")
+                f"nao_alocadas={len(self.ordens_nao_alocadas)}, "
+                f"N={self.N_ids})")
+
+    @property
+    def N_ids(self):
+        return [n.id for n in self.N]
+
+    @property
+    def ordens_nao_alocadas_ids(self):
+        return [ordem.id for ordem in self.ordens_nao_alocadas]

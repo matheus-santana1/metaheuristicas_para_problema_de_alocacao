@@ -38,8 +38,7 @@ def organizar_equipes_por_ocupacao(equipes: List[Equipe], ocupacao: Dict[str, fl
     return equipes_ordenadas
 
 
-def alocar_ordens(ordens: List[OrdemManutencao], equipes: List[Equipe], N: List[OrdemManutencao]) \
-        -> Tuple[Solucao, int]:
+def alocar_ordens(ordens: List[OrdemManutencao], equipes: List[Equipe], N: List[OrdemManutencao]) -> Solucao:
     solucao = Solucao()
     alocadas = []
 
@@ -87,4 +86,6 @@ def alocar_ordens(ordens: List[OrdemManutencao], equipes: List[Equipe], N: List[
     penalidade_total = sum(o.penalidade for o in nao_alocadas)
     solucao.custo_total = penalidade_total
     solucao.ordens_nao_alocadas = nao_alocadas
-    return solucao, penalidade_total
+    solucao.penalidade_total = penalidade_total
+    solucao.N = N
+    return solucao

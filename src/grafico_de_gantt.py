@@ -1,3 +1,4 @@
+from src.modelo import Solucao
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import matplotlib.cm as cm
@@ -5,19 +6,19 @@ import matplotlib.colors as mcolors
 import hashlib
 
 
-def gerar_cores_equipamentos(solucao):
+def gerar_cores_equipamentos(solucao: Solucao):
     equipamentos = {aloc.ordem.equipamento for aloc in solucao.ordens_alocadas}
     cmap = cm.get_cmap('prism')
     cores_equipamentos = {}
     for eq in equipamentos:
-        h = int(hashlib.sha256(eq.encode('utf-8')).hexdigest(), 16)
+        h = int(hashlib.sha256(eq.encode()).hexdigest(), 16)
         indice = (h % 1000) / 1000.0
         cor = cmap(indice)
         cores_equipamentos[eq] = mcolors.rgb2hex(cor)
     return cores_equipamentos
 
 
-def plotar_grafico_gantt(solucao):
+def plotar_grafico_gantt(solucao: Solucao):
     equipes = sorted({aloc.equipe.nome for aloc in solucao.ordens_alocadas})
     equipes.reverse()
 
@@ -63,6 +64,10 @@ def plotar_grafico_gantt(solucao):
               bbox_to_anchor=(1.02, 1), loc='upper left',
               borderaxespad=0., edgecolor='black')
 
-    plt.tight_layout()
-    plt.savefig("grafico_gantt.png", dpi=300, bbox_inches="tight")
+    ax.text(0, -0.15,
+            f"N = {solucao.N_ids}\nNão alocadas = {solucao.ordens_nao_alocadas_ids}\n"
+            f"Penalidade total = {solucao.penalidade_total}", transform=ax.transAxes, fontsize=9,
+            color="black", ha="left", va="top", linespacing=1.4)
+
+    plt.savefig("grafico_gantt.png", dpi=900, bbox_inches="tight")
     print("Gráfico salvo em grafico_gantt.png")

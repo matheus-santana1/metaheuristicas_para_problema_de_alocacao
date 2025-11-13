@@ -16,13 +16,15 @@ def main():
     ordens = ler_ordens(args.ordem)
 
     N = heuristica_por_ferramenta(ordens)
-    solucao, penalidade = alocar_ordens(ordens, equipes, N)
+    solucao = alocar_ordens(ordens, equipes, N)
+
+    print(solucao)
 
     print("\n=== Alocações ===")
     for s in solucao.ordens_alocadas:
         print(s)
 
-    print(f"\nPenalidade total: {penalidade}")
+    print(f"\nPenalidade total: {solucao.penalidade_total}")
     print("Ordens não alocadas:", [o.id for o in solucao.ordens_nao_alocadas])
 
     plotar_grafico_gantt(solucao)
