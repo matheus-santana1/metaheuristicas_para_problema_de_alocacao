@@ -1,0 +1,21 @@
+id,tarefa,equipamento,especialidade,inicio,fim,duracao,penalidade
+1,Alinhamento,Caminhão,Mecânica,7,9,2,13
+2,Revisão de motor,Moto,Elétrica,6,9,3,31
+3,Alinhamento,Moto,Mecânica,0,1,1,50
+4,Alinhamento,Caminhão,Elétrica,2,4,2,16
+5,Alinhamento,Carro,Mecânica,1,3,2,56
+6,Revisão de motor,Moto,Mecânica,5,6,1,64
+7,Revisão de motor,Caminhão,Elétrica,5,8,3,95
+8,Revisão elétrica,Moto,Mecânica,9,10,1,36
+9,Revisão de motor,Carro,Elétrica,6,8,2,80
+10,Revisão elétrica,Carro,Elétrica,6,9,3,32
+11,Alinhamento,Moto,Elétrica,9,10,1,17
+12,Revisão de motor,Moto,Elétrica,7,8,1,58
+13,Revisão de motor,Moto,Mecânica,5,7,2,29
+14,Revisão elétrica,Caminhão,Mecânica,5,8,3,77
+15,Revisão de motor,Caminhão,Mecânica,2,5,3,89
+16,Alinhamento,Moto,Elétrica,5,7,2,97
+17,Revisão de motor,Carro,Elétrica,0,2,2,87
+18,Revisão elétrica,Carro,Mecânica,5,6,1,26
+19,Revisão de motor,Moto,Mecânica,4,5,1,56
+20,Revisão elétrica,Moto,Mecânica,0,2,2,47

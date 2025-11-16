@@ -1,0 +1,101 @@
+id,tarefa,equipamento,especialidade,inicio,fim,duracao,penalidade
+1,Revisão de motor,Carro,Mecânica,14,16,2,94
+2,Revisão elétrica,Carro,Elétrica,3,5,2,27
+3,Revisão de motor,Caminhão,Mecânica,3,7,4,99
+4,Alinhamento,Moto,Mecânica,17,18,1,46
+5,Alinhamento,Carro,Mecânica,13,16,3,18
+6,Revisão de motor,Moto,Mecânica,10,11,1,33
+7,Revisão de motor,Carro,Mecânica,2,6,4,91
+8,Revisão elétrica,Caminhão,Elétrica,9,10,1,84
+9,Alinhamento,Carro,Elétrica,15,18,3,74
+10,Revisão de motor,Caminhão,Elétrica,4,8,4,38
+11,Revisão elétrica,Caminhão,Elétrica,7,9,2,83
+12,Revisão de motor,Carro,Elétrica,6,9,3,29
+13,Alinhamento,Moto,Mecânica,6,7,1,25
+14,Revisão elétrica,Moto,Mecânica,2,6,4,50
+15,Revisão elétrica,Caminhão,Mecânica,2,4,2,74
+16,Alinhamento,Caminhão,Mecânica,5,9,4,14
+17,Revisão elétrica,Caminhão,Elétrica,16,19,3,34
+18,Revisão elétrica,Caminhão,Mecânica,7,11,4,92
+19,Revisão de motor,Caminhão,Mecânica,2,4,2,58
+20,Alinhamento,Caminhão,Mecânica,12,16,4,89
+21,Revisão elétrica,Moto,Mecânica,13,16,3,63
+22,Alinhamento,Carro,Elétrica,0,4,4,72
+23,Revisão de motor,Carro,Elétrica,3,6,3,78
+24,Alinhamento,Moto,Elétrica,7,8,1,18
+25,Revisão de motor,Carro,Elétrica,11,14,3,61
+26,Revisão de motor,Carro,Elétrica,15,17,2,86
+27,Revisão elétrica,Caminhão,Mecânica,7,10,3,90
+28,Alinhamento,Caminhão,Mecânica,5,7,2,13
+29,Alinhamento,Carro,Mecânica,16,18,2,27
+30,Alinhamento,Caminhão,Mecânica,5,8,3,86
+31,Revisão elétrica,Moto,Mecânica,8,9,1,10
+32,Revisão elétrica,Carro,Elétrica,18,20,2,54
+33,Revisão de motor,Carro,Mecânica,4,8,4,88
+34,Revisão de motor,Moto,Elétrica,3,6,3,33
+35,Revisão de motor,Caminhão,Elétrica,12,15,3,13
+36,Alinhamento,Carro,Mecânica,4,6,2,52
+37,Revisão de motor,Caminhão,Elétrica,17,20,3,39
+38,Revisão elétrica,Moto,Elétrica,1,3,2,35
+39,Revisão elétrica,Moto,Mecânica,1,3,2,52
+40,Revisão de motor,Carro,Mecânica,7,9,2,88
+41,Revisão de motor,Carro,Elétrica,2,3,1,12
+42,Alinhamento,Caminhão,Mecânica,10,11,1,77
+43,Alinhamento,Carro,Mecânica,6,10,4,65
+44,Alinhamento,Carro,Elétrica,13,17,4,20
+45,Alinhamento,Caminhão,Elétrica,4,6,2,46
+46,Revisão de motor,Carro,Elétrica,2,5,3,65
+47,Revisão de motor,Caminhão,Mecânica,14,18,4,61
+48,Alinhamento,Caminhão,Elétrica,8,10,2,49
+49,Revisão elétrica,Caminhão,Elétrica,12,14,2,12
+50,Alinhamento,Moto,Mecânica,5,8,3,65
+51,Alinhamento,Caminhão,Elétrica,16,17,1,99
+52,Revisão de motor,Moto,Mecânica,0,2,2,51
+53,Revisão de motor,Carro,Mecânica,18,20,2,87
+54,Revisão de motor,Moto,Mecânica,10,12,2,75
+55,Revisão de motor,Moto,Elétrica,19,20,1,93
+56,Alinhamento,Carro,Mecânica,2,5,3,100
+57,Revisão de motor,Moto,Mecânica,5,7,2,19
+58,Alinhamento,Caminhão,Elétrica,10,14,4,13
+59,Revisão de motor,Caminhão,Elétrica,19,20,1,62
+60,Revisão de motor,Moto,Mecânica,7,9,2,83
+61,Alinhamento,Moto,Elétrica,0,4,4,34
+62,Alinhamento,Carro,Mecânica,14,17,3,93
+63,Revisão elétrica,Carro,Mecânica,8,11,3,33
+64,Alinhamento,Moto,Mecânica,15,18,3,74
+65,Revisão elétrica,Caminhão,Mecânica,7,9,2,47
+66,Revisão elétrica,Caminhão,Elétrica,11,15,4,60
+67,Alinhamento,Caminhão,Elétrica,0,1,1,89
+68,Revisão elétrica,Carro,Mecânica,9,13,4,73
+69,Revisão elétrica,Carro,Elétrica,8,12,4,11
+70,Alinhamento,Caminhão,Elétrica,0,2,2,20
+71,Revisão elétrica,Moto,Elétrica,18,20,2,44
+72,Revisão elétrica,Caminhão,Elétrica,6,7,1,89
+73,Revisão de motor,Moto,Mecânica,16,17,1,40
+74,Alinhamento,Carro,Mecânica,16,17,1,55
+75,Alinhamento,Moto,Mecânica,2,5,3,59
+76,Revisão de motor,Carro,Mecânica,9,13,4,35
+77,Alinhamento,Moto,Elétrica,11,15,4,13
+78,Revisão elétrica,Moto,Mecânica,17,20,3,87
+79,Alinhamento,Moto,Mecânica,0,3,3,48
+80,Revisão elétrica,Carro,Mecânica,3,5,2,18
+81,Revisão elétrica,Moto,Mecânica,5,8,3,45
+82,Revisão de motor,Carro,Elétrica,15,16,1,13
+83,Revisão de motor,Carro,Elétrica,4,6,2,55
+84,Revisão elétrica,Moto,Mecânica,11,15,4,79
+85,Revisão elétrica,Carro,Mecânica,9,13,4,75
+86,Alinhamento,Moto,Mecânica,6,9,3,31
+87,Alinhamento,Moto,Elétrica,12,16,4,84
+88,Revisão de motor,Moto,Mecânica,3,7,4,11
+89,Revisão de motor,Caminhão,Mecânica,4,5,1,40
+90,Revisão elétrica,Moto,Mecânica,3,5,2,22
+91,Alinhamento,Carro,Mecânica,6,7,1,44
+92,Revisão elétrica,Moto,Elétrica,2,6,4,78
+93,Alinhamento,Carro,Elétrica,6,8,2,83
+94,Revisão elétrica,Carro,Mecânica,14,16,2,56
+95,Revisão de motor,Caminhão,Elétrica,5,6,1,74
+96,Alinhamento,Moto,Mecânica,16,18,2,95
+97,Revisão de motor,Moto,Mecânica,15,18,3,29
+98,Revisão elétrica,Moto,Elétrica,3,7,4,89
+99,Revisão elétrica,Caminhão,Mecânica,10,11,1,96
+100,Alinhamento,Carro,Mecânica,16,19,3,86
