@@ -4,6 +4,7 @@ import matplotlib.patches as mpatches
 import matplotlib.cm as cm
 import matplotlib.colors as mcolors
 import hashlib
+import textwrap
 
 
 def gerar_cores_equipamentos(solucao: Solucao):
@@ -18,7 +19,7 @@ def gerar_cores_equipamentos(solucao: Solucao):
     return cores_equipamentos
 
 
-def plotar_grafico_gantt(solucao: Solucao):
+def plotar_grafico_gantt(solucao: Solucao, arquivo: str):
     equipes = sorted({aloc.equipe.nome for aloc in solucao.ordens_alocadas})
     equipes.reverse()
 
@@ -64,10 +65,13 @@ def plotar_grafico_gantt(solucao: Solucao):
               bbox_to_anchor=(1.02, 1), loc='upper left',
               borderaxespad=0., edgecolor='black')
 
-    ax.text(0, -0.15,
-            f"N = {solucao.N_ids}\nNão alocadas = {solucao.ordens_nao_alocadas_ids}\n"
-            f"Penalidade total = {solucao.penalidade_total}", transform=ax.transAxes, fontsize=9,
-            color="black", ha="left", va="top", linespacing=1.4)
+    N_text = "\n".join(textwrap.wrap(str(solucao.N_ids), width=120))
+    nao_aloc_text = "\n".join(textwrap.wrap(str(solucao.ordens_nao_alocadas_ids), width=120))
 
-    plt.savefig("grafico_gantt.png", dpi=900, bbox_inches="tight")
-    print("Gráfico salvo em grafico_gantt.png")
+    fig.text(0, -0.15,
+             f"N = {N_text}\n\nNão alocadas = {nao_aloc_text}\n\n"
+             f"Penalidade total = {solucao.penalidade_total}", transform=ax.transAxes, fontsize=9,
+             color="black", ha="left", va="top", linespacing=1.4)
+
+    plt.savefig(f"{arquivo}.png", dpi=300, bbox_inches="tight")
+    print(f"Gráfico salvo em {arquivo}.png")

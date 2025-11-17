@@ -1,4 +1,4 @@
-from typing import List, Tuple, Dict
+from typing import List, Dict
 from collections import defaultdict
 from src.modelo import Equipe, OrdemManutencao, Alocacao, Solucao
 
@@ -46,7 +46,7 @@ def alocar_ordens(ordens: List[OrdemManutencao], equipes: List[Equipe], N: List[
     equipes_ordenadas = organizar_equipes_por_ocupacao(equipes, ocupacao)
 
     for equipe in equipes_ordenadas:
-        hk = equipe.disponibilidade
+        disponibilidade = equipe.disponibilidade
         C = [c for c in N if c.especialidade.lower() == equipe.especialidade.lower() and c not in alocadas]
 
         while C:
@@ -57,7 +57,7 @@ def alocar_ordens(ordens: List[OrdemManutencao], equipes: List[Equipe], N: List[
             fimc = inicioc + c.duracao
 
             conflito = True
-            while conflito and fimc <= c.fim and fimc <= hk:
+            while conflito and fimc <= c.fim and fimc <= disponibilidade:
                 conflito = False
                 for s in solucao.ordens_alocadas:
                     # conflito mesma equipe
@@ -75,7 +75,7 @@ def alocar_ordens(ordens: List[OrdemManutencao], equipes: List[Equipe], N: List[
                         conflito = True
                         break
 
-            if fimc > c.fim or fimc > hk:
+            if fimc > c.fim or fimc > disponibilidade:
                 continue
 
             alocacao = Alocacao(ordem=c, equipe=equipe, inicio_execucao=inicioc, fim_execucao=fimc)
@@ -84,7 +84,6 @@ def alocar_ordens(ordens: List[OrdemManutencao], equipes: List[Equipe], N: List[
 
     nao_alocadas = [o for o in ordens if o not in alocadas]
     penalidade_total = sum(o.penalidade for o in nao_alocadas)
-    solucao.custo_total = penalidade_total
     solucao.ordens_nao_alocadas = nao_alocadas
     solucao.penalidade_total = penalidade_total
     solucao.N = N

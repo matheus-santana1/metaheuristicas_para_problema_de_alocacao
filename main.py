@@ -7,23 +7,25 @@ from args import get_args
 
 def main():
     args = get_args()
-
     equipes = ler_equipes(args.equipes)
     ordens = ler_ordens(args.ordem)
 
-    N = heuristica_parcialmente_gulosa(ordens)
+    N = []
+    if args.tipo_heuristica == "simples":
+        N = heuristica_simples(ordens)
+    elif args.tipo_heuristica == "parcialmente_gulosa":
+        N = heuristica_parcialmente_gulosa(ordens)
+
     solucao = alocar_ordens(ordens, equipes, N)
 
     print(solucao)
-
     print("\n=== Alocações ===")
     for s in solucao.ordens_alocadas:
         print(s)
-
     print(f"\nPenalidade total: {solucao.penalidade_total}")
     print("Ordens não alocadas:", [o.id for o in solucao.ordens_nao_alocadas])
 
-    plotar_grafico_gantt(solucao)
+    plotar_grafico_gantt(solucao, f"imagens/{args.arquivo}_heuristica_{args.tipo_heuristica}")
 
 
 if __name__ == "__main__":
