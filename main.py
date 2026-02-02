@@ -2,13 +2,15 @@ from src.leitor_de_instancias import ler_ordens, ler_equipes
 from src.heuristicas_construtivas import heuristica_simples, heuristica_parcialmente_gulosa
 from src.heuristica_de_alocacao import alocar_ordens
 from src.grafico_de_gantt import plotar_grafico_gantt
+from src.busca_local import busca_local_first_improvement
 from args import get_args
 
+args = get_args()
 
 def main():
-    args = get_args()
     equipes = ler_equipes(args.equipes)
     ordens = ler_ordens(args.ordem)
+    tipo_movimento = args.tipo_movimento #swap ou shift
 
     N = []
     if args.tipo_heuristica == "simples":
@@ -18,15 +20,17 @@ def main():
 
     solucao = alocar_ordens(ordens, equipes, N)
 
-    print(solucao)
-    print("\n=== Alocações ===")
-    for s in solucao.ordens_alocadas:
-        print(s)
-    print(f"\nPenalidade total: {solucao.penalidade_total}")
-    print("Ordens não alocadas:", [o.id for o in solucao.ordens_nao_alocadas])
+    print(f"Solução inicial: {solucao}")
 
-    plotar_grafico_gantt(solucao, f"imagens/{args.arquivo}_heuristica_{args.tipo_heuristica}")
+    if solucao.penalidade_total > 0:
+        print("\nIniciando refinamento via Busca Local...")
+        solucao = busca_local_first_improvement(ordens, equipes, solucao, tipo_movimento)
+    else:
+        print("\nBusca Local pulada (Solução já é ótima com penalidade 0).")
 
+    print(f"Solução final: {solucao}\nTipo de movimento: {tipo_movimento}")
+    return solucao
 
 if __name__ == "__main__":
-    main()
+    solucao = main()
+    plotar_grafico_gantt(melhor_solucao, f"imagens/{args.arquivo}_heuristica_{args.tipo_heuristica}")

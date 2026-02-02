@@ -1,0 +1,501 @@
+id,tarefa,equipamento,especialidade,inicio,fim,duracao,penalidade
+1,Revisão de motor,Carro,Mecânica,1305,1306,1,48
+2,Revisão elétrica,Jet Ski,Mecânica,1136,1140,4,93
+3,Revisão elétrica,Carro,Elétrica,716,719,3,83
+4,Revisão de motor,Rolo Compressor,Elétrica,1270,1273,3,10
+5,Revisão elétrica,Rolo Compressor,Elétrica,497,498,1,87
+6,Alinhamento,Quadriciclo,Mecânica,1393,1397,4,77
+7,Revisão elétrica,Guindaste,Elétrica,1930,1931,1,95
+8,Revisão elétrica,Quadriciclo,Mecânica,54,57,3,85
+9,Revisão elétrica,Rolo Compressor,Elétrica,1166,1167,1,11
+10,Revisão elétrica,Quadriciclo,Mecânica,318,322,4,49
+11,Revisão elétrica,Jet Ski,Elétrica,1795,1799,4,25
+12,Revisão elétrica,Rolo Compressor,Mecânica,1017,1018,1,63
+13,Alinhamento,Quadriciclo,Elétrica,850,851,1,25
+14,Revisão de motor,Quadriciclo,Elétrica,712,715,3,27
+15,Alinhamento,Quadriciclo,Elétrica,1634,1638,4,79
+16,Revisão elétrica,Guindaste,Mecânica,132,136,4,48
+17,Revisão de motor,Quadriciclo,Elétrica,402,406,4,82
+18,Revisão elétrica,Jet Ski,Elétrica,203,207,4,54
+19,Alinhamento,Jet Ski,Mecânica,29,31,2,61
+20,Alinhamento,Quadriciclo,Elétrica,1098,1100,2,97
+21,Alinhamento,Rolo Compressor,Mecânica,1475,1477,2,73
+22,Alinhamento,Rolo Compressor,Mecânica,502,504,2,53
+23,Alinhamento,Guindaste,Elétrica,788,789,1,19
+24,Revisão elétrica,Rolo Compressor,Elétrica,1195,1197,2,90
+25,Revisão de motor,Quadriciclo,Elétrica,87,89,2,13
+26,Alinhamento,Guindaste,Mecânica,1613,1615,2,14
+27,Revisão elétrica,Quadriciclo,Elétrica,1567,1569,2,67
+28,Revisão elétrica,Guindaste,Mecânica,277,278,1,54
+29,Alinhamento,Quadriciclo,Elétrica,1993,1995,2,76
+30,Revisão elétrica,Jet Ski,Mecânica,781,785,4,36
+31,Alinhamento,Carro,Elétrica,505,508,3,22
+32,Revisão elétrica,Carro,Elétrica,1426,1430,4,46
+33,Revisão elétrica,Quadriciclo,Mecânica,1050,1054,4,13
+34,Alinhamento,Guindaste,Elétrica,121,122,1,56
+35,Alinhamento,Quadriciclo,Mecânica,554,558,4,43
+36,Alinhamento,Jet Ski,Elétrica,718,719,1,13
+37,Revisão elétrica,Jet Ski,Mecânica,1275,1276,1,65
+38,Alinhamento,Jet Ski,Mecânica,757,759,2,52
+39,Revisão elétrica,Quadriciclo,Mecânica,1218,1221,3,48
+40,Revisão de motor,Carro,Elétrica,1486,1487,1,49
+41,Alinhamento,Quadriciclo,Mecânica,1536,1537,1,55
+42,Revisão de motor,Rolo Compressor,Elétrica,637,638,1,77
+43,Alinhamento,Guindaste,Elétrica,172,174,2,23
+44,Alinhamento,Quadriciclo,Elétrica,915,919,4,16
+45,Alinhamento,Jet Ski,Elétrica,158,159,1,27
+46,Revisão de motor,Rolo Compressor,Elétrica,1381,1384,3,95
+47,Alinhamento,Jet Ski,Mecânica,185,187,2,58
+48,Revisão elétrica,Quadriciclo,Mecânica,1163,1164,1,37
+49,Alinhamento,Quadriciclo,Mecânica,1045,1046,1,22
+50,Alinhamento,Rolo Compressor,Mecânica,829,833,4,26
+51,Alinhamento,Jet Ski,Elétrica,1349,1352,3,13
+52,Revisão elétrica,Carro,Mecânica,65,66,1,92
+53,Revisão de motor,Jet Ski,Mecânica,41,45,4,15
+54,Alinhamento,Jet Ski,Elétrica,166,167,1,46
+55,Revisão elétrica,Quadriciclo,Elétrica,1787,1790,3,93
+56,Revisão de motor,Carro,Elétrica,1468,1471,3,31
+57,Revisão de motor,Jet Ski,Mecânica,1863,1867,4,41
+58,Revisão de motor,Quadriciclo,Mecânica,976,977,1,38
+59,Revisão de motor,Jet Ski,Mecânica,916,917,1,68
+60,Revisão de motor,Carro,Mecânica,1512,1513,1,34
+61,Alinhamento,Jet Ski,Elétrica,608,611,3,34
+62,Revisão elétrica,Jet Ski,Mecânica,1740,1743,3,85
+63,Alinhamento,Carro,Elétrica,1639,1641,2,81
+64,Revisão de motor,Guindaste,Mecânica,1184,1188,4,78
+65,Alinhamento,Quadriciclo,Mecânica,393,397,4,59
+66,Revisão de motor,Jet Ski,Elétrica,1362,1364,2,84
+67,Revisão de motor,Rolo Compressor,Elétrica,716,718,2,70
+68,Revisão elétrica,Guindaste,Elétrica,500,502,2,74
+69,Alinhamento,Jet Ski,Mecânica,1656,1660,4,53
+70,Revisão de motor,Guindaste,Mecânica,1492,1495,3,46
+71,Revisão de motor,Carro,Elétrica,1025,1027,2,82
+72,Revisão de motor,Quadriciclo,Mecânica,1353,1354,1,24
+73,Revisão elétrica,Rolo Compressor,Mecânica,239,241,2,46
+74,Revisão elétrica,Quadriciclo,Elétrica,1437,1440,3,27
+75,Revisão elétrica,Quadriciclo,Elétrica,995,999,4,47
+76,Revisão elétrica,Carro,Elétrica,301,305,4,66
+77,Alinhamento,Jet Ski,Elétrica,1551,1554,3,22
+78,Alinhamento,Rolo Compressor,Mecânica,746,750,4,45
+79,Revisão elétrica,Rolo Compressor,Mecânica,561,565,4,35
+80,Revisão elétrica,Carro,Elétrica,1875,1876,1,74
+81,Alinhamento,Quadriciclo,Elétrica,138,142,4,34
+82,Alinhamento,Carro,Elétrica,310,312,2,26
+83,Revisão de motor,Quadriciclo,Elétrica,33,34,1,91
+84,Revisão de motor,Quadriciclo,Mecânica,1014,1016,2,11
+85,Revisão de motor,Rolo Compressor,Mecânica,591,592,1,77
+86,Alinhamento,Jet Ski,Mecânica,431,434,3,80
+87,Alinhamento,Guindaste,Mecânica,1070,1071,1,46
+88,Revisão elétrica,Jet Ski,Elétrica,1711,1712,1,40
+89,Revisão elétrica,Guindaste,Elétrica,1359,1360,1,53
+90,Revisão elétrica,Carro,Elétrica,446,449,3,33
+91,Revisão de motor,Carro,Elétrica,238,242,4,39
+92,Alinhamento,Jet Ski,Mecânica,1463,1464,1,84
+93,Revisão elétrica,Guindaste,Mecânica,693,694,1,39
+94,Revisão elétrica,Quadriciclo,Mecânica,1247,1249,2,22
+95,Alinhamento,Jet Ski,Elétrica,1232,1234,2,88
+96,Revisão de motor,Carro,Mecânica,1282,1285,3,48
+97,Alinhamento,Quadriciclo,Elétrica,1400,1403,3,81
+98,Alinhamento,Guindaste,Mecânica,54,56,2,22
+99,Revisão elétrica,Carro,Mecânica,1438,1442,4,44
+100,Revisão de motor,Rolo Compressor,Mecânica,1424,1428,4,81
+101,Revisão elétrica,Jet Ski,Mecânica,797,799,2,75
+102,Alinhamento,Jet Ski,Mecânica,525,527,2,79
+103,Revisão de motor,Guindaste,Mecânica,1091,1095,4,44
+104,Revisão de motor,Jet Ski,Mecânica,516,519,3,100
+105,Revisão de motor,Carro,Elétrica,1142,1145,3,100
+106,Alinhamento,Carro,Mecânica,1699,1701,2,75
+107,Revisão de motor,Quadriciclo,Elétrica,591,595,4,36
+108,Alinhamento,Rolo Compressor,Elétrica,1193,1194,1,76
+109,Alinhamento,Quadriciclo,Elétrica,1446,1447,1,19
+110,Revisão de motor,Quadriciclo,Mecânica,350,353,3,28
+111,Revisão de motor,Rolo Compressor,Elétrica,101,104,3,59
+112,Alinhamento,Quadriciclo,Mecânica,1827,1829,2,27
+113,Revisão de motor,Rolo Compressor,Mecânica,1689,1693,4,50
+114,Revisão de motor,Carro,Elétrica,159,163,4,83
+115,Alinhamento,Rolo Compressor,Mecânica,914,916,2,27
+116,Revisão elétrica,Jet Ski,Elétrica,637,640,3,19
+117,Revisão elétrica,Rolo Compressor,Mecânica,526,529,3,29
+118,Alinhamento,Carro,Mecânica,1326,1327,1,13
+119,Alinhamento,Rolo Compressor,Elétrica,1736,1738,2,17
+120,Revisão de motor,Quadriciclo,Elétrica,1439,1440,1,22
+121,Revisão elétrica,Guindaste,Elétrica,1419,1421,2,76
+122,Revisão elétrica,Carro,Mecânica,1779,1780,1,16
+123,Alinhamento,Quadriciclo,Mecânica,1750,1751,1,93
+124,Revisão de motor,Guindaste,Elétrica,293,295,2,13
+125,Revisão de motor,Carro,Elétrica,1248,1250,2,12
+126,Revisão elétrica,Rolo Compressor,Elétrica,301,305,4,63
+127,Revisão de motor,Rolo Compressor,Mecânica,1591,1592,1,72
+128,Alinhamento,Rolo Compressor,Mecânica,1100,1102,2,46
+129,Alinhamento,Quadriciclo,Elétrica,484,487,3,65
+130,Revisão de motor,Guindaste,Elétrica,1043,1046,3,17
+131,Alinhamento,Rolo Compressor,Mecânica,741,744,3,42
+132,Revisão elétrica,Quadriciclo,Mecânica,1431,1433,2,45
+133,Alinhamento,Quadriciclo,Elétrica,1582,1586,4,62
+134,Revisão elétrica,Quadriciclo,Elétrica,1967,1970,3,75
+135,Revisão de motor,Rolo Compressor,Elétrica,778,779,1,11
+136,Revisão de motor,Jet Ski,Elétrica,778,779,1,65
+137,Revisão de motor,Quadriciclo,Mecânica,344,348,4,88
+138,Revisão de motor,Jet Ski,Mecânica,1995,1999,4,42
+139,Revisão elétrica,Jet Ski,Mecânica,1649,1650,1,11
+140,Revisão de motor,Guindaste,Elétrica,1471,1472,1,76
+141,Alinhamento,Quadriciclo,Mecânica,1832,1834,2,96
+142,Alinhamento,Rolo Compressor,Mecânica,1221,1222,1,61
+143,Alinhamento,Rolo Compressor,Elétrica,991,995,4,39
+144,Alinhamento,Rolo Compressor,Elétrica,158,162,4,81
+145,Revisão de motor,Carro,Mecânica,1471,1475,4,60
+146,Alinhamento,Rolo Compressor,Mecânica,757,760,3,66
+147,Revisão elétrica,Jet Ski,Mecânica,1292,1296,4,82
+148,Alinhamento,Carro,Elétrica,273,277,4,44
+149,Revisão elétrica,Rolo Compressor,Mecânica,1638,1641,3,15
+150,Revisão elétrica,Jet Ski,Elétrica,563,565,2,79
+151,Revisão de motor,Jet Ski,Elétrica,1783,1786,3,96
+152,Alinhamento,Quadriciclo,Elétrica,128,132,4,80
+153,Alinhamento,Jet Ski,Mecânica,149,153,4,89
+154,Revisão elétrica,Jet Ski,Elétrica,1884,1885,1,74
+155,Revisão elétrica,Jet Ski,Elétrica,1030,1034,4,14
+156,Revisão elétrica,Jet Ski,Elétrica,1496,1500,4,97
+157,Alinhamento,Carro,Elétrica,1433,1436,3,92
+158,Revisão de motor,Rolo Compressor,Elétrica,434,436,2,66
+159,Revisão de motor,Rolo Compressor,Mecânica,707,711,4,75
+160,Revisão de motor,Jet Ski,Elétrica,1316,1317,1,47
+161,Revisão elétrica,Quadriciclo,Mecânica,69,73,4,98
+162,Revisão elétrica,Carro,Mecânica,658,659,1,43
+163,Revisão de motor,Guindaste,Elétrica,1133,1136,3,84
+164,Revisão de motor,Carro,Elétrica,722,724,2,58
+165,Revisão de motor,Guindaste,Elétrica,161,163,2,43
+166,Revisão elétrica,Quadriciclo,Mecânica,1938,1940,2,10
+167,Revisão elétrica,Carro,Mecânica,79,80,1,80
+168,Alinhamento,Jet Ski,Elétrica,211,215,4,37
+169,Revisão de motor,Carro,Elétrica,1070,1073,3,16
+170,Revisão elétrica,Rolo Compressor,Mecânica,340,342,2,62
+171,Alinhamento,Rolo Compressor,Mecânica,1537,1538,1,43
+172,Alinhamento,Rolo Compressor,Elétrica,357,359,2,31
+173,Revisão de motor,Guindaste,Mecânica,70,74,4,14
+174,Alinhamento,Jet Ski,Mecânica,874,876,2,94
+175,Alinhamento,Guindaste,Elétrica,1522,1524,2,41
+176,Revisão de motor,Quadriciclo,Elétrica,165,168,3,54
+177,Revisão de motor,Carro,Mecânica,215,219,4,51
+178,Revisão de motor,Guindaste,Mecânica,1938,1942,4,71
+179,Revisão de motor,Guindaste,Elétrica,66,70,4,99
+180,Revisão de motor,Guindaste,Elétrica,668,670,2,20
+181,Revisão de motor,Guindaste,Elétrica,1802,1804,2,46
+182,Alinhamento,Rolo Compressor,Mecânica,1384,1387,3,18
+183,Revisão de motor,Carro,Elétrica,1443,1444,1,45
+184,Revisão de motor,Rolo Compressor,Elétrica,637,640,3,69
+185,Revisão elétrica,Guindaste,Elétrica,1123,1125,2,46
+186,Alinhamento,Carro,Elétrica,1984,1987,3,27
+187,Revisão elétrica,Carro,Mecânica,129,130,1,95
+188,Alinhamento,Guindaste,Mecânica,386,388,2,43
+189,Revisão elétrica,Guindaste,Mecânica,604,608,4,42
+190,Alinhamento,Rolo Compressor,Elétrica,662,665,3,38
+191,Alinhamento,Jet Ski,Mecânica,373,375,2,52
+192,Revisão elétrica,Jet Ski,Mecânica,305,307,2,11
+193,Revisão de motor,Guindaste,Mecânica,186,188,2,60
+194,Revisão elétrica,Guindaste,Elétrica,623,624,1,56
+195,Revisão de motor,Carro,Elétrica,655,657,2,28
+196,Revisão de motor,Quadriciclo,Elétrica,280,283,3,97
+197,Revisão de motor,Quadriciclo,Elétrica,1958,1961,3,12
+198,Alinhamento,Carro,Mecânica,143,144,1,72
+199,Alinhamento,Jet Ski,Mecânica,1610,1614,4,92
+200,Revisão de motor,Guindaste,Mecânica,1951,1953,2,48
+201,Revisão de motor,Jet Ski,Elétrica,1927,1928,1,32
+202,Revisão de motor,Guindaste,Mecânica,1169,1171,2,65
+203,Revisão de motor,Jet Ski,Elétrica,1423,1424,1,57
+204,Revisão elétrica,Guindaste,Mecânica,545,548,3,65
+205,Revisão de motor,Quadriciclo,Mecânica,16,19,3,77
+206,Alinhamento,Guindaste,Elétrica,1485,1489,4,21
+207,Alinhamento,Rolo Compressor,Mecânica,469,472,3,73
+208,Revisão elétrica,Quadriciclo,Mecânica,259,263,4,38
+209,Alinhamento,Rolo Compressor,Elétrica,139,141,2,75
+210,Revisão elétrica,Carro,Elétrica,1342,1343,1,89
+211,Revisão elétrica,Rolo Compressor,Mecânica,995,998,3,88
+212,Revisão elétrica,Rolo Compressor,Elétrica,593,595,2,90
+213,Revisão de motor,Jet Ski,Mecânica,1315,1318,3,22
+214,Revisão de motor,Rolo Compressor,Elétrica,478,479,1,31
+215,Alinhamento,Guindaste,Mecânica,174,175,1,73
+216,Revisão elétrica,Carro,Elétrica,1931,1932,1,95
+217,Revisão de motor,Quadriciclo,Elétrica,1556,1557,1,96
+218,Alinhamento,Jet Ski,Elétrica,1221,1225,4,47
+219,Revisão elétrica,Rolo Compressor,Elétrica,1417,1418,1,43
+220,Alinhamento,Jet Ski,Elétrica,1514,1516,2,51
+221,Revisão de motor,Rolo Compressor,Mecânica,594,598,4,57
+222,Revisão de motor,Guindaste,Elétrica,1799,1802,3,12
+223,Alinhamento,Quadriciclo,Mecânica,1466,1468,2,27
+224,Revisão de motor,Quadriciclo,Mecânica,261,264,3,98
+225,Revisão de motor,Quadriciclo,Elétrica,1865,1869,4,96
+226,Alinhamento,Rolo Compressor,Elétrica,16,19,3,70
+227,Revisão de motor,Guindaste,Elétrica,1397,1398,1,65
+228,Alinhamento,Jet Ski,Elétrica,663,666,3,32
+229,Revisão elétrica,Carro,Elétrica,135,138,3,64
+230,Alinhamento,Carro,Elétrica,836,837,1,68
+231,Revisão de motor,Carro,Elétrica,656,657,1,93
+232,Revisão elétrica,Carro,Elétrica,888,892,4,37
+233,Alinhamento,Jet Ski,Elétrica,511,514,3,31
+234,Revisão elétrica,Rolo Compressor,Mecânica,199,202,3,74
+235,Revisão elétrica,Quadriciclo,Mecânica,1685,1689,4,100
+236,Alinhamento,Rolo Compressor,Mecânica,493,495,2,12
+237,Revisão de motor,Carro,Mecânica,126,128,2,87
+238,Revisão de motor,Jet Ski,Mecânica,1934,1938,4,59
+239,Alinhamento,Guindaste,Elétrica,217,218,1,58
+240,Revisão de motor,Guindaste,Mecânica,442,446,4,87
+241,Alinhamento,Guindaste,Elétrica,402,406,4,81
+242,Revisão elétrica,Carro,Mecânica,92,94,2,23
+243,Alinhamento,Carro,Mecânica,972,976,4,47
+244,Revisão de motor,Carro,Mecânica,1704,1706,2,79
+245,Revisão de motor,Quadriciclo,Elétrica,144,145,1,85
+246,Alinhamento,Quadriciclo,Mecânica,1850,1852,2,12
+247,Revisão elétrica,Guindaste,Elétrica,591,592,1,15
+248,Alinhamento,Jet Ski,Mecânica,365,368,3,92
+249,Revisão de motor,Jet Ski,Mecânica,870,873,3,61
+250,Revisão elétrica,Carro,Mecânica,907,911,4,46
+251,Revisão de motor,Rolo Compressor,Mecânica,1962,1965,3,29
+252,Alinhamento,Jet Ski,Mecânica,3,6,3,41
+253,Alinhamento,Rolo Compressor,Mecânica,1743,1746,3,93
+254,Revisão de motor,Jet Ski,Mecânica,67,70,3,16
+255,Alinhamento,Carro,Elétrica,1887,1889,2,58
+256,Revisão elétrica,Quadriciclo,Elétrica,180,183,3,51
+257,Revisão elétrica,Guindaste,Elétrica,1667,1669,2,41
+258,Revisão elétrica,Guindaste,Elétrica,1739,1742,3,25
+259,Revisão elétrica,Quadriciclo,Mecânica,157,160,3,68
+260,Revisão elétrica,Carro,Mecânica,1720,1723,3,18
+261,Revisão de motor,Jet Ski,Mecânica,1882,1885,3,16
+262,Alinhamento,Carro,Mecânica,159,161,2,86
+263,Revisão de motor,Carro,Elétrica,942,946,4,57
+264,Alinhamento,Rolo Compressor,Mecânica,522,525,3,24
+265,Revisão elétrica,Guindaste,Elétrica,1980,1983,3,11
+266,Revisão elétrica,Jet Ski,Elétrica,599,602,3,33
+267,Alinhamento,Carro,Mecânica,1774,1778,4,51
+268,Alinhamento,Carro,Mecânica,1180,1184,4,83
+269,Revisão elétrica,Rolo Compressor,Mecânica,1974,1976,2,87
+270,Revisão de motor,Jet Ski,Elétrica,1885,1888,3,23
+271,Alinhamento,Jet Ski,Mecânica,1465,1468,3,26
+272,Alinhamento,Carro,Mecânica,191,192,1,75
+273,Alinhamento,Carro,Mecânica,1423,1425,2,100
+274,Revisão de motor,Rolo Compressor,Mecânica,1045,1046,1,87
+275,Alinhamento,Rolo Compressor,Elétrica,1437,1441,4,26
+276,Revisão de motor,Carro,Mecânica,678,679,1,20
+277,Revisão elétrica,Guindaste,Mecânica,1935,1938,3,27
+278,Revisão elétrica,Quadriciclo,Mecânica,1984,1985,1,69
+279,Revisão de motor,Guindaste,Mecânica,1683,1687,4,98
+280,Revisão de motor,Guindaste,Elétrica,1867,1868,1,15
+281,Revisão de motor,Guindaste,Elétrica,662,665,3,42
+282,Alinhamento,Guindaste,Mecânica,1659,1663,4,67
+283,Revisão elétrica,Carro,Mecânica,0,3,3,11
+284,Alinhamento,Jet Ski,Mecânica,1848,1850,2,37
+285,Revisão elétrica,Carro,Elétrica,498,500,2,94
+286,Revisão de motor,Quadriciclo,Elétrica,631,634,3,68
+287,Alinhamento,Rolo Compressor,Mecânica,672,676,4,100
+288,Revisão de motor,Jet Ski,Elétrica,1547,1551,4,77
+289,Revisão elétrica,Jet Ski,Mecânica,626,630,4,46
+290,Revisão de motor,Quadriciclo,Elétrica,331,332,1,59
+291,Alinhamento,Jet Ski,Mecânica,1193,1194,1,69
+292,Revisão elétrica,Quadriciclo,Elétrica,1216,1218,2,86
+293,Revisão elétrica,Quadriciclo,Elétrica,1217,1220,3,20
+294,Revisão elétrica,Rolo Compressor,Mecânica,275,276,1,87
+295,Revisão de motor,Carro,Mecânica,1768,1769,1,23
+296,Alinhamento,Guindaste,Mecânica,1344,1346,2,57
+297,Alinhamento,Guindaste,Elétrica,96,100,4,51
+298,Alinhamento,Quadriciclo,Elétrica,622,625,3,53
+299,Revisão de motor,Carro,Elétrica,1613,1615,2,35
+300,Alinhamento,Rolo Compressor,Mecânica,1462,1465,3,47
+301,Revisão elétrica,Carro,Mecânica,1520,1522,2,14
+302,Alinhamento,Rolo Compressor,Mecânica,1233,1236,3,26
+303,Alinhamento,Jet Ski,Elétrica,1174,1177,3,66
+304,Revisão elétrica,Jet Ski,Elétrica,1939,1942,3,60
+305,Revisão de motor,Quadriciclo,Mecânica,396,397,1,28
+306,Revisão elétrica,Jet Ski,Elétrica,273,276,3,18
+307,Alinhamento,Guindaste,Elétrica,1129,1130,1,26
+308,Alinhamento,Jet Ski,Elétrica,1358,1359,1,34
+309,Alinhamento,Carro,Elétrica,1654,1656,2,94
+310,Alinhamento,Guindaste,Mecânica,1476,1479,3,67
+311,Alinhamento,Rolo Compressor,Mecânica,1457,1460,3,89
+312,Alinhamento,Quadriciclo,Elétrica,966,970,4,81
+313,Alinhamento,Carro,Mecânica,532,534,2,39
+314,Revisão elétrica,Rolo Compressor,Elétrica,792,794,2,70
+315,Revisão elétrica,Rolo Compressor,Elétrica,1761,1764,3,26
+316,Revisão de motor,Carro,Elétrica,1293,1297,4,35
+317,Alinhamento,Jet Ski,Mecânica,1892,1894,2,33
+318,Alinhamento,Quadriciclo,Elétrica,488,490,2,72
+319,Revisão de motor,Jet Ski,Mecânica,1828,1832,4,13
+320,Revisão de motor,Quadriciclo,Mecânica,1653,1654,1,45
+321,Revisão de motor,Carro,Elétrica,418,421,3,36
+322,Revisão de motor,Quadriciclo,Elétrica,748,750,2,65
+323,Revisão de motor,Carro,Mecânica,1722,1726,4,28
+324,Alinhamento,Guindaste,Mecânica,1696,1698,2,92
+325,Revisão de motor,Carro,Mecânica,1367,1368,1,59
+326,Alinhamento,Guindaste,Elétrica,399,400,1,30
+327,Alinhamento,Carro,Elétrica,1743,1744,1,62
+328,Revisão de motor,Guindaste,Elétrica,250,252,2,61
+329,Alinhamento,Carro,Elétrica,1889,1891,2,24
+330,Revisão de motor,Jet Ski,Elétrica,797,801,4,49
+331,Revisão de motor,Guindaste,Elétrica,38,42,4,34
+332,Revisão de motor,Jet Ski,Mecânica,694,695,1,30
+333,Alinhamento,Carro,Mecânica,1516,1520,4,31
+334,Revisão elétrica,Carro,Mecânica,411,414,3,94
+335,Revisão elétrica,Jet Ski,Mecânica,597,599,2,97
+336,Revisão elétrica,Guindaste,Mecânica,1889,1890,1,83
+337,Alinhamento,Carro,Elétrica,1353,1354,1,67
+338,Revisão de motor,Jet Ski,Mecânica,1246,1249,3,61
+339,Revisão elétrica,Jet Ski,Elétrica,1178,1182,4,56
+340,Revisão elétrica,Carro,Elétrica,799,801,2,21
+341,Revisão elétrica,Carro,Elétrica,394,396,2,44
+342,Alinhamento,Rolo Compressor,Mecânica,1826,1829,3,36
+343,Revisão de motor,Jet Ski,Mecânica,1783,1784,1,72
+344,Alinhamento,Guindaste,Elétrica,1833,1837,4,54
+345,Revisão elétrica,Guindaste,Elétrica,266,267,1,88
+346,Revisão de motor,Jet Ski,Mecânica,1147,1150,3,13
+347,Revisão de motor,Quadriciclo,Mecânica,25,26,1,59
+348,Revisão de motor,Quadriciclo,Mecânica,1050,1052,2,50
+349,Revisão de motor,Carro,Elétrica,1574,1576,2,37
+350,Alinhamento,Carro,Mecânica,476,477,1,56
+351,Alinhamento,Rolo Compressor,Mecânica,263,266,3,37
+352,Revisão elétrica,Rolo Compressor,Elétrica,684,687,3,23
+353,Alinhamento,Quadriciclo,Mecânica,1358,1362,4,85
+354,Revisão elétrica,Guindaste,Elétrica,217,221,4,29
+355,Revisão de motor,Carro,Mecânica,1312,1314,2,78
+356,Revisão elétrica,Carro,Mecânica,1724,1727,3,77
+357,Revisão elétrica,Guindaste,Elétrica,1733,1737,4,48
+358,Revisão elétrica,Jet Ski,Elétrica,1774,1775,1,84
+359,Revisão de motor,Jet Ski,Mecânica,679,682,3,46
+360,Alinhamento,Jet Ski,Mecânica,1877,1879,2,76
+361,Alinhamento,Guindaste,Mecânica,1835,1837,2,10
+362,Revisão de motor,Carro,Elétrica,1703,1705,2,27
+363,Alinhamento,Jet Ski,Elétrica,687,690,3,83
+364,Alinhamento,Quadriciclo,Mecânica,745,747,2,71
+365,Revisão elétrica,Guindaste,Elétrica,1761,1765,4,69
+366,Revisão de motor,Quadriciclo,Mecânica,855,858,3,27
+367,Revisão de motor,Rolo Compressor,Elétrica,1392,1395,3,71
+368,Revisão elétrica,Rolo Compressor,Elétrica,1544,1548,4,66
+369,Revisão elétrica,Guindaste,Elétrica,1575,1577,2,46
+370,Alinhamento,Rolo Compressor,Mecânica,524,527,3,98
+371,Revisão elétrica,Jet Ski,Elétrica,906,908,2,15
+372,Revisão de motor,Guindaste,Mecânica,1051,1054,3,37
+373,Revisão de motor,Quadriciclo,Mecânica,1614,1615,1,16
+374,Alinhamento,Quadriciclo,Mecânica,1921,1925,4,24
+375,Revisão de motor,Guindaste,Mecânica,759,761,2,73
+376,Revisão elétrica,Rolo Compressor,Mecânica,124,125,1,15
+377,Alinhamento,Quadriciclo,Elétrica,1735,1738,3,92
+378,Revisão elétrica,Carro,Elétrica,1929,1931,2,46
+379,Revisão de motor,Guindaste,Mecânica,1607,1611,4,63
+380,Revisão de motor,Guindaste,Mecânica,1922,1923,1,34
+381,Revisão elétrica,Carro,Elétrica,1435,1439,4,54
+382,Revisão de motor,Rolo Compressor,Elétrica,904,905,1,35
+383,Revisão elétrica,Rolo Compressor,Elétrica,1351,1352,1,91
+384,Alinhamento,Carro,Mecânica,124,128,4,89
+385,Alinhamento,Jet Ski,Elétrica,58,62,4,85
+386,Alinhamento,Quadriciclo,Elétrica,1348,1350,2,93
+387,Alinhamento,Guindaste,Elétrica,1022,1025,3,26
+388,Revisão de motor,Guindaste,Mecânica,1142,1146,4,90
+389,Revisão elétrica,Carro,Mecânica,1008,1011,3,22
+390,Revisão de motor,Rolo Compressor,Mecânica,1534,1535,1,54
+391,Revisão de motor,Guindaste,Mecânica,647,650,3,44
+392,Revisão elétrica,Guindaste,Elétrica,1257,1259,2,82
+393,Revisão de motor,Carro,Mecânica,347,351,4,84
+394,Revisão de motor,Guindaste,Mecânica,1241,1245,4,33
+395,Revisão elétrica,Quadriciclo,Elétrica,75,77,2,50
+396,Alinhamento,Rolo Compressor,Elétrica,674,676,2,48
+397,Revisão elétrica,Rolo Compressor,Elétrica,761,763,2,54
+398,Revisão de motor,Jet Ski,Elétrica,1621,1625,4,52
+399,Revisão de motor,Jet Ski,Elétrica,1430,1431,1,76
+400,Revisão de motor,Rolo Compressor,Mecânica,1296,1298,2,13
+401,Revisão elétrica,Guindaste,Elétrica,1315,1319,4,17
+402,Revisão de motor,Rolo Compressor,Mecânica,886,888,2,28
+403,Revisão de motor,Carro,Mecânica,36,39,3,28
+404,Revisão elétrica,Carro,Mecânica,1980,1982,2,49
+405,Alinhamento,Rolo Compressor,Elétrica,1826,1827,1,28
+406,Revisão elétrica,Rolo Compressor,Mecânica,363,365,2,76
+407,Revisão de motor,Guindaste,Elétrica,1165,1169,4,100
+408,Alinhamento,Jet Ski,Elétrica,1401,1403,2,85
+409,Alinhamento,Guindaste,Elétrica,1340,1341,1,10
+410,Alinhamento,Jet Ski,Mecânica,1335,1337,2,30
+411,Alinhamento,Rolo Compressor,Mecânica,685,689,4,54
+412,Alinhamento,Quadriciclo,Mecânica,1128,1129,1,97
+413,Revisão de motor,Guindaste,Elétrica,214,216,2,23
+414,Alinhamento,Carro,Mecânica,879,881,2,70
+415,Alinhamento,Quadriciclo,Mecânica,1207,1208,1,79
+416,Revisão de motor,Quadriciclo,Elétrica,659,661,2,87
+417,Revisão de motor,Quadriciclo,Mecânica,1968,1970,2,32
+418,Alinhamento,Jet Ski,Elétrica,186,187,1,75
+419,Revisão elétrica,Rolo Compressor,Elétrica,1493,1494,1,21
+420,Revisão de motor,Quadriciclo,Mecânica,1923,1927,4,87
+421,Alinhamento,Rolo Compressor,Mecânica,787,791,4,50
+422,Revisão de motor,Rolo Compressor,Mecânica,1337,1339,2,27
+423,Alinhamento,Quadriciclo,Elétrica,1069,1071,2,11
+424,Alinhamento,Jet Ski,Mecânica,1608,1610,2,73
+425,Revisão de motor,Carro,Mecânica,1001,1004,3,70
+426,Alinhamento,Rolo Compressor,Mecânica,988,991,3,92
+427,Revisão de motor,Carro,Mecânica,1552,1555,3,82
+428,Revisão elétrica,Jet Ski,Mecânica,1229,1231,2,31
+429,Alinhamento,Quadriciclo,Elétrica,1073,1077,4,82
+430,Revisão elétrica,Guindaste,Mecânica,1774,1777,3,54
+431,Alinhamento,Quadriciclo,Mecânica,1647,1651,4,86
+432,Revisão elétrica,Guindaste,Elétrica,121,122,1,57
+433,Alinhamento,Guindaste,Mecânica,580,581,1,56
+434,Revisão de motor,Carro,Elétrica,1234,1236,2,20
+435,Alinhamento,Carro,Mecânica,1756,1757,1,86
+436,Alinhamento,Jet Ski,Elétrica,1937,1939,2,23
+437,Revisão de motor,Carro,Elétrica,1961,1965,4,40
+438,Revisão elétrica,Guindaste,Mecânica,303,307,4,46
+439,Revisão de motor,Quadriciclo,Elétrica,2,4,2,76
+440,Revisão elétrica,Rolo Compressor,Mecânica,1546,1549,3,76
+441,Revisão de motor,Carro,Elétrica,869,870,1,16
+442,Alinhamento,Quadriciclo,Elétrica,364,366,2,39
+443,Revisão de motor,Carro,Elétrica,1442,1445,3,63
+444,Revisão de motor,Jet Ski,Elétrica,1395,1398,3,27
+445,Alinhamento,Rolo Compressor,Elétrica,334,338,4,83
+446,Alinhamento,Quadriciclo,Mecânica,546,550,4,21
+447,Revisão de motor,Guindaste,Mecânica,984,988,4,21
+448,Alinhamento,Quadriciclo,Elétrica,832,835,3,84
+449,Revisão elétrica,Carro,Elétrica,1917,1921,4,14
+450,Revisão elétrica,Rolo Compressor,Elétrica,497,501,4,70
+451,Revisão de motor,Quadriciclo,Mecânica,1657,1661,4,81
+452,Revisão de motor,Quadriciclo,Elétrica,1617,1619,2,65
+453,Revisão elétrica,Guindaste,Mecânica,992,996,4,57
+454,Revisão de motor,Rolo Compressor,Mecânica,1660,1664,4,87
+455,Revisão elétrica,Jet Ski,Mecânica,1422,1425,3,42
+456,Revisão elétrica,Carro,Mecânica,1019,1022,3,69
+457,Alinhamento,Quadriciclo,Elétrica,614,617,3,64
+458,Alinhamento,Quadriciclo,Mecânica,1519,1522,3,19
+459,Revisão elétrica,Jet Ski,Mecânica,30,34,4,65
+460,Revisão elétrica,Carro,Mecânica,1719,1720,1,14
+461,Revisão elétrica,Carro,Elétrica,1262,1263,1,40
+462,Alinhamento,Rolo Compressor,Elétrica,1600,1604,4,37
+463,Revisão elétrica,Carro,Elétrica,1897,1899,2,97
+464,Alinhamento,Carro,Elétrica,655,659,4,95
+465,Revisão elétrica,Jet Ski,Elétrica,1538,1539,1,95
+466,Revisão de motor,Rolo Compressor,Elétrica,951,952,1,96
+467,Revisão elétrica,Rolo Compressor,Mecânica,1991,1992,1,31
+468,Alinhamento,Carro,Mecânica,762,764,2,92
+469,Revisão de motor,Carro,Mecânica,271,274,3,11
+470,Alinhamento,Guindaste,Elétrica,1366,1369,3,56
+471,Revisão elétrica,Jet Ski,Mecânica,1457,1459,2,84
+472,Alinhamento,Carro,Mecânica,1223,1226,3,76
+473,Revisão de motor,Guindaste,Elétrica,542,545,3,39
+474,Alinhamento,Rolo Compressor,Elétrica,1551,1555,4,33
+475,Alinhamento,Carro,Mecânica,1644,1647,3,95
+476,Revisão elétrica,Carro,Mecânica,1461,1463,2,40
+477,Alinhamento,Guindaste,Elétrica,1927,1928,1,60
+478,Revisão elétrica,Carro,Elétrica,561,563,2,94
+479,Revisão de motor,Quadriciclo,Mecânica,857,859,2,93
+480,Revisão de motor,Guindaste,Elétrica,1635,1639,4,27
+481,Revisão de motor,Carro,Mecânica,1189,1190,1,49
+482,Alinhamento,Rolo Compressor,Elétrica,1163,1166,3,94
+483,Revisão elétrica,Carro,Mecânica,1905,1909,4,84
+484,Alinhamento,Rolo Compressor,Mecânica,468,472,4,50
+485,Revisão de motor,Jet Ski,Mecânica,934,935,1,10
+486,Revisão de motor,Rolo Compressor,Elétrica,955,956,1,13
+487,Alinhamento,Jet Ski,Mecânica,1120,1123,3,42
+488,Revisão de motor,Carro,Mecânica,461,462,1,47
+489,Revisão elétrica,Jet Ski,Elétrica,304,308,4,24
+490,Revisão elétrica,Quadriciclo,Elétrica,41,45,4,17
+491,Alinhamento,Jet Ski,Elétrica,1626,1627,1,45
+492,Revisão elétrica,Rolo Compressor,Mecânica,384,388,4,55
+493,Revisão de motor,Jet Ski,Mecânica,73,76,3,85
+494,Revisão de motor,Rolo Compressor,Elétrica,997,1000,3,56
+495,Alinhamento,Guindaste,Mecânica,1517,1518,1,54
+496,Alinhamento,Quadriciclo,Elétrica,1960,1961,1,11
+497,Revisão elétrica,Carro,Mecânica,1449,1452,3,89
+498,Alinhamento,Quadriciclo,Mecânica,750,754,4,71
+499,Alinhamento,Guindaste,Elétrica,1504,1505,1,93
+500,Alinhamento,Rolo Compressor,Elétrica,1761,1764,3,82

@@ -4,7 +4,7 @@
 
 Este repositório contém a implementação de **Heurísticas Construtivas**, **Busca Local** e a **Meta-heurística GRASP (Greedy Randomized Adaptive Search Procedure)** aplicadas ao **Problema de Sequenciamento de Ordens de Manutenção Preventiva de Longo Prazo (PPOMPLP)**.
 
-O trabalho propõe e implementa abordagens heurísticas e meta-heurísticas para o PPOMPLP, que consiste em determinar a melhor sequência e alocação de atividades de manutenção entre as equipes disponíveis, ao longo de um horizonte de tempo predefinido. O objetivo é **reduzir o número de ordens não executadas** e **minimizar os custos relacionados à mão de obra e às penalidades** associadas à não execução das manutenções.
+O trabalho propõe e implementa abordagens heurísticas e meta-heurísticas para o PPOMPLP, que consiste em determinar a melhor sequência e alocação de atividades de manutenção entre as equipes disponíveis, ao longo de um horizonte de tempo predefinido. O objetivo é **reduzir o número de ordens não executadas** e **minimizar os custos relacionados à mão de obra e às penalidades** associadas a não execução das manutenções.
 
 O modelo matemático e a metodologia são detalhados no artigo de referência:
 > **Heurísticas Construtivas, de Busca Local e Meta-heurística GRASP Aplicadas Ao Problema de Sequenciamento de Ordens de Manutenção Preventiva de Longo Prazo**
@@ -75,16 +75,22 @@ O script `main.py` é o ponto de entrada principal para a execução das meta-he
 **Exemplo de Execução:**
 
 ```bash
-python main.py --equipes="instancias/caso_3/equipes.csv" --ordem="instancias/caso_3/ordens.csv" --seed="10" --arquivo="caso_3" --tipo_heuristica="simples"
+python main.py --equipes="instancias/caso_6/equipes.csv"
+--ordem="instancias/caso_6/ordens.csv"
+--arquivo="caso_6"
+--tipo_heuristica="parcialmente_gulosa"
+--tipo_movimento="shift"
+--seed=10
 ```
 
-| Argumento | Descrição | Valores Possíveis (Exemplos) |
-| :--- | :--- | :--- |
-| `--equipes` | Caminho para o arquivo CSV com os dados das equipes. | `instancias/caso_3/equipes.csv` |
-| `--ordem` | Caminho para o arquivo CSV com os dados das ordens de manutenção. | `instancias/caso_3/ordens.csv` |
-| `--seed` | Semente para o gerador de números pseudoaleatórios (para reprodutibilidade). | `10`, `42`, etc. |
-| `--arquivo` | Nome base para os arquivos de saída (resultados). | `caso_3` |
-| `--tipo_heuristica` | Tipo de heurística a ser executada. | `simples`, `parcialmente_gulosa`, etc. |
+| Argumento           | Descrição                                                                    | Valores Possíveis (Exemplos)           |
+|:--------------------|:-----------------------------------------------------------------------------|:---------------------------------------|
+| `--equipes`         | Caminho para o arquivo CSV com os dados das equipes.                         | `instancias/caso_3/equipes.csv`        |
+| `--ordem`           | Caminho para o arquivo CSV com os dados das ordens de manutenção.            | `instancias/caso_3/ordens.csv`         |
+| `--seed`            | Semente para o gerador de números pseudoaleatórios (para reprodutibilidade). | `10`, `42`, etc.                       |
+| `--arquivo`         | Nome base para os arquivos de saída (resultados).                            | `caso_3`                               |
+| `--tipo_heuristica` | Tipo de heurística a ser executada.                                          | `simples`, `parcialmente_gulosa`, etc. |
+| `--tipo_movimento`  | Tipo de movimento a ser executado.                                           | `shift`, `swap`, etc.                  |
 
 #### Execução de Geração de Soluções (via `gerar_solucoes.py`)
 
@@ -101,9 +107,9 @@ Consulte o arquivo `args.py` para a lista completa de opções e parâmetros dis
 ## ✅ Status do Projeto
 
 - ![status](https://img.shields.io/badge/Heurísticas_Construtivas-OK-success)
-- ![status](https://img.shields.io/badge/Busca_Local-Não_Implementado-critical)
+- ![status](https://img.shields.io/badge/Busca_Local-OK-success)
 - ![status](https://img.shields.io/badge/GRASP-Não_Implementado-critical)
-- ![status](https://img.shields.io/badge/Testes_Instâncias-Não_Realizado-critical)
+- ![status](https://img.shields.io/badge/Testes_Instâncias-OK-success)
 - ![status](https://img.shields.io/badge/Documentação_Completa-Não_Realizado-critical)
 
 ---

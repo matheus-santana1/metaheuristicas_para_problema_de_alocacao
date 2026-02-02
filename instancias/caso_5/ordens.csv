@@ -1,0 +1,1501 @@
+id,tarefa,equipamento,especialidade,inicio,fim,duracao,penalidade
+1,Alinhamento,Betoneira,Mecânica,3094,3098,4,53
+2,Revisão elétrica,Pá Carregadeira,Mecânica,1211,1212,1,96
+3,Revisão de motor,Caminhão,Mecânica,2465,2467,2,56
+4,Revisão elétrica,Betoneira,Mecânica,3680,3683,3,23
+5,Revisão elétrica,Betoneira,Elétrica,313,316,3,37
+6,Revisão elétrica,Pá Carregadeira,Elétrica,4037,4039,2,66
+7,Revisão de motor,Pá Carregadeira,Mecânica,2312,2314,2,99
+8,Revisão de motor,Trator,Elétrica,408,410,2,79
+9,Alinhamento,Ônibus,Mecânica,4133,4137,4,22
+10,Revisão elétrica,Barco,Elétrica,470,474,4,33
+11,Alinhamento,Trator,Mecânica,2984,2988,4,20
+12,Revisão de motor,Ônibus,Mecânica,1098,1102,4,92
+13,Alinhamento,Betoneira,Elétrica,4504,4506,2,44
+14,Revisão de motor,Caminhão,Mecânica,1515,1519,4,24
+15,Revisão elétrica,Trator,Mecânica,1864,1868,4,54
+16,Revisão elétrica,Van,Elétrica,3382,3385,3,50
+17,Revisão de motor,Jet Ski,Mecânica,4081,4083,2,26
+18,Revisão elétrica,Barco,Elétrica,1539,1542,3,70
+19,Revisão de motor,Caminhão,Elétrica,2126,2127,1,11
+20,Revisão de motor,Van,Mecânica,304,305,1,94
+21,Revisão elétrica,Betoneira,Mecânica,420,423,3,23
+22,Revisão de motor,Caminhão,Mecânica,1298,1301,3,71
+23,Alinhamento,Ônibus,Elétrica,1874,1878,4,83
+24,Alinhamento,Bicicleta,Elétrica,486,489,3,59
+25,Revisão elétrica,Ônibus,Mecânica,2957,2960,3,37
+26,Revisão de motor,Helicóptero,Mecânica,4928,4932,4,23
+27,Alinhamento,Barco,Mecânica,4683,4686,3,73
+28,Alinhamento,Jet Ski,Mecânica,4085,4089,4,34
+29,Revisão de motor,Trator,Mecânica,4707,4710,3,75
+30,Revisão de motor,Trator,Elétrica,344,348,4,97
+31,Alinhamento,Jet Ski,Elétrica,1999,2001,2,38
+32,Revisão elétrica,Pá Carregadeira,Mecânica,4739,4741,2,61
+33,Alinhamento,Bicicleta,Mecânica,5914,5917,3,36
+34,Alinhamento,Trator,Mecânica,4857,4858,1,50
+35,Alinhamento,Caminhão,Mecânica,1419,1421,2,75
+36,Revisão de motor,Bicicleta,Mecânica,1140,1142,2,51
+37,Revisão de motor,Betoneira,Mecânica,4453,4456,3,11
+38,Alinhamento,Barco,Elétrica,3974,3976,2,17
+39,Revisão elétrica,Helicóptero,Elétrica,3161,3163,2,64
+40,Revisão elétrica,Ônibus,Mecânica,4523,4524,1,23
+41,Revisão de motor,Helicóptero,Elétrica,2307,2310,3,66
+42,Revisão de motor,Helicóptero,Mecânica,5914,5917,3,64
+43,Revisão de motor,Caminhão,Mecânica,5985,5986,1,60
+44,Revisão elétrica,Trator,Mecânica,2353,2354,1,10
+45,Revisão elétrica,Van,Mecânica,1027,1029,2,40
+46,Revisão elétrica,Trator,Elétrica,15,17,2,44
+47,Revisão elétrica,Caminhão,Elétrica,2237,2239,2,87
+48,Revisão elétrica,Van,Mecânica,5037,5040,3,99
+49,Alinhamento,Van,Elétrica,1556,1557,1,40
+50,Alinhamento,Pá Carregadeira,Elétrica,4139,4140,1,81
+51,Revisão de motor,Barco,Elétrica,5658,5659,1,11
+52,Revisão de motor,Barco,Elétrica,1311,1312,1,22
+53,Revisão de motor,Van,Mecânica,2218,2222,4,19
+54,Revisão elétrica,Bicicleta,Mecânica,805,806,1,62
+55,Revisão elétrica,Jet Ski,Elétrica,1264,1266,2,40
+56,Revisão elétrica,Bicicleta,Mecânica,1575,1576,1,18
+57,Revisão de motor,Helicóptero,Mecânica,3851,3855,4,80
+58,Alinhamento,Helicóptero,Elétrica,4205,4208,3,80
+59,Alinhamento,Helicóptero,Mecânica,3709,3711,2,71
+60,Revisão elétrica,Caminhão,Mecânica,3030,3034,4,84
+61,Alinhamento,Helicóptero,Mecânica,784,788,4,53
+62,Revisão elétrica,Pá Carregadeira,Elétrica,480,482,2,88
+63,Alinhamento,Barco,Elétrica,618,620,2,74
+64,Alinhamento,Ônibus,Mecânica,493,495,2,62
+65,Alinhamento,Jet Ski,Mecânica,5479,5483,4,68
+66,Revisão de motor,Van,Mecânica,5849,5850,1,70
+67,Revisão de motor,Betoneira,Elétrica,1944,1947,3,68
+68,Alinhamento,Bicicleta,Mecânica,3727,3731,4,39
+69,Revisão elétrica,Caminhão,Elétrica,5221,5222,1,45
+70,Alinhamento,Pá Carregadeira,Mecânica,4662,4664,2,41
+71,Revisão elétrica,Ônibus,Mecânica,3449,3451,2,27
+72,Alinhamento,Bicicleta,Elétrica,5359,5363,4,98
+73,Revisão elétrica,Helicóptero,Mecânica,3638,3641,3,89
+74,Revisão de motor,Helicóptero,Elétrica,4362,4366,4,31
+75,Revisão elétrica,Ônibus,Elétrica,2853,2857,4,61
+76,Revisão de motor,Bicicleta,Mecânica,612,613,1,77
+77,Revisão elétrica,Van,Mecânica,4416,4419,3,30
+78,Alinhamento,Ônibus,Elétrica,1904,1908,4,35
+79,Revisão de motor,Betoneira,Mecânica,5852,5855,3,40
+80,Revisão de motor,Bicicleta,Mecânica,2572,2575,3,39
+81,Revisão elétrica,Trator,Mecânica,4778,4782,4,80
+82,Revisão elétrica,Barco,Elétrica,5530,5532,2,81
+83,Revisão de motor,Ônibus,Elétrica,3339,3343,4,34
+84,Revisão elétrica,Bicicleta,Mecânica,2390,2392,2,32
+85,Revisão elétrica,Bicicleta,Elétrica,1965,1969,4,25
+86,Revisão de motor,Van,Elétrica,5768,5771,3,60
+87,Revisão elétrica,Helicóptero,Mecânica,2175,2178,3,67
+88,Alinhamento,Caminhão,Mecânica,5336,5337,1,73
+89,Revisão de motor,Ônibus,Elétrica,2156,2160,4,48
+90,Revisão elétrica,Caminhão,Mecânica,2009,2010,1,84
+91,Revisão de motor,Caminhão,Mecânica,2765,2769,4,90
+92,Revisão de motor,Ônibus,Elétrica,1179,1182,3,20
+93,Revisão de motor,Barco,Elétrica,5166,5168,2,46
+94,Revisão elétrica,Betoneira,Elétrica,2009,2012,3,23
+95,Revisão elétrica,Helicóptero,Mecânica,882,885,3,77
+96,Revisão de motor,Caminhão,Elétrica,3696,3697,1,54
+97,Revisão elétrica,Bicicleta,Elétrica,3600,3604,4,89
+98,Revisão de motor,Caminhão,Elétrica,2726,2729,3,95
+99,Alinhamento,Caminhão,Mecânica,5292,5296,4,66
+100,Revisão elétrica,Van,Mecânica,2386,2389,3,63
+101,Revisão de motor,Barco,Mecânica,5840,5844,4,94
+102,Alinhamento,Jet Ski,Mecânica,1998,2002,4,51
+103,Revisão elétrica,Bicicleta,Mecânica,5443,5447,4,23
+104,Revisão elétrica,Caminhão,Elétrica,350,351,1,31
+105,Alinhamento,Ônibus,Elétrica,4340,4344,4,55
+106,Revisão de motor,Van,Mecânica,1170,1173,3,24
+107,Revisão elétrica,Ônibus,Mecânica,2365,2367,2,32
+108,Alinhamento,Jet Ski,Mecânica,2849,2850,1,44
+109,Revisão de motor,Van,Mecânica,1658,1661,3,78
+110,Alinhamento,Betoneira,Elétrica,1631,1634,3,42
+111,Revisão de motor,Helicóptero,Mecânica,606,607,1,26
+112,Revisão elétrica,Van,Elétrica,644,647,3,76
+113,Revisão de motor,Betoneira,Mecânica,3275,3276,1,59
+114,Alinhamento,Caminhão,Elétrica,147,148,1,47
+115,Revisão elétrica,Jet Ski,Mecânica,525,528,3,56
+116,Revisão de motor,Bicicleta,Elétrica,4961,4965,4,66
+117,Revisão elétrica,Van,Elétrica,532,535,3,54
+118,Alinhamento,Betoneira,Elétrica,3,4,1,17
+119,Revisão de motor,Betoneira,Elétrica,1765,1766,1,64
+120,Revisão elétrica,Van,Mecânica,5128,5130,2,61
+121,Alinhamento,Caminhão,Mecânica,4942,4944,2,90
+122,Revisão elétrica,Betoneira,Mecânica,347,350,3,83
+123,Revisão elétrica,Jet Ski,Elétrica,5339,5340,1,46
+124,Alinhamento,Helicóptero,Mecânica,4142,4145,3,26
+125,Revisão elétrica,Pá Carregadeira,Elétrica,5469,5470,1,40
+126,Revisão elétrica,Ônibus,Elétrica,1460,1463,3,25
+127,Alinhamento,Barco,Elétrica,3699,3701,2,51
+128,Alinhamento,Bicicleta,Mecânica,5845,5847,2,70
+129,Alinhamento,Van,Elétrica,1124,1128,4,97
+130,Revisão de motor,Bicicleta,Mecânica,3682,3684,2,93
+131,Revisão elétrica,Ônibus,Elétrica,953,957,4,40
+132,Revisão elétrica,Bicicleta,Mecânica,5477,5478,1,43
+133,Revisão elétrica,Bicicleta,Elétrica,1889,1890,1,16
+134,Alinhamento,Bicicleta,Elétrica,2263,2265,2,12
+135,Alinhamento,Helicóptero,Elétrica,2291,2294,3,73
+136,Alinhamento,Pá Carregadeira,Mecânica,4483,4487,4,26
+137,Revisão de motor,Bicicleta,Mecânica,3311,3314,3,83
+138,Revisão de motor,Ônibus,Elétrica,5552,5553,1,18
+139,Revisão de motor,Caminhão,Elétrica,2207,2210,3,25
+140,Alinhamento,Van,Mecânica,1618,1619,1,46
+141,Revisão elétrica,Caminhão,Elétrica,1739,1740,1,100
+142,Revisão de motor,Pá Carregadeira,Elétrica,3320,3322,2,57
+143,Alinhamento,Pá Carregadeira,Mecânica,383,387,4,89
+144,Revisão elétrica,Betoneira,Elétrica,3956,3960,4,27
+145,Alinhamento,Pá Carregadeira,Mecânica,2979,2982,3,37
+146,Revisão elétrica,Pá Carregadeira,Elétrica,3411,3413,2,47
+147,Alinhamento,Ônibus,Elétrica,573,577,4,41
+148,Alinhamento,Barco,Mecânica,3343,3344,1,30
+149,Revisão elétrica,Barco,Elétrica,2346,2347,1,25
+150,Revisão elétrica,Jet Ski,Mecânica,4793,4796,3,45
+151,Revisão elétrica,Betoneira,Elétrica,5768,5769,1,28
+152,Alinhamento,Betoneira,Elétrica,3290,3293,3,29
+153,Revisão elétrica,Caminhão,Mecânica,2790,2794,4,74
+154,Revisão elétrica,Betoneira,Mecânica,2106,2107,1,60
+155,Revisão elétrica,Jet Ski,Mecânica,4072,4076,4,22
+156,Revisão de motor,Ônibus,Mecânica,2317,2321,4,90
+157,Revisão elétrica,Ônibus,Elétrica,2333,2337,4,95
+158,Revisão elétrica,Van,Mecânica,2152,2156,4,93
+159,Revisão elétrica,Jet Ski,Elétrica,2379,2381,2,59
+160,Revisão de motor,Barco,Elétrica,2349,2352,3,69
+161,Revisão elétrica,Ônibus,Mecânica,2553,2555,2,48
+162,Revisão de motor,Van,Elétrica,1176,1180,4,20
+163,Revisão elétrica,Van,Elétrica,715,718,3,16
+164,Revisão de motor,Bicicleta,Mecânica,5523,5525,2,36
+165,Alinhamento,Barco,Elétrica,1563,1565,2,62
+166,Alinhamento,Helicóptero,Elétrica,3870,3874,4,10
+167,Revisão elétrica,Bicicleta,Elétrica,2847,2851,4,65
+168,Revisão elétrica,Ônibus,Elétrica,548,551,3,77
+169,Alinhamento,Helicóptero,Elétrica,2914,2915,1,84
+170,Alinhamento,Ônibus,Mecânica,114,118,4,57
+171,Revisão de motor,Trator,Mecânica,1315,1316,1,17
+172,Alinhamento,Bicicleta,Mecânica,266,268,2,72
+173,Revisão de motor,Trator,Elétrica,259,261,2,46
+174,Alinhamento,Caminhão,Mecânica,2882,2883,1,61
+175,Revisão de motor,Jet Ski,Elétrica,3388,3389,1,76
+176,Revisão elétrica,Trator,Elétrica,3913,3917,4,83
+177,Revisão de motor,Caminhão,Mecânica,309,313,4,83
+178,Revisão elétrica,Caminhão,Elétrica,5341,5345,4,15
+179,Revisão elétrica,Van,Elétrica,440,443,3,32
+180,Revisão de motor,Van,Mecânica,1713,1714,1,90
+181,Revisão elétrica,Betoneira,Elétrica,1056,1058,2,52
+182,Revisão elétrica,Van,Elétrica,3994,3995,1,49
+183,Alinhamento,Caminhão,Mecânica,3142,3143,1,73
+184,Revisão elétrica,Caminhão,Mecânica,5589,5590,1,50
+185,Revisão de motor,Helicóptero,Elétrica,395,397,2,36
+186,Revisão elétrica,Pá Carregadeira,Mecânica,1577,1580,3,13
+187,Revisão elétrica,Betoneira,Mecânica,2896,2897,1,82
+188,Revisão elétrica,Trator,Elétrica,4961,4964,3,10
+189,Revisão de motor,Jet Ski,Elétrica,894,895,1,89
+190,Revisão de motor,Betoneira,Elétrica,974,977,3,34
+191,Alinhamento,Caminhão,Mecânica,1887,1889,2,75
+192,Revisão elétrica,Ônibus,Mecânica,5587,5589,2,67
+193,Alinhamento,Helicóptero,Elétrica,4247,4251,4,65
+194,Alinhamento,Jet Ski,Mecânica,1909,1912,3,85
+195,Alinhamento,Pá Carregadeira,Elétrica,4569,4572,3,61
+196,Revisão elétrica,Bicicleta,Mecânica,3560,3564,4,62
+197,Alinhamento,Jet Ski,Mecânica,1229,1231,2,13
+198,Revisão de motor,Betoneira,Mecânica,5055,5058,3,80
+199,Alinhamento,Caminhão,Mecânica,2826,2830,4,57
+200,Alinhamento,Betoneira,Elétrica,192,196,4,54
+201,Revisão elétrica,Caminhão,Elétrica,3282,3286,4,67
+202,Revisão elétrica,Caminhão,Mecânica,714,718,4,17
+203,Revisão elétrica,Betoneira,Mecânica,2878,2881,3,30
+204,Alinhamento,Jet Ski,Mecânica,3123,3126,3,58
+205,Revisão de motor,Helicóptero,Mecânica,4784,4786,2,14
+206,Revisão elétrica,Betoneira,Mecânica,1120,1123,3,38
+207,Revisão de motor,Van,Elétrica,1408,1411,3,21
+208,Alinhamento,Trator,Mecânica,14,15,1,54
+209,Revisão de motor,Barco,Elétrica,4400,4402,2,53
+210,Revisão elétrica,Betoneira,Elétrica,3652,3656,4,29
+211,Revisão de motor,Barco,Mecânica,124,125,1,23
+212,Revisão elétrica,Trator,Elétrica,3064,3068,4,93
+213,Revisão elétrica,Barco,Elétrica,3855,3858,3,67
+214,Revisão de motor,Jet Ski,Elétrica,3323,3324,1,90
+215,Alinhamento,Caminhão,Mecânica,1665,1667,2,77
+216,Alinhamento,Pá Carregadeira,Elétrica,5081,5083,2,78
+217,Revisão de motor,Helicóptero,Elétrica,389,390,1,73
+218,Alinhamento,Caminhão,Elétrica,565,566,1,72
+219,Revisão de motor,Jet Ski,Mecânica,2360,2364,4,44
+220,Revisão elétrica,Ônibus,Elétrica,2393,2397,4,25
+221,Revisão de motor,Trator,Elétrica,3390,3391,1,22
+222,Alinhamento,Van,Elétrica,954,956,2,33
+223,Revisão elétrica,Ônibus,Mecânica,3980,3983,3,70
+224,Revisão de motor,Pá Carregadeira,Elétrica,4155,4158,3,75
+225,Revisão de motor,Jet Ski,Mecânica,3281,3283,2,48
+226,Alinhamento,Bicicleta,Mecânica,2305,2308,3,33
+227,Revisão de motor,Pá Carregadeira,Elétrica,415,419,4,86
+228,Alinhamento,Betoneira,Mecânica,3020,3024,4,88
+229,Revisão de motor,Betoneira,Elétrica,2432,2433,1,15
+230,Revisão de motor,Bicicleta,Elétrica,1965,1968,3,18
+231,Alinhamento,Bicicleta,Elétrica,2017,2020,3,78
+232,Alinhamento,Trator,Elétrica,4540,4542,2,76
+233,Revisão elétrica,Caminhão,Elétrica,3418,3420,2,41
+234,Revisão elétrica,Trator,Mecânica,9,12,3,42
+235,Revisão elétrica,Trator,Elétrica,812,813,1,61
+236,Alinhamento,Barco,Mecânica,5479,5483,4,31
+237,Revisão de motor,Trator,Mecânica,1158,1159,1,30
+238,Alinhamento,Jet Ski,Mecânica,646,649,3,97
+239,Revisão elétrica,Trator,Elétrica,2673,2674,1,13
+240,Alinhamento,Helicóptero,Elétrica,1735,1737,2,69
+241,Revisão de motor,Helicóptero,Elétrica,472,473,1,32
+242,Revisão de motor,Helicóptero,Mecânica,3842,3843,1,94
+243,Revisão de motor,Betoneira,Elétrica,5576,5580,4,23
+244,Revisão elétrica,Betoneira,Elétrica,4624,4627,3,25
+245,Revisão elétrica,Betoneira,Elétrica,3161,3162,1,10
+246,Revisão elétrica,Trator,Mecânica,2722,2723,1,32
+247,Revisão de motor,Betoneira,Mecânica,4040,4041,1,62
+248,Alinhamento,Jet Ski,Elétrica,3842,3843,1,59
+249,Alinhamento,Bicicleta,Mecânica,5461,5462,1,41
+250,Alinhamento,Betoneira,Elétrica,1828,1831,3,11
+251,Revisão elétrica,Van,Mecânica,2066,2067,1,27
+252,Revisão de motor,Van,Elétrica,1937,1940,3,96
+253,Alinhamento,Helicóptero,Elétrica,583,584,1,25
+254,Revisão elétrica,Pá Carregadeira,Elétrica,4661,4663,2,44
+255,Revisão de motor,Bicicleta,Mecânica,5592,5593,1,18
+256,Revisão elétrica,Betoneira,Mecânica,3987,3991,4,77
+257,Revisão de motor,Pá Carregadeira,Elétrica,540,544,4,28
+258,Revisão de motor,Trator,Mecânica,3594,3597,3,48
+259,Revisão elétrica,Ônibus,Mecânica,822,823,1,10
+260,Revisão de motor,Van,Elétrica,3028,3029,1,75
+261,Alinhamento,Ônibus,Elétrica,3987,3989,2,23
+262,Alinhamento,Van,Elétrica,2337,2338,1,66
+263,Revisão de motor,Caminhão,Elétrica,4651,4654,3,94
+264,Revisão elétrica,Jet Ski,Mecânica,1431,1435,4,77
+265,Revisão elétrica,Helicóptero,Mecânica,58,61,3,10
+266,Alinhamento,Caminhão,Elétrica,3344,3346,2,59
+267,Alinhamento,Van,Mecânica,701,702,1,63
+268,Alinhamento,Van,Elétrica,1868,1871,3,75
+269,Alinhamento,Pá Carregadeira,Mecânica,5577,5579,2,20
+270,Revisão de motor,Trator,Mecânica,1689,1691,2,88
+271,Revisão de motor,Trator,Mecânica,2395,2397,2,33
+272,Revisão de motor,Helicóptero,Mecânica,4426,4430,4,84
+273,Revisão de motor,Barco,Mecânica,3886,3887,1,77
+274,Revisão elétrica,Trator,Elétrica,644,648,4,69
+275,Revisão elétrica,Bicicleta,Mecânica,4717,4718,1,69
+276,Revisão elétrica,Barco,Mecânica,3762,3765,3,51
+277,Alinhamento,Van,Mecânica,2238,2241,3,61
+278,Alinhamento,Caminhão,Elétrica,4681,4683,2,71
+279,Alinhamento,Barco,Mecânica,2600,2602,2,65
+280,Revisão de motor,Betoneira,Mecânica,5388,5391,3,72
+281,Revisão elétrica,Ônibus,Elétrica,1272,1273,1,28
+282,Revisão elétrica,Caminhão,Mecânica,2194,2198,4,99
+283,Revisão elétrica,Ônibus,Elétrica,2524,2525,1,70
+284,Revisão elétrica,Bicicleta,Mecânica,827,830,3,13
+285,Alinhamento,Ônibus,Mecânica,514,517,3,58
+286,Revisão elétrica,Bicicleta,Elétrica,3958,3961,3,18
+287,Revisão elétrica,Barco,Mecânica,1964,1968,4,30
+288,Revisão elétrica,Bicicleta,Elétrica,170,173,3,57
+289,Revisão de motor,Caminhão,Elétrica,2551,2553,2,65
+290,Revisão de motor,Van,Mecânica,5503,5505,2,82
+291,Revisão elétrica,Trator,Mecânica,3365,3369,4,66
+292,Alinhamento,Barco,Mecânica,1110,1111,1,57
+293,Alinhamento,Jet Ski,Mecânica,796,797,1,98
+294,Alinhamento,Van,Mecânica,4618,4621,3,83
+295,Revisão elétrica,Caminhão,Elétrica,2547,2548,1,53
+296,Revisão de motor,Ônibus,Mecânica,5428,5430,2,86
+297,Revisão elétrica,Jet Ski,Elétrica,2208,2209,1,44
+298,Revisão elétrica,Pá Carregadeira,Mecânica,1454,1456,2,56
+299,Alinhamento,Ônibus,Mecânica,4704,4706,2,25
+300,Revisão de motor,Ônibus,Mecânica,303,304,1,72
+301,Revisão elétrica,Van,Elétrica,4947,4948,1,28
+302,Revisão de motor,Helicóptero,Mecânica,3882,3886,4,22
+303,Revisão elétrica,Van,Mecânica,4312,4314,2,44
+304,Alinhamento,Van,Elétrica,5045,5048,3,42
+305,Revisão de motor,Ônibus,Mecânica,5412,5414,2,66
+306,Revisão de motor,Barco,Mecânica,847,849,2,75
+307,Revisão elétrica,Ônibus,Mecânica,83,86,3,18
+308,Alinhamento,Jet Ski,Elétrica,1371,1372,1,80
+309,Revisão elétrica,Barco,Mecânica,1468,1469,1,51
+310,Alinhamento,Van,Mecânica,3869,3873,4,87
+311,Revisão elétrica,Helicóptero,Mecânica,1061,1062,1,29
+312,Alinhamento,Caminhão,Elétrica,2506,2508,2,46
+313,Alinhamento,Van,Elétrica,4738,4740,2,58
+314,Revisão elétrica,Helicóptero,Mecânica,4393,4396,3,63
+315,Revisão elétrica,Van,Elétrica,882,884,2,86
+316,Revisão de motor,Bicicleta,Mecânica,5527,5530,3,96
+317,Alinhamento,Helicóptero,Elétrica,1431,1432,1,32
+318,Revisão de motor,Van,Elétrica,2100,2102,2,62
+319,Revisão elétrica,Ônibus,Mecânica,4449,4452,3,79
+320,Revisão elétrica,Van,Mecânica,5497,5499,2,81
+321,Revisão de motor,Ônibus,Elétrica,1501,1505,4,76
+322,Revisão de motor,Ônibus,Mecânica,2924,2927,3,27
+323,Revisão de motor,Bicicleta,Elétrica,2064,2067,3,20
+324,Revisão elétrica,Jet Ski,Elétrica,4700,4702,2,12
+325,Alinhamento,Van,Mecânica,4001,4004,3,54
+326,Alinhamento,Betoneira,Mecânica,921,924,3,32
+327,Alinhamento,Ônibus,Elétrica,2962,2963,1,17
+328,Revisão de motor,Pá Carregadeira,Mecânica,611,615,4,95
+329,Revisão de motor,Caminhão,Mecânica,741,743,2,10
+330,Revisão de motor,Bicicleta,Elétrica,4017,4018,1,66
+331,Alinhamento,Caminhão,Elétrica,4828,4829,1,47
+332,Alinhamento,Bicicleta,Mecânica,4938,4941,3,17
+333,Alinhamento,Caminhão,Elétrica,847,848,1,67
+334,Revisão elétrica,Pá Carregadeira,Mecânica,4830,4831,1,74
+335,Revisão elétrica,Caminhão,Elétrica,1339,1342,3,97
+336,Revisão elétrica,Pá Carregadeira,Mecânica,565,567,2,95
+337,Alinhamento,Trator,Mecânica,2931,2933,2,92
+338,Alinhamento,Bicicleta,Mecânica,5093,5097,4,50
+339,Alinhamento,Jet Ski,Mecânica,5519,5520,1,82
+340,Alinhamento,Helicóptero,Mecânica,5114,5115,1,33
+341,Revisão elétrica,Betoneira,Elétrica,5658,5662,4,73
+342,Alinhamento,Van,Elétrica,5139,5140,1,44
+343,Revisão elétrica,Ônibus,Mecânica,5032,5035,3,39
+344,Revisão elétrica,Jet Ski,Elétrica,1218,1220,2,42
+345,Revisão elétrica,Jet Ski,Elétrica,3055,3058,3,83
+346,Revisão de motor,Van,Mecânica,2020,2023,3,37
+347,Revisão de motor,Pá Carregadeira,Elétrica,3790,3794,4,68
+348,Alinhamento,Van,Mecânica,5345,5349,4,56
+349,Revisão elétrica,Bicicleta,Elétrica,3376,3377,1,87
+350,Alinhamento,Helicóptero,Mecânica,4999,5001,2,47
+351,Revisão de motor,Helicóptero,Elétrica,4157,4158,1,100
+352,Revisão de motor,Van,Mecânica,2966,2968,2,60
+353,Alinhamento,Betoneira,Elétrica,2425,2429,4,17
+354,Revisão de motor,Pá Carregadeira,Elétrica,2766,2767,1,13
+355,Revisão de motor,Pá Carregadeira,Mecânica,5837,5838,1,80
+356,Revisão elétrica,Helicóptero,Mecânica,582,583,1,88
+357,Revisão elétrica,Bicicleta,Mecânica,5143,5144,1,64
+358,Alinhamento,Jet Ski,Mecânica,676,679,3,10
+359,Revisão elétrica,Helicóptero,Elétrica,1704,1708,4,19
+360,Revisão de motor,Jet Ski,Elétrica,2180,2181,1,52
+361,Alinhamento,Jet Ski,Elétrica,2265,2266,1,28
+362,Revisão elétrica,Pá Carregadeira,Elétrica,5914,5916,2,25
+363,Alinhamento,Jet Ski,Mecânica,1416,1419,3,61
+364,Alinhamento,Pá Carregadeira,Elétrica,1288,1289,1,67
+365,Revisão elétrica,Van,Mecânica,3610,3613,3,61
+366,Revisão elétrica,Jet Ski,Elétrica,982,986,4,70
+367,Alinhamento,Caminhão,Mecânica,3271,3272,1,25
+368,Alinhamento,Pá Carregadeira,Mecânica,2613,2617,4,11
+369,Revisão elétrica,Caminhão,Elétrica,2199,2202,3,27
+370,Alinhamento,Caminhão,Elétrica,4856,4858,2,92
+371,Revisão de motor,Bicicleta,Mecânica,3337,3338,1,10
+372,Revisão de motor,Pá Carregadeira,Elétrica,4755,4758,3,96
+373,Revisão de motor,Pá Carregadeira,Elétrica,114,115,1,44
+374,Revisão de motor,Bicicleta,Elétrica,3980,3984,4,91
+375,Alinhamento,Van,Mecânica,1071,1073,2,13
+376,Alinhamento,Pá Carregadeira,Elétrica,3447,3449,2,90
+377,Alinhamento,Helicóptero,Elétrica,1061,1064,3,46
+378,Revisão de motor,Barco,Elétrica,362,365,3,83
+379,Revisão elétrica,Caminhão,Elétrica,3722,3725,3,75
+380,Alinhamento,Ônibus,Elétrica,5931,5933,2,32
+381,Revisão de motor,Jet Ski,Elétrica,473,475,2,18
+382,Revisão de motor,Caminhão,Mecânica,611,615,4,56
+383,Alinhamento,Helicóptero,Elétrica,5889,5891,2,17
+384,Revisão elétrica,Betoneira,Mecânica,1282,1284,2,11
+385,Revisão elétrica,Pá Carregadeira,Elétrica,5905,5906,1,46
+386,Revisão elétrica,Jet Ski,Mecânica,2633,2637,4,25
+387,Alinhamento,Pá Carregadeira,Mecânica,5730,5732,2,73
+388,Revisão elétrica,Van,Mecânica,5243,5245,2,72
+389,Alinhamento,Van,Elétrica,6,7,1,56
+390,Revisão de motor,Van,Elétrica,1351,1354,3,89
+391,Revisão de motor,Ônibus,Elétrica,1534,1538,4,30
+392,Revisão de motor,Bicicleta,Elétrica,3866,3870,4,92
+393,Revisão elétrica,Pá Carregadeira,Mecânica,888,892,4,57
+394,Revisão de motor,Pá Carregadeira,Mecânica,4115,4117,2,63
+395,Revisão de motor,Pá Carregadeira,Mecânica,5395,5396,1,63
+396,Revisão de motor,Pá Carregadeira,Elétrica,3281,3284,3,99
+397,Alinhamento,Caminhão,Elétrica,4771,4773,2,96
+398,Alinhamento,Pá Carregadeira,Mecânica,601,603,2,82
+399,Revisão de motor,Bicicleta,Elétrica,1791,1793,2,57
+400,Revisão de motor,Jet Ski,Elétrica,4028,4031,3,62
+401,Alinhamento,Barco,Mecânica,5526,5530,4,86
+402,Revisão elétrica,Caminhão,Mecânica,1289,1290,1,17
+403,Alinhamento,Jet Ski,Elétrica,4289,4290,1,73
+404,Revisão elétrica,Trator,Mecânica,1117,1118,1,95
+405,Revisão de motor,Pá Carregadeira,Elétrica,3670,3674,4,71
+406,Revisão de motor,Van,Mecânica,1027,1030,3,25
+407,Revisão elétrica,Jet Ski,Mecânica,125,128,3,49
+408,Alinhamento,Betoneira,Mecânica,36,40,4,93
+409,Revisão de motor,Trator,Elétrica,1669,1670,1,93
+410,Revisão de motor,Jet Ski,Mecânica,2475,2476,1,17
+411,Alinhamento,Pá Carregadeira,Elétrica,648,649,1,27
+412,Revisão elétrica,Barco,Mecânica,459,463,4,43
+413,Revisão de motor,Caminhão,Mecânica,5175,5178,3,17
+414,Revisão de motor,Trator,Mecânica,1862,1863,1,69
+415,Alinhamento,Betoneira,Mecânica,3479,3481,2,28
+416,Revisão de motor,Helicóptero,Mecânica,2026,2027,1,65
+417,Revisão de motor,Betoneira,Mecânica,3591,3595,4,16
+418,Revisão de motor,Van,Mecânica,4211,4214,3,37
+419,Alinhamento,Caminhão,Elétrica,3446,3449,3,57
+420,Revisão de motor,Betoneira,Mecânica,5904,5906,2,93
+421,Revisão elétrica,Bicicleta,Mecânica,482,486,4,94
+422,Alinhamento,Pá Carregadeira,Elétrica,2145,2149,4,93
+423,Revisão elétrica,Ônibus,Elétrica,685,687,2,58
+424,Alinhamento,Trator,Elétrica,4784,4786,2,67
+425,Alinhamento,Trator,Elétrica,972,974,2,100
+426,Alinhamento,Betoneira,Elétrica,1923,1926,3,82
+427,Revisão de motor,Van,Mecânica,373,375,2,91
+428,Alinhamento,Bicicleta,Elétrica,327,331,4,93
+429,Revisão elétrica,Bicicleta,Mecânica,3671,3672,1,37
+430,Alinhamento,Barco,Elétrica,2861,2865,4,59
+431,Revisão de motor,Van,Mecânica,3528,3529,1,53
+432,Revisão de motor,Jet Ski,Mecânica,3059,3060,1,52
+433,Revisão de motor,Bicicleta,Mecânica,1879,1881,2,100
+434,Alinhamento,Betoneira,Mecânica,3797,3799,2,89
+435,Alinhamento,Trator,Elétrica,1297,1301,4,85
+436,Revisão elétrica,Bicicleta,Mecânica,5997,5998,1,81
+437,Alinhamento,Jet Ski,Elétrica,1714,1718,4,15
+438,Alinhamento,Betoneira,Mecânica,4261,4265,4,27
+439,Revisão elétrica,Ônibus,Elétrica,3166,3168,2,39
+440,Revisão de motor,Ônibus,Elétrica,5280,5281,1,55
+441,Alinhamento,Helicóptero,Mecânica,3421,3425,4,17
+442,Revisão de motor,Jet Ski,Mecânica,4403,4407,4,22
+443,Revisão de motor,Van,Elétrica,5007,5011,4,10
+444,Revisão elétrica,Betoneira,Mecânica,4206,4209,3,23
+445,Revisão elétrica,Jet Ski,Mecânica,3959,3963,4,38
+446,Revisão elétrica,Caminhão,Elétrica,820,821,1,35
+447,Alinhamento,Van,Elétrica,5652,5654,2,91
+448,Revisão elétrica,Pá Carregadeira,Mecânica,5301,5305,4,80
+449,Alinhamento,Betoneira,Mecânica,1024,1027,3,39
+450,Alinhamento,Betoneira,Elétrica,2857,2859,2,84
+451,Revisão elétrica,Caminhão,Elétrica,1329,1332,3,29
+452,Alinhamento,Caminhão,Elétrica,2963,2964,1,57
+453,Alinhamento,Ônibus,Elétrica,3495,3499,4,58
+454,Revisão elétrica,Ônibus,Elétrica,4147,4151,4,63
+455,Revisão elétrica,Jet Ski,Mecânica,977,981,4,28
+456,Revisão de motor,Helicóptero,Elétrica,279,283,4,97
+457,Alinhamento,Betoneira,Mecânica,37,38,1,31
+458,Revisão de motor,Trator,Elétrica,5898,5900,2,64
+459,Revisão elétrica,Van,Elétrica,1578,1581,3,76
+460,Revisão elétrica,Jet Ski,Mecânica,5434,5438,4,92
+461,Alinhamento,Caminhão,Mecânica,5752,5753,1,13
+462,Alinhamento,Jet Ski,Elétrica,3479,3481,2,14
+463,Revisão elétrica,Pá Carregadeira,Mecânica,2023,2026,3,18
+464,Alinhamento,Bicicleta,Mecânica,2948,2952,4,46
+465,Revisão elétrica,Pá Carregadeira,Mecânica,1084,1086,2,49
+466,Alinhamento,Jet Ski,Elétrica,315,318,3,27
+467,Alinhamento,Ônibus,Elétrica,987,991,4,22
+468,Alinhamento,Jet Ski,Elétrica,3041,3043,2,20
+469,Revisão de motor,Ônibus,Mecânica,5315,5316,1,53
+470,Alinhamento,Van,Mecânica,5528,5529,1,70
+471,Revisão elétrica,Trator,Elétrica,1509,1512,3,26
+472,Revisão de motor,Jet Ski,Elétrica,3671,3673,2,25
+473,Revisão de motor,Helicóptero,Elétrica,5379,5382,3,45
+474,Revisão de motor,Betoneira,Elétrica,3726,3727,1,21
+475,Alinhamento,Caminhão,Elétrica,3458,3461,3,55
+476,Alinhamento,Caminhão,Mecânica,3334,3337,3,59
+477,Alinhamento,Trator,Mecânica,2034,2037,3,25
+478,Alinhamento,Caminhão,Elétrica,2356,2360,4,21
+479,Alinhamento,Betoneira,Elétrica,4936,4937,1,66
+480,Alinhamento,Helicóptero,Elétrica,3985,3986,1,18
+481,Revisão de motor,Jet Ski,Mecânica,4249,4253,4,62
+482,Revisão elétrica,Barco,Elétrica,37,39,2,64
+483,Revisão elétrica,Jet Ski,Elétrica,2889,2892,3,99
+484,Revisão elétrica,Van,Mecânica,4198,4202,4,81
+485,Revisão elétrica,Betoneira,Elétrica,390,393,3,68
+486,Revisão elétrica,Helicóptero,Elétrica,1985,1989,4,73
+487,Revisão de motor,Helicóptero,Elétrica,1892,1895,3,13
+488,Revisão de motor,Caminhão,Mecânica,706,710,4,99
+489,Revisão elétrica,Betoneira,Elétrica,1147,1149,2,13
+490,Revisão de motor,Van,Mecânica,212,213,1,48
+491,Revisão elétrica,Jet Ski,Elétrica,5425,5428,3,51
+492,Revisão de motor,Pá Carregadeira,Mecânica,765,767,2,71
+493,Revisão elétrica,Jet Ski,Mecânica,3666,3668,2,85
+494,Revisão de motor,Barco,Mecânica,4814,4817,3,15
+495,Alinhamento,Jet Ski,Mecânica,2438,2442,4,56
+496,Alinhamento,Helicóptero,Elétrica,5885,5889,4,35
+497,Revisão elétrica,Helicóptero,Mecânica,4760,4764,4,39
+498,Revisão de motor,Jet Ski,Mecânica,4640,4643,3,33
+499,Revisão de motor,Van,Elétrica,1411,1412,1,59
+500,Revisão elétrica,Helicóptero,Elétrica,1541,1542,1,26
+501,Alinhamento,Bicicleta,Mecânica,3268,3272,4,55
+502,Revisão de motor,Barco,Elétrica,4835,4836,1,10
+503,Revisão de motor,Betoneira,Elétrica,1463,1466,3,13
+504,Alinhamento,Ônibus,Mecânica,5894,5896,2,34
+505,Revisão elétrica,Pá Carregadeira,Elétrica,5673,5677,4,25
+506,Revisão elétrica,Barco,Elétrica,1359,1360,1,70
+507,Revisão elétrica,Van,Elétrica,1021,1023,2,29
+508,Revisão elétrica,Bicicleta,Mecânica,4075,4077,2,18
+509,Alinhamento,Trator,Mecânica,4716,4720,4,31
+510,Revisão de motor,Helicóptero,Elétrica,4258,4261,3,68
+511,Revisão de motor,Pá Carregadeira,Mecânica,3827,3830,3,29
+512,Revisão de motor,Barco,Mecânica,1809,1812,3,63
+513,Alinhamento,Pá Carregadeira,Mecânica,4240,4243,3,16
+514,Revisão de motor,Pá Carregadeira,Mecânica,5514,5516,2,27
+515,Revisão de motor,Ônibus,Mecânica,2988,2989,1,73
+516,Alinhamento,Bicicleta,Mecânica,233,236,3,69
+517,Alinhamento,Trator,Elétrica,2839,2842,3,11
+518,Revisão de motor,Trator,Elétrica,3812,3816,4,38
+519,Revisão de motor,Betoneira,Elétrica,3947,3948,1,75
+520,Alinhamento,Helicóptero,Elétrica,5764,5766,2,10
+521,Revisão de motor,Ônibus,Mecânica,510,511,1,53
+522,Revisão de motor,Bicicleta,Mecânica,5213,5215,2,74
+523,Revisão elétrica,Bicicleta,Elétrica,5830,5834,4,71
+524,Revisão de motor,Helicóptero,Mecânica,619,622,3,33
+525,Revisão elétrica,Ônibus,Mecânica,4582,4584,2,25
+526,Alinhamento,Van,Elétrica,4371,4372,1,27
+527,Revisão elétrica,Jet Ski,Mecânica,3065,3067,2,86
+528,Revisão elétrica,Bicicleta,Mecânica,4131,4134,3,46
+529,Alinhamento,Caminhão,Elétrica,2570,2572,2,88
+530,Revisão de motor,Barco,Mecânica,2456,2460,4,55
+531,Revisão de motor,Bicicleta,Elétrica,1888,1892,4,51
+532,Revisão de motor,Jet Ski,Elétrica,4119,4123,4,39
+533,Alinhamento,Jet Ski,Mecânica,1719,1720,1,57
+534,Revisão de motor,Van,Mecânica,3865,3868,3,66
+535,Revisão de motor,Caminhão,Elétrica,4224,4227,3,88
+536,Revisão de motor,Caminhão,Mecânica,393,395,2,67
+537,Alinhamento,Caminhão,Elétrica,3172,3176,4,93
+538,Revisão elétrica,Ônibus,Mecânica,5991,5993,2,93
+539,Revisão elétrica,Helicóptero,Elétrica,1936,1939,3,36
+540,Revisão de motor,Barco,Mecânica,2372,2375,3,92
+541,Revisão de motor,Jet Ski,Elétrica,5304,5308,4,43
+542,Alinhamento,Van,Mecânica,4508,4512,4,96
+543,Revisão elétrica,Ônibus,Elétrica,2649,2653,4,41
+544,Revisão de motor,Pá Carregadeira,Mecânica,5716,5720,4,46
+545,Revisão de motor,Pá Carregadeira,Elétrica,4456,4458,2,78
+546,Alinhamento,Pá Carregadeira,Mecânica,1847,1849,2,13
+547,Revisão de motor,Jet Ski,Elétrica,5247,5251,4,37
+548,Revisão elétrica,Jet Ski,Mecânica,1318,1320,2,75
+549,Revisão de motor,Barco,Mecânica,4387,4391,4,30
+550,Revisão de motor,Betoneira,Elétrica,5915,5918,3,15
+551,Revisão de motor,Betoneira,Mecânica,4207,4208,1,97
+552,Revisão de motor,Pá Carregadeira,Mecânica,4832,4833,1,90
+553,Alinhamento,Barco,Elétrica,5408,5410,2,89
+554,Revisão de motor,Helicóptero,Elétrica,4487,4488,1,91
+555,Revisão elétrica,Caminhão,Mecânica,3925,3926,1,74
+556,Revisão de motor,Ônibus,Elétrica,3003,3006,3,40
+557,Revisão elétrica,Bicicleta,Mecânica,2202,2203,1,11
+558,Revisão elétrica,Betoneira,Elétrica,2809,2812,3,56
+559,Revisão elétrica,Caminhão,Mecânica,5915,5918,3,19
+560,Alinhamento,Helicóptero,Mecânica,2699,2703,4,48
+561,Revisão elétrica,Bicicleta,Elétrica,3979,3983,4,41
+562,Revisão de motor,Van,Mecânica,5215,5217,2,61
+563,Alinhamento,Ônibus,Elétrica,246,249,3,31
+564,Revisão elétrica,Helicóptero,Elétrica,2644,2648,4,58
+565,Revisão de motor,Van,Mecânica,1915,1918,3,19
+566,Revisão de motor,Betoneira,Elétrica,1165,1169,4,29
+567,Revisão de motor,Helicóptero,Mecânica,5687,5689,2,26
+568,Revisão de motor,Caminhão,Mecânica,4123,4124,1,51
+569,Revisão elétrica,Barco,Mecânica,1385,1389,4,47
+570,Revisão elétrica,Ônibus,Mecânica,1769,1772,3,79
+571,Revisão de motor,Jet Ski,Mecânica,1845,1847,2,36
+572,Revisão elétrica,Betoneira,Mecânica,47,49,2,77
+573,Revisão elétrica,Betoneira,Mecânica,2161,2163,2,17
+574,Alinhamento,Jet Ski,Mecânica,3653,3655,2,89
+575,Revisão elétrica,Helicóptero,Mecânica,5183,5187,4,93
+576,Revisão elétrica,Bicicleta,Mecânica,4961,4963,2,47
+577,Alinhamento,Trator,Mecânica,2598,2602,4,26
+578,Alinhamento,Van,Elétrica,2351,2355,4,65
+579,Revisão de motor,Betoneira,Elétrica,3681,3683,2,13
+580,Revisão de motor,Pá Carregadeira,Elétrica,2042,2046,4,89
+581,Alinhamento,Trator,Mecânica,2495,2499,4,89
+582,Revisão elétrica,Betoneira,Mecânica,2359,2363,4,69
+583,Revisão elétrica,Trator,Mecânica,956,960,4,65
+584,Alinhamento,Caminhão,Elétrica,4604,4606,2,76
+585,Alinhamento,Barco,Elétrica,5949,5950,1,26
+586,Alinhamento,Ônibus,Mecânica,1811,1815,4,42
+587,Revisão elétrica,Helicóptero,Elétrica,2580,2582,2,56
+588,Revisão elétrica,Barco,Mecânica,1183,1187,4,57
+589,Revisão de motor,Jet Ski,Mecânica,335,339,4,76
+590,Alinhamento,Ônibus,Mecânica,1048,1051,3,71
+591,Revisão elétrica,Trator,Mecânica,2817,2820,3,42
+592,Alinhamento,Caminhão,Mecânica,3541,3543,2,57
+593,Revisão de motor,Ônibus,Mecânica,450,452,2,95
+594,Revisão de motor,Trator,Elétrica,2057,2059,2,82
+595,Alinhamento,Ônibus,Mecânica,2309,2313,4,56
+596,Alinhamento,Jet Ski,Mecânica,5854,5858,4,65
+597,Alinhamento,Jet Ski,Elétrica,3794,3796,2,87
+598,Revisão de motor,Caminhão,Mecânica,744,746,2,27
+599,Revisão elétrica,Trator,Elétrica,5856,5859,3,96
+600,Revisão elétrica,Caminhão,Elétrica,954,957,3,89
+601,Revisão de motor,Barco,Mecânica,2311,2314,3,35
+602,Revisão de motor,Ônibus,Elétrica,4626,4627,1,13
+603,Revisão de motor,Ônibus,Mecânica,4589,4590,1,94
+604,Revisão de motor,Trator,Mecânica,1472,1473,1,61
+605,Alinhamento,Barco,Mecânica,2768,2770,2,52
+606,Revisão de motor,Ônibus,Mecânica,4875,4879,4,43
+607,Revisão elétrica,Betoneira,Mecânica,5834,5838,4,61
+608,Revisão de motor,Ônibus,Mecânica,2227,2230,3,54
+609,Revisão de motor,Trator,Elétrica,1440,1444,4,63
+610,Alinhamento,Trator,Mecânica,1845,1847,2,50
+611,Alinhamento,Barco,Elétrica,3720,3721,1,74
+612,Alinhamento,Trator,Elétrica,5264,5267,3,66
+613,Revisão de motor,Barco,Elétrica,3821,3823,2,35
+614,Revisão de motor,Van,Mecânica,4451,4452,1,28
+615,Alinhamento,Van,Mecânica,2601,2604,3,58
+616,Revisão de motor,Trator,Mecânica,1,4,3,89
+617,Revisão elétrica,Jet Ski,Elétrica,3078,3082,4,78
+618,Revisão de motor,Trator,Mecânica,967,969,2,50
+619,Revisão de motor,Bicicleta,Elétrica,1394,1396,2,32
+620,Revisão elétrica,Jet Ski,Elétrica,1314,1316,2,70
+621,Alinhamento,Barco,Mecânica,312,315,3,74
+622,Revisão de motor,Ônibus,Elétrica,5887,5888,1,90
+623,Revisão de motor,Barco,Elétrica,1559,1563,4,14
+624,Revisão de motor,Trator,Elétrica,5303,5307,4,98
+625,Alinhamento,Bicicleta,Mecânica,4827,4829,2,92
+626,Revisão elétrica,Caminhão,Mecânica,2274,2275,1,11
+627,Revisão elétrica,Pá Carregadeira,Elétrica,143,145,2,28
+628,Revisão de motor,Pá Carregadeira,Elétrica,94,96,2,10
+629,Revisão de motor,Pá Carregadeira,Elétrica,5969,5971,2,36
+630,Revisão elétrica,Pá Carregadeira,Elétrica,4306,4309,3,44
+631,Revisão elétrica,Trator,Elétrica,2363,2364,1,50
+632,Alinhamento,Caminhão,Mecânica,1544,1546,2,79
+633,Revisão de motor,Ônibus,Mecânica,2351,2355,4,49
+634,Revisão elétrica,Barco,Elétrica,1819,1822,3,64
+635,Revisão de motor,Bicicleta,Mecânica,287,290,3,80
+636,Revisão de motor,Bicicleta,Mecânica,1674,1677,3,63
+637,Revisão de motor,Van,Mecânica,4407,4411,4,45
+638,Revisão de motor,Helicóptero,Mecânica,4013,4017,4,19
+639,Alinhamento,Barco,Elétrica,3228,3231,3,51
+640,Alinhamento,Van,Mecânica,5237,5239,2,81
+641,Alinhamento,Ônibus,Elétrica,2223,2227,4,73
+642,Revisão elétrica,Pá Carregadeira,Elétrica,1432,1435,3,33
+643,Alinhamento,Helicóptero,Mecânica,68,70,2,99
+644,Alinhamento,Barco,Mecânica,1014,1015,1,54
+645,Revisão elétrica,Bicicleta,Elétrica,1218,1219,1,30
+646,Revisão elétrica,Van,Elétrica,1745,1749,4,24
+647,Revisão de motor,Helicóptero,Mecânica,1924,1927,3,95
+648,Alinhamento,Ônibus,Elétrica,4925,4927,2,51
+649,Revisão de motor,Van,Mecânica,1397,1401,4,46
+650,Revisão de motor,Pá Carregadeira,Elétrica,4534,4536,2,47
+651,Alinhamento,Jet Ski,Mecânica,5954,5955,1,41
+652,Alinhamento,Pá Carregadeira,Elétrica,1062,1066,4,33
+653,Revisão de motor,Trator,Mecânica,5179,5183,4,79
+654,Alinhamento,Trator,Elétrica,3849,3851,2,14
+655,Revisão de motor,Pá Carregadeira,Mecânica,204,208,4,80
+656,Revisão de motor,Caminhão,Elétrica,2647,2648,1,18
+657,Revisão de motor,Jet Ski,Mecânica,3639,3643,4,94
+658,Alinhamento,Bicicleta,Mecânica,3664,3667,3,51
+659,Revisão de motor,Pá Carregadeira,Elétrica,1540,1542,2,27
+660,Revisão elétrica,Van,Mecânica,4214,4215,1,19
+661,Alinhamento,Bicicleta,Mecânica,4985,4989,4,19
+662,Revisão de motor,Trator,Mecânica,2605,2609,4,12
+663,Alinhamento,Van,Mecânica,2757,2760,3,48
+664,Alinhamento,Bicicleta,Elétrica,2692,2694,2,46
+665,Revisão de motor,Jet Ski,Mecânica,3847,3850,3,53
+666,Revisão elétrica,Van,Mecânica,4438,4439,1,36
+667,Revisão de motor,Helicóptero,Elétrica,3272,3273,1,72
+668,Revisão de motor,Pá Carregadeira,Mecânica,2648,2651,3,24
+669,Revisão elétrica,Pá Carregadeira,Mecânica,5657,5661,4,16
+670,Alinhamento,Bicicleta,Mecânica,4761,4764,3,79
+671,Revisão de motor,Bicicleta,Elétrica,795,798,3,35
+672,Alinhamento,Pá Carregadeira,Elétrica,508,510,2,44
+673,Revisão elétrica,Helicóptero,Elétrica,2083,2085,2,62
+674,Revisão de motor,Caminhão,Elétrica,4574,4575,1,30
+675,Revisão elétrica,Ônibus,Elétrica,3061,3065,4,28
+676,Revisão elétrica,Betoneira,Mecânica,3572,3575,3,50
+677,Revisão elétrica,Van,Mecânica,4846,4848,2,82
+678,Revisão de motor,Caminhão,Elétrica,2917,2921,4,67
+679,Alinhamento,Betoneira,Mecânica,2246,2249,3,46
+680,Revisão elétrica,Bicicleta,Mecânica,5695,5698,3,28
+681,Revisão elétrica,Barco,Mecânica,1112,1113,1,58
+682,Revisão elétrica,Trator,Elétrica,1947,1948,1,14
+683,Revisão elétrica,Pá Carregadeira,Mecânica,2238,2240,2,71
+684,Revisão de motor,Betoneira,Elétrica,1668,1669,1,92
+685,Revisão de motor,Caminhão,Mecânica,3186,3188,2,21
+686,Alinhamento,Bicicleta,Mecânica,86,89,3,24
+687,Revisão de motor,Pá Carregadeira,Elétrica,4343,4345,2,77
+688,Revisão de motor,Jet Ski,Mecânica,3371,3374,3,98
+689,Alinhamento,Van,Elétrica,1960,1964,4,96
+690,Revisão de motor,Bicicleta,Elétrica,3041,3042,1,51
+691,Revisão elétrica,Pá Carregadeira,Mecânica,4581,4583,2,36
+692,Revisão de motor,Helicóptero,Mecânica,3265,3269,4,95
+693,Alinhamento,Bicicleta,Mecânica,3068,3072,4,11
+694,Revisão de motor,Betoneira,Mecânica,1290,1293,3,87
+695,Revisão elétrica,Caminhão,Elétrica,4600,4602,2,94
+696,Alinhamento,Helicóptero,Elétrica,1175,1177,2,16
+697,Alinhamento,Bicicleta,Mecânica,686,687,1,20
+698,Alinhamento,Betoneira,Mecânica,1367,1369,2,75
+699,Revisão elétrica,Barco,Elétrica,1834,1836,2,22
+700,Revisão elétrica,Bicicleta,Elétrica,5302,5306,4,61
+701,Revisão de motor,Betoneira,Elétrica,5126,5130,4,96
+702,Revisão elétrica,Van,Mecânica,3045,3047,2,74
+703,Revisão de motor,Bicicleta,Elétrica,2340,2341,1,85
+704,Alinhamento,Barco,Elétrica,27,30,3,89
+705,Alinhamento,Van,Mecânica,2828,2832,4,48
+706,Revisão de motor,Betoneira,Elétrica,2257,2261,4,87
+707,Alinhamento,Van,Mecânica,273,275,2,83
+708,Alinhamento,Bicicleta,Elétrica,2339,2342,3,71
+709,Alinhamento,Van,Elétrica,5668,5672,4,39
+710,Revisão elétrica,Barco,Mecânica,2345,2348,3,54
+711,Revisão de motor,Van,Elétrica,1779,1780,1,84
+712,Alinhamento,Ônibus,Mecânica,1361,1364,3,70
+713,Alinhamento,Caminhão,Elétrica,488,490,2,37
+714,Revisão elétrica,Van,Mecânica,5709,5712,3,26
+715,Alinhamento,Trator,Elétrica,78,81,3,28
+716,Revisão de motor,Pá Carregadeira,Elétrica,435,438,3,29
+717,Alinhamento,Helicóptero,Mecânica,1,4,3,57
+718,Revisão elétrica,Ônibus,Mecânica,2986,2988,2,77
+719,Revisão elétrica,Barco,Elétrica,384,386,2,21
+720,Alinhamento,Helicóptero,Elétrica,3350,3352,2,11
+721,Alinhamento,Caminhão,Elétrica,5720,5724,4,89
+722,Revisão elétrica,Caminhão,Elétrica,1541,1543,2,61
+723,Alinhamento,Jet Ski,Elétrica,382,383,1,48
+724,Revisão de motor,Helicóptero,Mecânica,2523,2527,4,91
+725,Alinhamento,Bicicleta,Mecânica,1225,1228,3,14
+726,Revisão de motor,Jet Ski,Mecânica,1735,1736,1,70
+727,Revisão elétrica,Barco,Elétrica,229,230,1,40
+728,Alinhamento,Betoneira,Mecânica,5228,5230,2,43
+729,Revisão de motor,Barco,Elétrica,3442,3444,2,73
+730,Revisão de motor,Caminhão,Elétrica,4853,4854,1,51
+731,Revisão elétrica,Ônibus,Elétrica,428,430,2,94
+732,Revisão de motor,Ônibus,Elétrica,3578,3582,4,27
+733,Revisão elétrica,Pá Carregadeira,Mecânica,46,47,1,83
+734,Revisão elétrica,Ônibus,Elétrica,2601,2605,4,15
+735,Revisão elétrica,Bicicleta,Mecânica,2763,2765,2,82
+736,Revisão de motor,Van,Elétrica,1577,1580,3,35
+737,Revisão de motor,Trator,Mecânica,993,994,1,28
+738,Revisão elétrica,Ônibus,Elétrica,4859,4860,1,52
+739,Revisão de motor,Van,Elétrica,1119,1120,1,33
+740,Alinhamento,Trator,Mecânica,3744,3747,3,20
+741,Revisão elétrica,Trator,Elétrica,2166,2170,4,95
+742,Revisão elétrica,Trator,Mecânica,5881,5882,1,16
+743,Revisão elétrica,Jet Ski,Elétrica,3692,3693,1,99
+744,Revisão elétrica,Jet Ski,Mecânica,1625,1628,3,74
+745,Revisão elétrica,Van,Elétrica,4411,4414,3,76
+746,Revisão de motor,Caminhão,Mecânica,5657,5658,1,56
+747,Alinhamento,Bicicleta,Mecânica,4583,4584,1,39
+748,Revisão de motor,Van,Mecânica,5131,5132,1,74
+749,Revisão elétrica,Betoneira,Elétrica,1850,1851,1,10
+750,Revisão de motor,Bicicleta,Elétrica,4278,4282,4,60
+751,Alinhamento,Ônibus,Mecânica,256,258,2,73
+752,Alinhamento,Caminhão,Elétrica,2557,2558,1,77
+753,Alinhamento,Barco,Mecânica,219,222,3,85
+754,Alinhamento,Trator,Mecânica,2746,2749,3,79
+755,Revisão elétrica,Barco,Mecânica,5559,5563,4,86
+756,Revisão de motor,Pá Carregadeira,Mecânica,3522,3523,1,31
+757,Alinhamento,Van,Elétrica,143,145,2,47
+758,Alinhamento,Jet Ski,Elétrica,5204,5208,4,97
+759,Revisão elétrica,Betoneira,Mecânica,4659,4663,4,57
+760,Revisão elétrica,Ônibus,Elétrica,1156,1158,2,98
+761,Alinhamento,Trator,Elétrica,41,44,3,38
+762,Revisão elétrica,Betoneira,Mecânica,2580,2583,3,20
+763,Alinhamento,Caminhão,Elétrica,2982,2986,4,24
+764,Alinhamento,Pá Carregadeira,Elétrica,3185,3187,2,86
+765,Revisão de motor,Trator,Mecânica,2087,2089,2,98
+766,Alinhamento,Pá Carregadeira,Elétrica,2473,2474,1,30
+767,Revisão de motor,Barco,Mecânica,3791,3792,1,72
+768,Alinhamento,Betoneira,Elétrica,4756,4757,1,88
+769,Revisão elétrica,Ônibus,Elétrica,2022,2024,2,11
+770,Revisão elétrica,Caminhão,Elétrica,964,968,4,70
+771,Alinhamento,Jet Ski,Mecânica,2063,2065,2,84
+772,Revisão de motor,Trator,Elétrica,5929,5930,1,95
+773,Revisão de motor,Bicicleta,Mecânica,4345,4348,3,46
+774,Revisão de motor,Helicóptero,Elétrica,1352,1353,1,55
+775,Alinhamento,Ônibus,Elétrica,2213,2215,2,54
+776,Revisão de motor,Trator,Elétrica,2036,2040,4,15
+777,Revisão elétrica,Trator,Mecânica,5933,5937,4,61
+778,Alinhamento,Pá Carregadeira,Elétrica,4685,4688,3,20
+779,Alinhamento,Trator,Elétrica,4366,4370,4,19
+780,Alinhamento,Caminhão,Elétrica,1850,1854,4,32
+781,Revisão elétrica,Bicicleta,Elétrica,4900,4903,3,84
+782,Revisão elétrica,Van,Mecânica,4051,4055,4,12
+783,Alinhamento,Barco,Elétrica,71,72,1,77
+784,Revisão elétrica,Van,Elétrica,4546,4550,4,36
+785,Alinhamento,Pá Carregadeira,Elétrica,2579,2582,3,24
+786,Revisão elétrica,Helicóptero,Elétrica,3633,3637,4,17
+787,Revisão elétrica,Trator,Mecânica,1449,1450,1,10
+788,Revisão de motor,Barco,Elétrica,4988,4989,1,65
+789,Revisão elétrica,Bicicleta,Mecânica,2546,2547,1,49
+790,Revisão elétrica,Van,Mecânica,4813,4817,4,70
+791,Revisão elétrica,Ônibus,Elétrica,3952,3956,4,39
+792,Revisão de motor,Jet Ski,Mecânica,2089,2092,3,87
+793,Alinhamento,Barco,Mecânica,4802,4804,2,49
+794,Alinhamento,Helicóptero,Elétrica,577,581,4,19
+795,Revisão de motor,Ônibus,Elétrica,2542,2545,3,70
+796,Alinhamento,Trator,Mecânica,5049,5052,3,89
+797,Alinhamento,Jet Ski,Mecânica,5617,5618,1,68
+798,Revisão elétrica,Caminhão,Mecânica,2115,2118,3,52
+799,Revisão de motor,Betoneira,Elétrica,886,887,1,79
+800,Revisão de motor,Pá Carregadeira,Mecânica,2844,2845,1,42
+801,Revisão elétrica,Bicicleta,Mecânica,1226,1227,1,16
+802,Revisão de motor,Van,Mecânica,4069,4072,3,82
+803,Revisão de motor,Ônibus,Mecânica,2203,2206,3,44
+804,Revisão elétrica,Barco,Mecânica,2519,2520,1,74
+805,Revisão de motor,Barco,Elétrica,1976,1977,1,82
+806,Revisão elétrica,Helicóptero,Elétrica,4678,4679,1,70
+807,Alinhamento,Betoneira,Elétrica,5896,5898,2,98
+808,Revisão elétrica,Jet Ski,Mecânica,50,51,1,59
+809,Revisão de motor,Trator,Mecânica,4787,4790,3,87
+810,Revisão elétrica,Trator,Elétrica,586,588,2,65
+811,Revisão elétrica,Barco,Mecânica,2604,2607,3,21
+812,Alinhamento,Barco,Elétrica,2895,2898,3,28
+813,Revisão de motor,Ônibus,Mecânica,4619,4622,3,96
+814,Revisão de motor,Betoneira,Mecânica,1769,1770,1,90
+815,Alinhamento,Bicicleta,Mecânica,1521,1524,3,78
+816,Revisão elétrica,Ônibus,Mecânica,3653,3655,2,44
+817,Alinhamento,Pá Carregadeira,Elétrica,4567,4570,3,96
+818,Revisão elétrica,Pá Carregadeira,Elétrica,1207,1210,3,71
+819,Revisão de motor,Van,Elétrica,1720,1723,3,40
+820,Revisão de motor,Ônibus,Elétrica,4416,4418,2,91
+821,Revisão elétrica,Caminhão,Mecânica,2008,2012,4,41
+822,Revisão elétrica,Pá Carregadeira,Mecânica,3941,3945,4,18
+823,Alinhamento,Betoneira,Mecânica,4620,4622,2,55
+824,Revisão elétrica,Jet Ski,Mecânica,4760,4761,1,80
+825,Alinhamento,Caminhão,Elétrica,2298,2300,2,46
+826,Revisão de motor,Betoneira,Mecânica,2706,2708,2,85
+827,Revisão elétrica,Barco,Elétrica,1236,1240,4,21
+828,Alinhamento,Helicóptero,Mecânica,2754,2757,3,87
+829,Revisão elétrica,Jet Ski,Mecânica,4242,4246,4,79
+830,Revisão de motor,Caminhão,Mecânica,2554,2557,3,21
+831,Revisão de motor,Betoneira,Elétrica,4932,4933,1,46
+832,Revisão elétrica,Ônibus,Mecânica,1712,1714,2,18
+833,Alinhamento,Barco,Elétrica,1768,1770,2,60
+834,Alinhamento,Trator,Mecânica,1078,1080,2,88
+835,Revisão elétrica,Van,Mecânica,1719,1720,1,90
+836,Revisão elétrica,Ônibus,Elétrica,4255,4258,3,69
+837,Alinhamento,Ônibus,Mecânica,3500,3501,1,93
+838,Revisão de motor,Barco,Elétrica,3102,3105,3,63
+839,Revisão de motor,Van,Elétrica,124,128,4,47
+840,Revisão de motor,Pá Carregadeira,Elétrica,3810,3812,2,46
+841,Revisão elétrica,Betoneira,Mecânica,1088,1092,4,91
+842,Alinhamento,Ônibus,Elétrica,2575,2578,3,25
+843,Revisão elétrica,Helicóptero,Elétrica,991,994,3,87
+844,Revisão de motor,Bicicleta,Mecânica,3457,3458,1,95
+845,Alinhamento,Pá Carregadeira,Elétrica,5330,5333,3,73
+846,Alinhamento,Bicicleta,Elétrica,665,667,2,87
+847,Revisão de motor,Trator,Elétrica,3816,3819,3,88
+848,Alinhamento,Helicóptero,Mecânica,3267,3269,2,38
+849,Revisão elétrica,Pá Carregadeira,Mecânica,3283,3287,4,25
+850,Alinhamento,Pá Carregadeira,Mecânica,5119,5123,4,56
+851,Revisão elétrica,Caminhão,Elétrica,5150,5152,2,31
+852,Revisão de motor,Jet Ski,Elétrica,4151,4153,2,30
+853,Alinhamento,Bicicleta,Mecânica,4425,4426,1,70
+854,Revisão de motor,Barco,Elétrica,461,462,1,33
+855,Alinhamento,Van,Elétrica,2073,2074,1,86
+856,Revisão elétrica,Van,Mecânica,5154,5155,1,36
+857,Revisão de motor,Helicóptero,Elétrica,5795,5799,4,94
+858,Alinhamento,Helicóptero,Mecânica,726,728,2,51
+859,Revisão elétrica,Betoneira,Elétrica,2762,2763,1,61
+860,Alinhamento,Jet Ski,Mecânica,4671,4674,3,31
+861,Revisão de motor,Ônibus,Mecânica,5690,5694,4,49
+862,Revisão elétrica,Trator,Mecânica,2882,2885,3,36
+863,Alinhamento,Caminhão,Mecânica,3727,3731,4,43
+864,Alinhamento,Helicóptero,Elétrica,1695,1697,2,91
+865,Alinhamento,Pá Carregadeira,Mecânica,1215,1218,3,21
+866,Alinhamento,Jet Ski,Elétrica,1302,1305,3,97
+867,Alinhamento,Jet Ski,Mecânica,831,835,4,76
+868,Revisão elétrica,Caminhão,Mecânica,1102,1106,4,67
+869,Revisão elétrica,Pá Carregadeira,Elétrica,836,837,1,76
+870,Alinhamento,Van,Elétrica,4005,4009,4,63
+871,Revisão de motor,Trator,Elétrica,1669,1670,1,37
+872,Revisão elétrica,Barco,Elétrica,3878,3880,2,33
+873,Revisão de motor,Van,Elétrica,2624,2625,1,41
+874,Revisão elétrica,Ônibus,Mecânica,3153,3157,4,22
+875,Alinhamento,Caminhão,Mecânica,2310,2312,2,83
+876,Revisão elétrica,Pá Carregadeira,Elétrica,43,44,1,34
+877,Revisão elétrica,Barco,Elétrica,1131,1134,3,97
+878,Revisão de motor,Betoneira,Mecânica,5856,5858,2,59
+879,Alinhamento,Van,Mecânica,3543,3544,1,40
+880,Alinhamento,Caminhão,Mecânica,2977,2980,3,28
+881,Revisão elétrica,Betoneira,Mecânica,901,904,3,90
+882,Revisão elétrica,Bicicleta,Mecânica,5827,5829,2,74
+883,Revisão de motor,Ônibus,Mecânica,403,406,3,70
+884,Revisão de motor,Van,Elétrica,1014,1017,3,73
+885,Revisão de motor,Pá Carregadeira,Mecânica,3692,3693,1,34
+886,Revisão elétrica,Jet Ski,Mecânica,3984,3987,3,78
+887,Revisão de motor,Ônibus,Elétrica,3700,3704,4,14
+888,Alinhamento,Bicicleta,Mecânica,718,722,4,69
+889,Revisão elétrica,Van,Elétrica,102,104,2,33
+890,Revisão de motor,Betoneira,Elétrica,5427,5431,4,89
+891,Alinhamento,Pá Carregadeira,Mecânica,3890,3892,2,83
+892,Revisão elétrica,Jet Ski,Elétrica,4003,4004,1,55
+893,Revisão elétrica,Trator,Elétrica,1831,1833,2,99
+894,Revisão de motor,Bicicleta,Elétrica,113,117,4,14
+895,Alinhamento,Bicicleta,Mecânica,5220,5223,3,74
+896,Revisão de motor,Van,Mecânica,3318,3320,2,93
+897,Revisão elétrica,Bicicleta,Elétrica,4341,4345,4,38
+898,Alinhamento,Jet Ski,Elétrica,4892,4895,3,26
+899,Revisão de motor,Trator,Mecânica,4082,4084,2,55
+900,Alinhamento,Van,Elétrica,2581,2585,4,76
+901,Alinhamento,Trator,Mecânica,667,671,4,59
+902,Revisão de motor,Bicicleta,Mecânica,1281,1283,2,45
+903,Alinhamento,Trator,Mecânica,3388,3389,1,83
+904,Alinhamento,Jet Ski,Mecânica,5279,5281,2,60
+905,Alinhamento,Pá Carregadeira,Elétrica,2095,2096,1,50
+906,Revisão de motor,Trator,Mecânica,117,119,2,25
+907,Alinhamento,Bicicleta,Elétrica,3415,3418,3,54
+908,Revisão elétrica,Pá Carregadeira,Elétrica,363,365,2,96
+909,Alinhamento,Bicicleta,Mecânica,2063,2065,2,37
+910,Alinhamento,Barco,Elétrica,232,233,1,72
+911,Revisão de motor,Trator,Mecânica,3793,3797,4,27
+912,Revisão elétrica,Helicóptero,Elétrica,5892,5895,3,63
+913,Revisão de motor,Pá Carregadeira,Elétrica,5978,5982,4,77
+914,Revisão de motor,Ônibus,Elétrica,802,806,4,94
+915,Revisão elétrica,Bicicleta,Mecânica,5242,5244,2,23
+916,Revisão de motor,Jet Ski,Elétrica,5556,5560,4,93
+917,Alinhamento,Helicóptero,Mecânica,1114,1116,2,95
+918,Alinhamento,Helicóptero,Elétrica,1272,1276,4,70
+919,Alinhamento,Ônibus,Mecânica,1864,1867,3,18
+920,Alinhamento,Helicóptero,Elétrica,3310,3313,3,19
+921,Revisão elétrica,Ônibus,Elétrica,3143,3147,4,36
+922,Alinhamento,Barco,Mecânica,4035,4039,4,86
+923,Alinhamento,Jet Ski,Elétrica,5944,5946,2,70
+924,Alinhamento,Ônibus,Mecânica,2486,2490,4,22
+925,Revisão elétrica,Trator,Mecânica,5687,5690,3,11
+926,Revisão elétrica,Caminhão,Elétrica,3976,3978,2,90
+927,Revisão elétrica,Caminhão,Elétrica,3399,3403,4,85
+928,Alinhamento,Helicóptero,Mecânica,2410,2412,2,56
+929,Revisão de motor,Betoneira,Elétrica,3374,3378,4,84
+930,Revisão elétrica,Van,Mecânica,5778,5781,3,95
+931,Revisão de motor,Bicicleta,Elétrica,284,285,1,68
+932,Revisão elétrica,Bicicleta,Elétrica,11,15,4,36
+933,Alinhamento,Bicicleta,Elétrica,3549,3551,2,26
+934,Revisão de motor,Helicóptero,Mecânica,2476,2477,1,61
+935,Revisão elétrica,Helicóptero,Mecânica,3187,3191,4,17
+936,Alinhamento,Caminhão,Mecânica,2886,2890,4,44
+937,Revisão de motor,Jet Ski,Mecânica,4831,4833,2,56
+938,Revisão de motor,Trator,Mecânica,2808,2809,1,68
+939,Revisão de motor,Trator,Elétrica,245,246,1,49
+940,Revisão elétrica,Van,Mecânica,566,567,1,30
+941,Revisão elétrica,Barco,Mecânica,1044,1046,2,30
+942,Alinhamento,Jet Ski,Mecânica,4199,4203,4,84
+943,Revisão de motor,Betoneira,Elétrica,184,188,4,12
+944,Revisão elétrica,Trator,Elétrica,4855,4856,1,91
+945,Alinhamento,Helicóptero,Mecânica,5755,5758,3,29
+946,Alinhamento,Trator,Mecânica,4286,4290,4,52
+947,Revisão elétrica,Helicóptero,Elétrica,5467,5470,3,72
+948,Revisão de motor,Pá Carregadeira,Mecânica,2946,2948,2,95
+949,Alinhamento,Caminhão,Mecânica,2653,2657,4,13
+950,Revisão elétrica,Trator,Elétrica,4484,4488,4,67
+951,Revisão elétrica,Bicicleta,Elétrica,1919,1921,2,49
+952,Revisão de motor,Barco,Elétrica,4266,4268,2,26
+953,Revisão elétrica,Bicicleta,Mecânica,1225,1226,1,31
+954,Revisão elétrica,Betoneira,Elétrica,1589,1593,4,65
+955,Revisão de motor,Trator,Mecânica,1813,1816,3,99
+956,Alinhamento,Bicicleta,Elétrica,5938,5939,1,99
+957,Revisão elétrica,Bicicleta,Elétrica,3713,3717,4,36
+958,Revisão elétrica,Bicicleta,Mecânica,4415,4416,1,89
+959,Revisão de motor,Van,Mecânica,382,386,4,68
+960,Alinhamento,Pá Carregadeira,Mecânica,5949,5953,4,71
+961,Revisão de motor,Helicóptero,Mecânica,3741,3744,3,21
+962,Alinhamento,Betoneira,Elétrica,1161,1162,1,99
+963,Alinhamento,Jet Ski,Mecânica,3273,3275,2,32
+964,Alinhamento,Barco,Elétrica,5455,5459,4,42
+965,Alinhamento,Helicóptero,Mecânica,4874,4875,1,61
+966,Revisão de motor,Bicicleta,Mecânica,2409,2411,2,46
+967,Alinhamento,Pá Carregadeira,Mecânica,4894,4897,3,51
+968,Alinhamento,Helicóptero,Mecânica,4194,4197,3,25
+969,Alinhamento,Bicicleta,Elétrica,4728,4729,1,71
+970,Revisão de motor,Pá Carregadeira,Mecânica,1806,1807,1,64
+971,Alinhamento,Ônibus,Mecânica,5381,5382,1,65
+972,Revisão de motor,Bicicleta,Elétrica,1048,1052,4,53
+973,Revisão de motor,Ônibus,Mecânica,1176,1180,4,40
+974,Alinhamento,Pá Carregadeira,Mecânica,577,578,1,28
+975,Alinhamento,Caminhão,Mecânica,3125,3129,4,38
+976,Revisão elétrica,Bicicleta,Mecânica,3474,3475,1,36
+977,Alinhamento,Pá Carregadeira,Elétrica,3300,3304,4,68
+978,Alinhamento,Caminhão,Mecânica,5749,5753,4,77
+979,Revisão elétrica,Betoneira,Elétrica,4251,4253,2,33
+980,Revisão elétrica,Jet Ski,Elétrica,5391,5395,4,66
+981,Revisão elétrica,Barco,Mecânica,5837,5839,2,46
+982,Revisão elétrica,Jet Ski,Elétrica,2204,2206,2,31
+983,Revisão de motor,Jet Ski,Mecânica,479,482,3,43
+984,Revisão elétrica,Ônibus,Mecânica,4910,4913,3,35
+985,Revisão de motor,Pá Carregadeira,Elétrica,3286,3290,4,24
+986,Revisão de motor,Ônibus,Elétrica,4655,4659,4,75
+987,Alinhamento,Betoneira,Mecânica,2460,2464,4,30
+988,Revisão de motor,Van,Elétrica,2737,2738,1,76
+989,Revisão de motor,Barco,Mecânica,4749,4753,4,66
+990,Revisão de motor,Ônibus,Elétrica,654,658,4,88
+991,Revisão de motor,Barco,Mecânica,118,121,3,89
+992,Alinhamento,Jet Ski,Elétrica,3324,3327,3,47
+993,Revisão elétrica,Barco,Elétrica,5455,5457,2,34
+994,Revisão de motor,Ônibus,Mecânica,5713,5714,1,54
+995,Alinhamento,Betoneira,Elétrica,3586,3590,4,75
+996,Revisão de motor,Bicicleta,Mecânica,2705,2707,2,12
+997,Revisão de motor,Betoneira,Mecânica,5675,5676,1,30
+998,Revisão de motor,Barco,Elétrica,992,996,4,44
+999,Alinhamento,Trator,Elétrica,2536,2538,2,57
+1000,Revisão elétrica,Barco,Elétrica,4177,4178,1,19
+1001,Revisão de motor,Ônibus,Mecânica,3921,3923,2,34
+1002,Revisão de motor,Pá Carregadeira,Elétrica,4844,4845,1,46
+1003,Alinhamento,Trator,Elétrica,3747,3749,2,98
+1004,Revisão elétrica,Helicóptero,Mecânica,1639,1640,1,64
+1005,Alinhamento,Bicicleta,Mecânica,3807,3810,3,74
+1006,Revisão elétrica,Helicóptero,Elétrica,5015,5019,4,75
+1007,Revisão de motor,Barco,Mecânica,2184,2187,3,95
+1008,Revisão elétrica,Van,Elétrica,2231,2234,3,63
+1009,Alinhamento,Trator,Mecânica,46,50,4,43
+1010,Revisão de motor,Jet Ski,Elétrica,5262,5265,3,100
+1011,Revisão de motor,Jet Ski,Mecânica,1554,1556,2,76
+1012,Revisão de motor,Trator,Elétrica,1738,1742,4,65
+1013,Revisão de motor,Ônibus,Mecânica,2564,2567,3,83
+1014,Revisão de motor,Bicicleta,Elétrica,811,813,2,99
+1015,Revisão de motor,Caminhão,Elétrica,5307,5308,1,23
+1016,Alinhamento,Trator,Elétrica,2036,2038,2,41
+1017,Alinhamento,Bicicleta,Elétrica,3864,3867,3,48
+1018,Revisão elétrica,Trator,Mecânica,1814,1817,3,57
+1019,Alinhamento,Bicicleta,Elétrica,4368,4370,2,77
+1020,Revisão elétrica,Ônibus,Elétrica,1622,1626,4,74
+1021,Revisão elétrica,Jet Ski,Elétrica,4498,4501,3,81
+1022,Revisão elétrica,Betoneira,Mecânica,3666,3669,3,81
+1023,Alinhamento,Betoneira,Mecânica,5973,5976,3,73
+1024,Revisão elétrica,Barco,Mecânica,548,552,4,68
+1025,Revisão de motor,Ônibus,Elétrica,2024,2027,3,31
+1026,Revisão de motor,Ônibus,Elétrica,2947,2950,3,10
+1027,Revisão elétrica,Barco,Elétrica,2100,2101,1,50
+1028,Revisão de motor,Caminhão,Mecânica,3105,3108,3,77
+1029,Revisão de motor,Trator,Mecânica,4491,4493,2,85
+1030,Revisão elétrica,Ônibus,Mecânica,4591,4592,1,59
+1031,Alinhamento,Barco,Elétrica,1626,1629,3,28
+1032,Alinhamento,Betoneira,Mecânica,818,821,3,22
+1033,Alinhamento,Van,Elétrica,426,428,2,59
+1034,Revisão elétrica,Trator,Mecânica,2565,2568,3,74
+1035,Revisão elétrica,Barco,Mecânica,2457,2459,2,10
+1036,Revisão de motor,Jet Ski,Mecânica,4105,4108,3,97
+1037,Revisão elétrica,Barco,Elétrica,5202,5204,2,91
+1038,Revisão elétrica,Trator,Mecânica,5274,5277,3,64
+1039,Alinhamento,Bicicleta,Elétrica,1550,1553,3,21
+1040,Revisão de motor,Trator,Mecânica,4259,4262,3,87
+1041,Alinhamento,Caminhão,Mecânica,5758,5759,1,29
+1042,Alinhamento,Van,Mecânica,4100,4103,3,72
+1043,Alinhamento,Ônibus,Mecânica,2952,2954,2,84
+1044,Revisão elétrica,Caminhão,Elétrica,3757,3758,1,70
+1045,Revisão elétrica,Jet Ski,Elétrica,1721,1724,3,64
+1046,Revisão de motor,Trator,Mecânica,188,191,3,94
+1047,Alinhamento,Pá Carregadeira,Elétrica,4770,4771,1,51
+1048,Alinhamento,Helicóptero,Elétrica,1619,1623,4,58
+1049,Revisão de motor,Pá Carregadeira,Mecânica,1033,1034,1,99
+1050,Revisão de motor,Helicóptero,Mecânica,1573,1576,3,14
+1051,Alinhamento,Bicicleta,Elétrica,707,710,3,64
+1052,Revisão de motor,Jet Ski,Elétrica,4570,4573,3,53
+1053,Alinhamento,Pá Carregadeira,Mecânica,1550,1552,2,92
+1054,Alinhamento,Van,Mecânica,5502,5505,3,100
+1055,Alinhamento,Betoneira,Mecânica,2195,2199,4,84
+1056,Revisão elétrica,Pá Carregadeira,Mecânica,2641,2645,4,11
+1057,Revisão elétrica,Caminhão,Elétrica,5665,5666,1,36
+1058,Revisão elétrica,Trator,Mecânica,1175,1177,2,28
+1059,Alinhamento,Helicóptero,Mecânica,584,587,3,13
+1060,Revisão de motor,Ônibus,Elétrica,5105,5108,3,34
+1061,Alinhamento,Helicóptero,Elétrica,4090,4091,1,59
+1062,Revisão elétrica,Betoneira,Elétrica,273,274,1,29
+1063,Revisão de motor,Ônibus,Mecânica,299,303,4,14
+1064,Alinhamento,Ônibus,Elétrica,1518,1521,3,16
+1065,Revisão de motor,Bicicleta,Mecânica,1629,1633,4,45
+1066,Revisão de motor,Ônibus,Elétrica,83,86,3,95
+1067,Revisão de motor,Trator,Mecânica,5929,5933,4,29
+1068,Revisão de motor,Pá Carregadeira,Mecânica,5562,5563,1,19
+1069,Revisão elétrica,Van,Elétrica,2911,2914,3,51
+1070,Alinhamento,Bicicleta,Mecânica,2618,2621,3,45
+1071,Revisão de motor,Trator,Mecânica,473,474,1,19
+1072,Revisão elétrica,Helicóptero,Elétrica,2340,2344,4,29
+1073,Revisão elétrica,Ônibus,Elétrica,5037,5038,1,89
+1074,Alinhamento,Van,Mecânica,4193,4196,3,48
+1075,Revisão de motor,Pá Carregadeira,Mecânica,2964,2967,3,87
+1076,Alinhamento,Van,Elétrica,5526,5530,4,47
+1077,Revisão elétrica,Jet Ski,Mecânica,2856,2859,3,31
+1078,Revisão de motor,Pá Carregadeira,Mecânica,4835,4838,3,41
+1079,Revisão de motor,Ônibus,Mecânica,4953,4954,1,91
+1080,Revisão elétrica,Ônibus,Elétrica,3495,3497,2,21
+1081,Alinhamento,Helicóptero,Elétrica,5644,5647,3,23
+1082,Alinhamento,Bicicleta,Mecânica,2801,2802,1,10
+1083,Alinhamento,Bicicleta,Elétrica,2353,2354,1,44
+1084,Revisão elétrica,Helicóptero,Mecânica,4149,4151,2,38
+1085,Revisão de motor,Trator,Mecânica,2726,2729,3,46
+1086,Revisão elétrica,Caminhão,Mecânica,5712,5714,2,78
+1087,Alinhamento,Ônibus,Elétrica,4780,4782,2,17
+1088,Revisão de motor,Jet Ski,Elétrica,3767,3771,4,34
+1089,Revisão elétrica,Helicóptero,Elétrica,5831,5835,4,83
+1090,Revisão elétrica,Caminhão,Mecânica,1325,1329,4,37
+1091,Revisão elétrica,Jet Ski,Elétrica,4885,4888,3,94
+1092,Revisão de motor,Van,Elétrica,1206,1207,1,59
+1093,Revisão de motor,Barco,Elétrica,3285,3288,3,74
+1094,Alinhamento,Bicicleta,Elétrica,5529,5533,4,18
+1095,Revisão de motor,Helicóptero,Mecânica,2485,2489,4,38
+1096,Revisão elétrica,Helicóptero,Elétrica,5120,5121,1,13
+1097,Revisão elétrica,Caminhão,Elétrica,2355,2356,1,45
+1098,Revisão de motor,Trator,Elétrica,2514,2517,3,52
+1099,Alinhamento,Trator,Mecânica,5349,5352,3,64
+1100,Revisão elétrica,Ônibus,Mecânica,544,546,2,62
+1101,Revisão elétrica,Bicicleta,Elétrica,698,700,2,28
+1102,Alinhamento,Barco,Elétrica,1811,1814,3,84
+1103,Revisão elétrica,Caminhão,Mecânica,4552,4554,2,59
+1104,Revisão elétrica,Bicicleta,Mecânica,3412,3413,1,87
+1105,Alinhamento,Trator,Mecânica,2286,2288,2,43
+1106,Alinhamento,Pá Carregadeira,Mecânica,3008,3011,3,15
+1107,Alinhamento,Caminhão,Elétrica,4151,4155,4,74
+1108,Revisão elétrica,Jet Ski,Elétrica,4775,4779,4,55
+1109,Revisão de motor,Bicicleta,Mecânica,4893,4897,4,67
+1110,Revisão elétrica,Helicóptero,Mecânica,2821,2822,1,15
+1111,Revisão de motor,Helicóptero,Mecânica,681,683,2,91
+1112,Alinhamento,Van,Elétrica,2914,2916,2,85
+1113,Revisão de motor,Jet Ski,Mecânica,1772,1776,4,35
+1114,Revisão de motor,Jet Ski,Elétrica,5893,5895,2,54
+1115,Revisão de motor,Jet Ski,Mecânica,2150,2153,3,81
+1116,Alinhamento,Helicóptero,Mecânica,3393,3394,1,100
+1117,Revisão de motor,Ônibus,Mecânica,1872,1876,4,61
+1118,Alinhamento,Barco,Mecânica,3601,3604,3,70
+1119,Alinhamento,Van,Mecânica,1780,1782,2,10
+1120,Alinhamento,Barco,Mecânica,4669,4672,3,11
+1121,Alinhamento,Jet Ski,Mecânica,3627,3628,1,81
+1122,Revisão de motor,Barco,Mecânica,5388,5390,2,93
+1123,Revisão de motor,Bicicleta,Elétrica,2739,2742,3,44
+1124,Alinhamento,Trator,Mecânica,2538,2539,1,94
+1125,Alinhamento,Van,Elétrica,4623,4627,4,27
+1126,Alinhamento,Trator,Mecânica,4639,4640,1,18
+1127,Revisão de motor,Helicóptero,Mecânica,20,22,2,61
+1128,Revisão de motor,Caminhão,Mecânica,181,184,3,99
+1129,Revisão de motor,Jet Ski,Mecânica,5887,5889,2,79
+1130,Revisão de motor,Bicicleta,Mecânica,1074,1076,2,91
+1131,Revisão elétrica,Ônibus,Elétrica,1969,1971,2,40
+1132,Revisão elétrica,Trator,Mecânica,2530,2532,2,32
+1133,Alinhamento,Betoneira,Mecânica,2627,2630,3,48
+1134,Alinhamento,Helicóptero,Mecânica,4065,4066,1,78
+1135,Revisão elétrica,Betoneira,Mecânica,3126,3127,1,35
+1136,Revisão elétrica,Van,Elétrica,93,94,1,79
+1137,Revisão elétrica,Bicicleta,Elétrica,5322,5325,3,47
+1138,Revisão elétrica,Betoneira,Mecânica,5352,5353,1,24
+1139,Alinhamento,Pá Carregadeira,Mecânica,3096,3099,3,69
+1140,Revisão elétrica,Ônibus,Mecânica,508,510,2,90
+1141,Revisão elétrica,Barco,Elétrica,5612,5615,3,17
+1142,Alinhamento,Barco,Mecânica,2614,2616,2,68
+1143,Alinhamento,Ônibus,Mecânica,4117,4119,2,17
+1144,Revisão elétrica,Caminhão,Mecânica,2482,2483,1,97
+1145,Revisão elétrica,Bicicleta,Elétrica,525,528,3,51
+1146,Alinhamento,Bicicleta,Mecânica,1979,1981,2,37
+1147,Alinhamento,Van,Mecânica,5033,5036,3,90
+1148,Alinhamento,Pá Carregadeira,Mecânica,953,954,1,83
+1149,Alinhamento,Pá Carregadeira,Mecânica,3929,3930,1,55
+1150,Revisão de motor,Helicóptero,Elétrica,817,820,3,72
+1151,Revisão elétrica,Jet Ski,Mecânica,4137,4141,4,36
+1152,Revisão elétrica,Caminhão,Mecânica,548,552,4,87
+1153,Revisão de motor,Ônibus,Elétrica,845,847,2,90
+1154,Revisão de motor,Trator,Elétrica,4611,4613,2,82
+1155,Revisão elétrica,Van,Mecânica,3610,3611,1,49
+1156,Alinhamento,Jet Ski,Elétrica,57,60,3,90
+1157,Revisão elétrica,Bicicleta,Mecânica,4314,4318,4,81
+1158,Alinhamento,Betoneira,Mecânica,4586,4588,2,24
+1159,Revisão elétrica,Trator,Elétrica,4674,4678,4,57
+1160,Revisão elétrica,Pá Carregadeira,Mecânica,4759,4761,2,42
+1161,Alinhamento,Pá Carregadeira,Mecânica,3577,3580,3,97
+1162,Revisão elétrica,Ônibus,Mecânica,2884,2885,1,15
+1163,Revisão elétrica,Barco,Mecânica,1299,1301,2,92
+1164,Alinhamento,Caminhão,Elétrica,1012,1016,4,90
+1165,Alinhamento,Helicóptero,Elétrica,2386,2389,3,18
+1166,Revisão de motor,Pá Carregadeira,Elétrica,913,916,3,57
+1167,Revisão de motor,Pá Carregadeira,Elétrica,1049,1051,2,75
+1168,Alinhamento,Bicicleta,Mecânica,5571,5573,2,23
+1169,Alinhamento,Barco,Mecânica,443,444,1,49
+1170,Revisão de motor,Caminhão,Mecânica,2780,2782,2,74
+1171,Revisão elétrica,Jet Ski,Elétrica,4842,4844,2,48
+1172,Alinhamento,Van,Elétrica,579,583,4,61
+1173,Revisão elétrica,Trator,Mecânica,4277,4280,3,61
+1174,Revisão de motor,Barco,Mecânica,952,956,4,19
+1175,Revisão elétrica,Betoneira,Elétrica,2269,2273,4,65
+1176,Alinhamento,Pá Carregadeira,Mecânica,5187,5191,4,77
+1177,Alinhamento,Caminhão,Elétrica,5306,5307,1,35
+1178,Alinhamento,Trator,Mecânica,3797,3801,4,69
+1179,Revisão elétrica,Barco,Elétrica,1837,1838,1,35
+1180,Alinhamento,Caminhão,Elétrica,5797,5799,2,23
+1181,Revisão elétrica,Helicóptero,Elétrica,4510,4513,3,80
+1182,Revisão elétrica,Bicicleta,Mecânica,2142,2146,4,50
+1183,Revisão elétrica,Betoneira,Elétrica,1297,1299,2,72
+1184,Alinhamento,Barco,Elétrica,3337,3338,1,17
+1185,Revisão de motor,Barco,Mecânica,5161,5164,3,39
+1186,Revisão de motor,Caminhão,Mecânica,4994,4996,2,66
+1187,Revisão de motor,Trator,Mecânica,5505,5506,1,92
+1188,Alinhamento,Barco,Elétrica,5030,5033,3,72
+1189,Revisão de motor,Caminhão,Elétrica,2608,2610,2,55
+1190,Revisão elétrica,Ônibus,Mecânica,3929,3931,2,39
+1191,Alinhamento,Ônibus,Elétrica,5823,5824,1,13
+1192,Alinhamento,Helicóptero,Elétrica,129,131,2,77
+1193,Revisão elétrica,Helicóptero,Mecânica,5029,5033,4,81
+1194,Revisão elétrica,Caminhão,Mecânica,2632,2635,3,33
+1195,Revisão de motor,Betoneira,Mecânica,977,979,2,26
+1196,Revisão elétrica,Bicicleta,Mecânica,1929,1933,4,27
+1197,Alinhamento,Barco,Mecânica,829,833,4,96
+1198,Revisão de motor,Caminhão,Elétrica,2808,2810,2,50
+1199,Revisão de motor,Bicicleta,Elétrica,856,859,3,52
+1200,Revisão de motor,Trator,Elétrica,5852,5854,2,63
+1201,Alinhamento,Helicóptero,Mecânica,1068,1072,4,19
+1202,Revisão elétrica,Jet Ski,Elétrica,1577,1579,2,39
+1203,Revisão elétrica,Jet Ski,Mecânica,3643,3646,3,33
+1204,Revisão elétrica,Van,Elétrica,1543,1546,3,27
+1205,Revisão elétrica,Helicóptero,Mecânica,621,624,3,100
+1206,Alinhamento,Caminhão,Mecânica,5925,5926,1,57
+1207,Alinhamento,Barco,Elétrica,3616,3619,3,14
+1208,Revisão elétrica,Bicicleta,Elétrica,4524,4525,1,27
+1209,Revisão elétrica,Pá Carregadeira,Mecânica,3880,3884,4,76
+1210,Revisão elétrica,Caminhão,Mecânica,1114,1116,2,22
+1211,Revisão de motor,Betoneira,Mecânica,5374,5376,2,10
+1212,Alinhamento,Ônibus,Mecânica,1758,1761,3,44
+1213,Revisão elétrica,Bicicleta,Elétrica,844,846,2,39
+1214,Revisão de motor,Betoneira,Elétrica,5043,5044,1,24
+1215,Alinhamento,Betoneira,Mecânica,3245,3248,3,39
+1216,Revisão elétrica,Caminhão,Elétrica,4184,4186,2,67
+1217,Revisão de motor,Pá Carregadeira,Mecânica,4742,4744,2,61
+1218,Alinhamento,Trator,Mecânica,4313,4314,1,58
+1219,Revisão de motor,Jet Ski,Elétrica,3582,3585,3,48
+1220,Alinhamento,Ônibus,Mecânica,2921,2923,2,32
+1221,Alinhamento,Bicicleta,Mecânica,3026,3027,1,99
+1222,Revisão de motor,Barco,Mecânica,3106,3108,2,77
+1223,Alinhamento,Trator,Mecânica,714,715,1,28
+1224,Alinhamento,Barco,Mecânica,4505,4509,4,70
+1225,Revisão de motor,Betoneira,Elétrica,3233,3235,2,19
+1226,Revisão de motor,Pá Carregadeira,Elétrica,941,943,2,29
+1227,Revisão de motor,Barco,Elétrica,4420,4423,3,22
+1228,Revisão elétrica,Caminhão,Mecânica,949,951,2,45
+1229,Revisão de motor,Helicóptero,Mecânica,2535,2537,2,38
+1230,Revisão de motor,Betoneira,Elétrica,228,230,2,69
+1231,Revisão elétrica,Helicóptero,Elétrica,2577,2581,4,59
+1232,Alinhamento,Helicóptero,Mecânica,114,115,1,18
+1233,Revisão de motor,Helicóptero,Elétrica,5027,5029,2,70
+1234,Revisão elétrica,Caminhão,Elétrica,4703,4706,3,66
+1235,Revisão de motor,Ônibus,Elétrica,3442,3443,1,13
+1236,Revisão de motor,Bicicleta,Elétrica,388,390,2,55
+1237,Revisão de motor,Caminhão,Mecânica,5001,5005,4,90
+1238,Alinhamento,Caminhão,Elétrica,2034,2036,2,19
+1239,Revisão elétrica,Trator,Mecânica,1755,1756,1,97
+1240,Revisão de motor,Betoneira,Mecânica,4298,4301,3,41
+1241,Revisão de motor,Helicóptero,Elétrica,987,990,3,10
+1242,Revisão de motor,Barco,Elétrica,3501,3504,3,82
+1243,Revisão de motor,Caminhão,Elétrica,274,276,2,97
+1244,Alinhamento,Pá Carregadeira,Elétrica,5525,5528,3,52
+1245,Revisão de motor,Betoneira,Elétrica,1193,1195,2,99
+1246,Revisão de motor,Ônibus,Elétrica,5863,5864,1,92
+1247,Revisão de motor,Jet Ski,Mecânica,3217,3221,4,82
+1248,Alinhamento,Pá Carregadeira,Elétrica,5583,5585,2,99
+1249,Alinhamento,Pá Carregadeira,Elétrica,3253,3256,3,18
+1250,Alinhamento,Caminhão,Elétrica,5571,5574,3,65
+1251,Alinhamento,Caminhão,Elétrica,1438,1442,4,44
+1252,Revisão de motor,Bicicleta,Mecânica,4202,4203,1,77
+1253,Alinhamento,Barco,Mecânica,3919,3921,2,38
+1254,Revisão elétrica,Jet Ski,Mecânica,2830,2833,3,21
+1255,Revisão elétrica,Bicicleta,Mecânica,4588,4589,1,69
+1256,Alinhamento,Trator,Elétrica,1969,1973,4,89
+1257,Revisão de motor,Jet Ski,Elétrica,994,995,1,65
+1258,Alinhamento,Barco,Mecânica,1175,1176,1,38
+1259,Revisão de motor,Caminhão,Elétrica,3820,3823,3,51
+1260,Alinhamento,Caminhão,Elétrica,3652,3655,3,62
+1261,Alinhamento,Jet Ski,Mecânica,5628,5629,1,68
+1262,Revisão elétrica,Jet Ski,Mecânica,2499,2500,1,45
+1263,Revisão de motor,Caminhão,Elétrica,4910,4911,1,44
+1264,Revisão elétrica,Pá Carregadeira,Elétrica,3326,3330,4,92
+1265,Revisão de motor,Betoneira,Elétrica,3111,3113,2,65
+1266,Revisão de motor,Helicóptero,Elétrica,2522,2526,4,80
+1267,Revisão elétrica,Pá Carregadeira,Mecânica,3837,3840,3,97
+1268,Alinhamento,Helicóptero,Mecânica,4438,4442,4,96
+1269,Revisão elétrica,Caminhão,Mecânica,789,791,2,11
+1270,Alinhamento,Barco,Mecânica,1604,1606,2,77
+1271,Revisão elétrica,Pá Carregadeira,Elétrica,1836,1837,1,83
+1272,Alinhamento,Pá Carregadeira,Elétrica,5858,5860,2,68
+1273,Revisão elétrica,Caminhão,Elétrica,2852,2856,4,23
+1274,Alinhamento,Barco,Mecânica,5871,5874,3,50
+1275,Revisão de motor,Bicicleta,Mecânica,5441,5444,3,55
+1276,Alinhamento,Trator,Elétrica,4126,4129,3,33
+1277,Alinhamento,Betoneira,Mecânica,5321,5323,2,86
+1278,Revisão elétrica,Van,Elétrica,1109,1110,1,28
+1279,Alinhamento,Caminhão,Elétrica,1074,1077,3,43
+1280,Revisão elétrica,Barco,Mecânica,2058,2061,3,27
+1281,Alinhamento,Ônibus,Mecânica,5461,5465,4,88
+1282,Revisão elétrica,Betoneira,Elétrica,1620,1623,3,36
+1283,Revisão de motor,Barco,Elétrica,1213,1214,1,83
+1284,Revisão elétrica,Helicóptero,Elétrica,3604,3608,4,61
+1285,Revisão de motor,Bicicleta,Elétrica,2448,2452,4,99
+1286,Revisão elétrica,Van,Elétrica,1363,1367,4,76
+1287,Revisão elétrica,Jet Ski,Mecânica,5492,5496,4,91
+1288,Revisão de motor,Helicóptero,Mecânica,4039,4043,4,49
+1289,Alinhamento,Van,Mecânica,2823,2825,2,30
+1290,Alinhamento,Van,Elétrica,508,510,2,33
+1291,Revisão de motor,Helicóptero,Mecânica,1425,1428,3,99
+1292,Revisão de motor,Trator,Elétrica,4350,4351,1,61
+1293,Alinhamento,Jet Ski,Mecânica,4948,4951,3,83
+1294,Revisão de motor,Ônibus,Elétrica,1010,1013,3,47
+1295,Revisão de motor,Van,Elétrica,3276,3278,2,32
+1296,Revisão de motor,Van,Mecânica,5296,5297,1,60
+1297,Revisão de motor,Helicóptero,Mecânica,5993,5997,4,48
+1298,Revisão elétrica,Ônibus,Elétrica,2235,2237,2,71
+1299,Revisão elétrica,Helicóptero,Mecânica,2577,2579,2,42
+1300,Revisão de motor,Ônibus,Elétrica,5278,5280,2,23
+1301,Alinhamento,Barco,Elétrica,5428,5429,1,65
+1302,Alinhamento,Caminhão,Elétrica,703,707,4,96
+1303,Revisão de motor,Bicicleta,Elétrica,4433,4437,4,21
+1304,Revisão elétrica,Helicóptero,Mecânica,3671,3674,3,42
+1305,Revisão elétrica,Trator,Elétrica,2316,2317,1,10
+1306,Revisão elétrica,Jet Ski,Elétrica,618,621,3,34
+1307,Revisão elétrica,Pá Carregadeira,Mecânica,1745,1749,4,88
+1308,Revisão elétrica,Caminhão,Elétrica,2229,2233,4,96
+1309,Alinhamento,Caminhão,Mecânica,5206,5208,2,63
+1310,Alinhamento,Pá Carregadeira,Elétrica,1424,1427,3,95
+1311,Alinhamento,Trator,Elétrica,2008,2011,3,23
+1312,Revisão de motor,Van,Mecânica,833,836,3,37
+1313,Revisão de motor,Caminhão,Mecânica,1022,1024,2,79
+1314,Revisão de motor,Helicóptero,Mecânica,5896,5897,1,35
+1315,Revisão elétrica,Betoneira,Elétrica,2659,2661,2,61
+1316,Alinhamento,Helicóptero,Mecânica,486,488,2,18
+1317,Revisão de motor,Pá Carregadeira,Mecânica,1748,1752,4,26
+1318,Revisão de motor,Pá Carregadeira,Elétrica,2451,2453,2,53
+1319,Revisão elétrica,Jet Ski,Mecânica,4630,4633,3,41
+1320,Alinhamento,Barco,Mecânica,4679,4680,1,16
+1321,Revisão de motor,Van,Mecânica,413,416,3,95
+1322,Revisão de motor,Helicóptero,Elétrica,2923,2926,3,75
+1323,Revisão elétrica,Van,Mecânica,2820,2824,4,97
+1324,Alinhamento,Pá Carregadeira,Mecânica,3993,3997,4,50
+1325,Revisão de motor,Helicóptero,Mecânica,5825,5827,2,99
+1326,Revisão de motor,Ônibus,Mecânica,3042,3044,2,44
+1327,Alinhamento,Betoneira,Mecânica,45,46,1,86
+1328,Alinhamento,Van,Elétrica,167,171,4,12
+1329,Revisão elétrica,Ônibus,Mecânica,2721,2722,1,29
+1330,Revisão elétrica,Helicóptero,Elétrica,2506,2507,1,98
+1331,Revisão de motor,Pá Carregadeira,Mecânica,3220,3223,3,49
+1332,Alinhamento,Ônibus,Elétrica,2579,2583,4,23
+1333,Alinhamento,Van,Elétrica,1108,1110,2,36
+1334,Alinhamento,Pá Carregadeira,Mecânica,2543,2546,3,95
+1335,Revisão elétrica,Trator,Elétrica,2789,2790,1,84
+1336,Revisão elétrica,Pá Carregadeira,Mecânica,1540,1544,4,58
+1337,Alinhamento,Betoneira,Elétrica,3397,3398,1,68
+1338,Revisão de motor,Barco,Mecânica,1835,1838,3,80
+1339,Alinhamento,Barco,Elétrica,1978,1980,2,96
+1340,Revisão de motor,Bicicleta,Elétrica,3649,3653,4,53
+1341,Alinhamento,Van,Elétrica,442,445,3,80
+1342,Alinhamento,Caminhão,Elétrica,1214,1217,3,11
+1343,Alinhamento,Pá Carregadeira,Mecânica,2685,2688,3,26
+1344,Revisão de motor,Pá Carregadeira,Mecânica,5452,5455,3,82
+1345,Revisão de motor,Betoneira,Elétrica,2992,2993,1,51
+1346,Revisão de motor,Trator,Elétrica,757,760,3,87
+1347,Revisão de motor,Van,Mecânica,3126,3128,2,65
+1348,Alinhamento,Ônibus,Elétrica,2681,2685,4,31
+1349,Revisão elétrica,Trator,Mecânica,1439,1442,3,93
+1350,Revisão de motor,Van,Mecânica,2837,2840,3,28
+1351,Revisão de motor,Betoneira,Mecânica,2796,2797,1,20
+1352,Revisão elétrica,Pá Carregadeira,Elétrica,3600,3602,2,82
+1353,Alinhamento,Pá Carregadeira,Mecânica,2479,2483,4,65
+1354,Alinhamento,Barco,Mecânica,2096,2100,4,57
+1355,Revisão de motor,Pá Carregadeira,Mecânica,582,586,4,57
+1356,Alinhamento,Trator,Mecânica,2123,2125,2,36
+1357,Revisão de motor,Ônibus,Elétrica,1835,1836,1,77
+1358,Revisão elétrica,Jet Ski,Mecânica,4641,4645,4,23
+1359,Alinhamento,Caminhão,Elétrica,526,527,1,34
+1360,Revisão de motor,Barco,Elétrica,4778,4782,4,44
+1361,Revisão de motor,Bicicleta,Elétrica,2513,2514,1,68
+1362,Revisão de motor,Barco,Elétrica,2443,2447,4,52
+1363,Revisão elétrica,Caminhão,Mecânica,5144,5146,2,35
+1364,Revisão de motor,Pá Carregadeira,Elétrica,1358,1359,1,46
+1365,Revisão de motor,Betoneira,Elétrica,130,132,2,50
+1366,Alinhamento,Caminhão,Mecânica,163,167,4,50
+1367,Alinhamento,Trator,Mecânica,3857,3861,4,35
+1368,Alinhamento,Van,Elétrica,4826,4829,3,18
+1369,Revisão elétrica,Barco,Elétrica,3265,3269,4,55
+1370,Alinhamento,Trator,Mecânica,4820,4822,2,70
+1371,Revisão de motor,Helicóptero,Mecânica,5506,5510,4,52
+1372,Alinhamento,Bicicleta,Mecânica,4670,4673,3,58
+1373,Revisão elétrica,Jet Ski,Elétrica,1982,1983,1,95
+1374,Revisão elétrica,Jet Ski,Elétrica,5042,5044,2,31
+1375,Alinhamento,Jet Ski,Elétrica,1889,1891,2,14
+1376,Revisão elétrica,Caminhão,Elétrica,998,999,1,78
+1377,Alinhamento,Ônibus,Elétrica,4861,4865,4,46
+1378,Alinhamento,Barco,Mecânica,4657,4660,3,91
+1379,Alinhamento,Ônibus,Mecânica,1032,1033,1,30
+1380,Revisão de motor,Jet Ski,Elétrica,510,513,3,57
+1381,Alinhamento,Pá Carregadeira,Elétrica,3866,3867,1,74
+1382,Revisão de motor,Jet Ski,Elétrica,4248,4251,3,50
+1383,Alinhamento,Barco,Mecânica,4221,4223,2,34
+1384,Alinhamento,Trator,Mecânica,85,86,1,100
+1385,Revisão de motor,Ônibus,Elétrica,3811,3814,3,96
+1386,Revisão elétrica,Ônibus,Mecânica,5054,5056,2,87
+1387,Alinhamento,Jet Ski,Elétrica,3223,3227,4,60
+1388,Alinhamento,Pá Carregadeira,Elétrica,5616,5617,1,85
+1389,Revisão de motor,Ônibus,Mecânica,1320,1323,3,49
+1390,Revisão elétrica,Caminhão,Mecânica,5177,5178,1,37
+1391,Revisão de motor,Caminhão,Mecânica,1635,1636,1,53
+1392,Alinhamento,Helicóptero,Elétrica,2365,2367,2,13
+1393,Revisão de motor,Barco,Elétrica,4902,4905,3,92
+1394,Revisão de motor,Bicicleta,Mecânica,771,775,4,45
+1395,Revisão elétrica,Bicicleta,Mecânica,1549,1552,3,89
+1396,Alinhamento,Jet Ski,Mecânica,1401,1402,1,78
+1397,Revisão elétrica,Caminhão,Elétrica,3555,3556,1,48
+1398,Alinhamento,Betoneira,Elétrica,5631,5633,2,94
+1399,Revisão de motor,Van,Elétrica,4585,4587,2,89
+1400,Alinhamento,Betoneira,Mecânica,478,480,2,78
+1401,Revisão de motor,Trator,Elétrica,3304,3306,2,69
+1402,Revisão elétrica,Helicóptero,Elétrica,4074,4077,3,13
+1403,Alinhamento,Jet Ski,Elétrica,4116,4118,2,80
+1404,Revisão elétrica,Pá Carregadeira,Elétrica,840,842,2,80
+1405,Revisão de motor,Barco,Mecânica,30,32,2,86
+1406,Revisão de motor,Bicicleta,Elétrica,4062,4064,2,61
+1407,Revisão elétrica,Ônibus,Mecânica,4205,4206,1,40
+1408,Revisão de motor,Jet Ski,Elétrica,1108,1110,2,29
+1409,Alinhamento,Caminhão,Mecânica,1510,1512,2,36
+1410,Revisão de motor,Ônibus,Mecânica,1101,1102,1,64
+1411,Alinhamento,Pá Carregadeira,Mecânica,1348,1349,1,33
+1412,Revisão elétrica,Caminhão,Mecânica,2700,2701,1,31
+1413,Revisão elétrica,Jet Ski,Elétrica,2742,2746,4,68
+1414,Revisão de motor,Helicóptero,Elétrica,3146,3147,1,17
+1415,Revisão elétrica,Jet Ski,Elétrica,4466,4469,3,48
+1416,Revisão elétrica,Betoneira,Elétrica,1909,1913,4,43
+1417,Revisão de motor,Trator,Elétrica,5989,5990,1,72
+1418,Revisão de motor,Barco,Mecânica,1107,1108,1,45
+1419,Alinhamento,Betoneira,Elétrica,92,93,1,72
+1420,Revisão de motor,Betoneira,Mecânica,1356,1357,1,66
+1421,Revisão de motor,Caminhão,Elétrica,4079,4083,4,46
+1422,Revisão de motor,Barco,Mecânica,3809,3811,2,88
+1423,Revisão de motor,Betoneira,Mecânica,2862,2864,2,99
+1424,Revisão elétrica,Helicóptero,Mecânica,3948,3949,1,69
+1425,Revisão de motor,Barco,Elétrica,1052,1056,4,45
+1426,Revisão elétrica,Trator,Mecânica,3524,3525,1,95
+1427,Revisão de motor,Caminhão,Mecânica,2192,2193,1,49
+1428,Revisão de motor,Bicicleta,Mecânica,5248,5251,3,27
+1429,Alinhamento,Caminhão,Elétrica,2967,2971,4,43
+1430,Alinhamento,Trator,Elétrica,1378,1379,1,87
+1431,Revisão elétrica,Betoneira,Elétrica,3427,3431,4,78
+1432,Revisão de motor,Van,Elétrica,661,662,1,64
+1433,Alinhamento,Pá Carregadeira,Elétrica,5412,5416,4,18
+1434,Revisão elétrica,Barco,Elétrica,4077,4081,4,30
+1435,Revisão de motor,Caminhão,Mecânica,5948,5951,3,49
+1436,Revisão de motor,Pá Carregadeira,Mecânica,2829,2833,4,15
+1437,Alinhamento,Jet Ski,Elétrica,4648,4650,2,55
+1438,Revisão de motor,Helicóptero,Mecânica,5779,5782,3,79
+1439,Alinhamento,Van,Mecânica,2379,2380,1,78
+1440,Alinhamento,Jet Ski,Mecânica,438,440,2,57
+1441,Revisão elétrica,Caminhão,Mecânica,2228,2230,2,62
+1442,Revisão elétrica,Trator,Mecânica,806,808,2,98
+1443,Alinhamento,Ônibus,Mecânica,2848,2852,4,41
+1444,Alinhamento,Ônibus,Elétrica,5059,5062,3,14
+1445,Alinhamento,Bicicleta,Elétrica,4157,4161,4,69
+1446,Alinhamento,Barco,Mecânica,5009,5011,2,72
+1447,Alinhamento,Ônibus,Mecânica,5736,5739,3,83
+1448,Revisão elétrica,Helicóptero,Mecânica,1872,1874,2,56
+1449,Revisão elétrica,Barco,Mecânica,4091,4092,1,63
+1450,Revisão de motor,Barco,Mecânica,4800,4802,2,25
+1451,Alinhamento,Caminhão,Elétrica,1138,1142,4,76
+1452,Revisão elétrica,Pá Carregadeira,Mecânica,3563,3566,3,54
+1453,Alinhamento,Helicóptero,Mecânica,170,171,1,28
+1454,Revisão de motor,Helicóptero,Mecânica,5918,5922,4,41
+1455,Revisão de motor,Trator,Elétrica,2828,2832,4,30
+1456,Revisão de motor,Trator,Elétrica,3259,3263,4,29
+1457,Alinhamento,Bicicleta,Elétrica,4990,4993,3,52
+1458,Revisão de motor,Pá Carregadeira,Elétrica,1864,1868,4,99
+1459,Revisão de motor,Ônibus,Elétrica,3302,3306,4,27
+1460,Revisão de motor,Ônibus,Elétrica,3125,3128,3,82
+1461,Revisão elétrica,Caminhão,Elétrica,3778,3779,1,58
+1462,Revisão elétrica,Helicóptero,Mecânica,309,310,1,49
+1463,Revisão elétrica,Van,Mecânica,151,155,4,57
+1464,Revisão de motor,Helicóptero,Mecânica,3079,3080,1,13
+1465,Alinhamento,Jet Ski,Mecânica,1293,1297,4,23
+1466,Alinhamento,Caminhão,Mecânica,4219,4220,1,82
+1467,Alinhamento,Caminhão,Mecânica,5730,5732,2,82
+1468,Revisão elétrica,Barco,Elétrica,4256,4260,4,77
+1469,Revisão de motor,Jet Ski,Mecânica,2777,2778,1,86
+1470,Revisão elétrica,Ônibus,Elétrica,5781,5782,1,64
+1471,Revisão elétrica,Pá Carregadeira,Mecânica,4408,4409,1,83
+1472,Revisão elétrica,Helicóptero,Mecânica,534,535,1,31
+1473,Revisão de motor,Jet Ski,Elétrica,1680,1684,4,38
+1474,Alinhamento,Van,Mecânica,5210,5213,3,45
+1475,Revisão elétrica,Barco,Elétrica,1640,1644,4,29
+1476,Revisão elétrica,Caminhão,Mecânica,2413,2416,3,75
+1477,Revisão de motor,Caminhão,Elétrica,335,337,2,24
+1478,Revisão de motor,Bicicleta,Elétrica,2231,2233,2,28
+1479,Revisão de motor,Pá Carregadeira,Elétrica,3746,3747,1,77
+1480,Revisão de motor,Jet Ski,Mecânica,1792,1793,1,25
+1481,Revisão elétrica,Ônibus,Mecânica,3156,3160,4,29
+1482,Revisão de motor,Helicóptero,Elétrica,5497,5500,3,39
+1483,Revisão elétrica,Pá Carregadeira,Mecânica,3699,3700,1,52
+1484,Alinhamento,Caminhão,Mecânica,2249,2253,4,10
+1485,Revisão de motor,Pá Carregadeira,Mecânica,258,262,4,82
+1486,Revisão elétrica,Barco,Elétrica,2220,2224,4,35
+1487,Alinhamento,Trator,Mecânica,913,917,4,91
+1488,Revisão de motor,Helicóptero,Elétrica,5465,5466,1,49
+1489,Alinhamento,Trator,Mecânica,0,1,1,36
+1490,Revisão elétrica,Caminhão,Elétrica,5129,5130,1,76
+1491,Revisão de motor,Pá Carregadeira,Mecânica,5535,5536,1,99
+1492,Revisão elétrica,Helicóptero,Mecânica,4153,4154,1,30
+1493,Alinhamento,Barco,Elétrica,2423,2427,4,44
+1494,Revisão de motor,Betoneira,Mecânica,4693,4695,2,70
+1495,Revisão de motor,Trator,Elétrica,3534,3535,1,86
+1496,Revisão elétrica,Betoneira,Elétrica,1450,1454,4,30
+1497,Revisão de motor,Jet Ski,Mecânica,666,670,4,36
+1498,Revisão elétrica,Van,Elétrica,2845,2848,3,31
+1499,Revisão de motor,Pá Carregadeira,Mecânica,1121,1125,4,50
+1500,Revisão de motor,Jet Ski,Elétrica,2646,2648,2,37
