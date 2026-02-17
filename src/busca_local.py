@@ -1,6 +1,5 @@
 from src.heuristica_de_alocacao import alocar_ordens
 import time
-import random
 
 def tem_interseccao(ordem1, ordem2):
     """
@@ -12,7 +11,7 @@ def tem_interseccao(ordem1, ordem2):
     return inicio_max <= fim_min
 
 
-def busca_local_first_improvement(ordens, equipes, solucao_inicial, tipo_movimento="swap"):
+def busca_local_first_improvement(ordens, equipes, solucao_inicial, tipo_movimento="swap", max_tempo_segundos=None):
     """
     Busca Local First Improvement OTIMIZADA.
 
@@ -26,7 +25,8 @@ def busca_local_first_improvement(ordens, equipes, solucao_inicial, tipo_movimen
     melhor_solucao = solucao_inicial
     melhor_penalidade = solucao_inicial.penalidade_total
     melhor_N = list(solucao_inicial.N)
-    max_tempo_segundos = len(melhor_N)
+    if max_tempo_segundos is None:
+        max_tempo_segundos = len(melhor_N)
     melhorou = True
     iteracao = 0
 

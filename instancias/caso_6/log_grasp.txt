@@ -1,0 +1,70 @@
+/media/matheus/HD/metaheuristicas_para_problema_de_alocacao/metaheuristicas_para_problema_de_alocacao/.venv/bin/python /media/matheus/HD/metaheuristicas_para_problema_de_alocacao/metaheuristicas_para_problema_de_alocacao/main.py --equipes=instancias/caso_6/equipes.csv --ordem=instancias/caso_6/ordens.csv --arquivo=caso_6 --algoritmo=grasp --tipo_movimento=swap --max_tempo_segundos=3600
+=== Iniciando GRASP (Max Tempo: 3600s, Alpha: 0.7) ===
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 15267) ---
+  > [Iter 0] MELHORA! (-13) Trocando ordem 1868 (pos 46) com 4986 (pos 2847).
+    Nova Penalidade: 15254
+  > [Iter 1] MELHORA! (-117) Trocando ordem 344 (pos 113) com 3498 (pos 3297).
+    Nova Penalidade: 15137
+  > [Iter 2] MELHORA! (-39) Trocando ordem 2277 (pos 754) com 2189 (pos 1718).
+    Nova Penalidade: 15098
+--- Fim Busca Local. Tempo: 604.54s. Penalidade Final: 15098 ---
+
+
+[*] NOVA MELHOR SOLUÇÃO NA ITERAÇÃO 1!
+    Penalidade: 15098
+    Alocadas: 4700
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 15107) ---
+  > [Iter 0] MELHORA! (-59) Trocando ordem 3554 (pos 195) com 2394 (pos 2445).
+    Nova Penalidade: 15048
+  > [Iter 1] MELHORA! (-39) Trocando ordem 2277 (pos 754) com 2189 (pos 1436).
+    Nova Penalidade: 15009
+--- Fim Busca Local. Tempo: 603.56s. Penalidade Final: 15009 ---
+
+
+[*] NOVA MELHOR SOLUÇÃO NA ITERAÇÃO 2!
+    Penalidade: 15009
+    Alocadas: 4699
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 15246) ---
+  > [Iter 0] MELHORA! (-59) Trocando ordem 3554 (pos 205) com 2394 (pos 2183).
+    Nova Penalidade: 15187
+  > [Iter 1] MELHORA! (-13) Trocando ordem 1868 (pos 389) com 4986 (pos 4039).
+    Nova Penalidade: 15174
+  > [Iter 2] MELHORA! (-117) Trocando ordem 344 (pos 611) com 3498 (pos 3592).
+    Nova Penalidade: 15057
+--- Fim Busca Local. Tempo: 602.13s. Penalidade Final: 15057 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 15311) ---
+  > [Iter 0] MELHORA! (-13) Trocando ordem 1868 (pos 458) com 4986 (pos 3547).
+    Nova Penalidade: 15298
+  > [Iter 1] MELHORA! (-59) Trocando ordem 4133 (pos 593) com 2394 (pos 2417).
+    Nova Penalidade: 15239
+  > [Iter 2] MELHORA! (-117) Trocando ordem 344 (pos 759) com 3498 (pos 3728).
+    Nova Penalidade: 15122
+--- Fim Busca Local. Tempo: 603.09s. Penalidade Final: 15122 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 15149) ---
+  > [Iter 0] MELHORA! (-47) Trocando ordem 4597 (pos 129) com 1205 (pos 18).
+    Nova Penalidade: 15102
+  > [Iter 1] MELHORA! (-117) Trocando ordem 344 (pos 591) com 3498 (pos 3647).
+    Nova Penalidade: 14985
+  > [Iter 2] MELHORA! (-39) Trocando ordem 2277 (pos 788) com 2189 (pos 1590).
+    Nova Penalidade: 14946
+--- Fim Busca Local. Tempo: 600.65s. Penalidade Final: 14946 ---
+
+
+[*] NOVA MELHOR SOLUÇÃO NA ITERAÇÃO 5!
+    Penalidade: 14946
+    Alocadas: 4700
+... GRASP rodando. Iteração 5. Melhor Penalidade: 14946
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 15202) ---
+  > [Iter 0] MELHORA! (-59) Trocando ordem 3554 (pos 259) com 2394 (pos 3906).
+    Nova Penalidade: 15143
+  > [Iter 1] MELHORA! (-117) Trocando ordem 344 (pos 418) com 3498 (pos 3967).
+    Nova Penalidade: 15026
+--- Fim Busca Local. Tempo: 549.82s. Penalidade Final: 15026 ---
+
+
+=== FIM GRASP ===
+Total Iterações: 6
+Melhor Penalidade Encontrada: 14946
+Gráfico salvo em imagens/caso_6_heuristica_grasp.png

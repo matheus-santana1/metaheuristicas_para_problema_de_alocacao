@@ -78,19 +78,19 @@ O script `main.py` é o ponto de entrada principal para a execução das meta-he
 python main.py --equipes="instancias/caso_6/equipes.csv"
 --ordem="instancias/caso_6/ordens.csv"
 --arquivo="caso_6"
---tipo_heuristica="parcialmente_gulosa"
+--algoritmo="parcialmente_gulosa"
 --tipo_movimento="shift"
 --seed=10
 ```
 
-| Argumento           | Descrição                                                                    | Valores Possíveis (Exemplos)           |
-|:--------------------|:-----------------------------------------------------------------------------|:---------------------------------------|
-| `--equipes`         | Caminho para o arquivo CSV com os dados das equipes.                         | `instancias/caso_3/equipes.csv`        |
-| `--ordem`           | Caminho para o arquivo CSV com os dados das ordens de manutenção.            | `instancias/caso_3/ordens.csv`         |
-| `--seed`            | Semente para o gerador de números pseudoaleatórios (para reprodutibilidade). | `10`, `42`, etc.                       |
-| `--arquivo`         | Nome base para os arquivos de saída (resultados).                            | `caso_3`                               |
-| `--tipo_heuristica` | Tipo de heurística a ser executada.                                          | `simples`, `parcialmente_gulosa`, etc. |
-| `--tipo_movimento`  | Tipo de movimento a ser executado.                                           | `shift`, `swap`, etc.                  |
+| Argumento          | Descrição                                                                    | Valores Possíveis (Exemplos)           |
+|:-------------------|:-----------------------------------------------------------------------------|:---------------------------------------|
+| `--equipes`        | Caminho para o arquivo CSV com os dados das equipes.                         | `instancias/caso_3/equipes.csv`        |
+| `--ordem`          | Caminho para o arquivo CSV com os dados das ordens de manutenção.            | `instancias/caso_3/ordens.csv`         |
+| `--seed`           | Semente para o gerador de números pseudoaleatórios (para reprodutibilidade). | `10`, `42`, etc.                       |
+| `--arquivo`        | Nome base para os arquivos de saída (resultados).                            | `caso_3`                               |
+| `--algoritmo`      | Tipo de heurística a ser executada.                                          | `simples`, `parcialmente_gulosa`, etc. |
+| `--tipo_movimento` | Tipo de movimento a ser executado.                                           | `shift`, `swap`, etc.                  |
 
 #### Execução de Geração de Soluções (via `gerar_solucoes.py`)
 
