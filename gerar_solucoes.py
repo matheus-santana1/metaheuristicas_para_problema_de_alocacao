@@ -10,7 +10,7 @@ for caso in range(1, 3 + 1):
             f"--ordem=instancias/caso_{caso}/ordens.csv",
             "--seed=10",
             f"--arquivo=caso_{caso}",
-            f"--tipo_heuristica={tipo}"
+            f"--algoritmo={tipo}"
         ]
         print("Executando:", " ".join(cmd))
         subprocess.run(cmd)

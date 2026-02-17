@@ -3,6 +3,7 @@ from src.heuristicas_construtivas import heuristica_simples, heuristica_parcialm
 from src.heuristica_de_alocacao import alocar_ordens
 from src.grafico_de_gantt import plotar_grafico_gantt
 from src.busca_local import busca_local_first_improvement
+from src.grasp import grasp
 from args import get_args
 
 args = get_args()
@@ -13,10 +14,12 @@ def main():
     tipo_movimento = args.tipo_movimento #swap ou shift
 
     N = []
-    if args.tipo_heuristica == "simples":
+    if args.algoritmo == "simples":
         N = heuristica_simples(ordens)
-    elif args.tipo_heuristica == "parcialmente_gulosa":
+    elif args.algoritmo == "parcialmente_gulosa":
         N = heuristica_parcialmente_gulosa(ordens)
+    elif args.algoritmo == "grasp":
+        return grasp(ordens, equipes, tipo_movimento, alpha=0.7)
 
     solucao = alocar_ordens(ordens, equipes, N)
 
@@ -33,4 +36,4 @@ def main():
 
 if __name__ == "__main__":
     solucao = main()
-    plotar_grafico_gantt(solucao, f"imagens/{args.arquivo}_heuristica_{args.tipo_heuristica}")
+    plotar_grafico_gantt(solucao, f"imagens/{args.arquivo}_heuristica_{args.algoritmo}")
