@@ -33,4 +33,4 @@ def main():
 
 if __name__ == "__main__":
     solucao = main()
-    plotar_grafico_gantt(melhor_solucao, f"imagens/{args.arquivo}_heuristica_{args.tipo_heuristica}")
+    plotar_grafico_gantt(solucao, f"imagens/{args.arquivo}_heuristica_{args.tipo_heuristica}")
