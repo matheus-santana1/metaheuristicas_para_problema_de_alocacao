@@ -10,7 +10,7 @@ def get_args():
     parser.add_argument("--algoritmo", required=True, help="Tipo de heurística a ser usada.")
     parser.add_argument("--tipo_movimento", required=True, help="Tipo de movimento a ser usado.")
     parser.add_argument("--seed", required=False, help="Semente para função random.")
-    parser.add_argument("--max_tempo_segundos", required=False, help="Tempo máximo para execução do GRASP.")
+    parser.add_argument("--max_tempo_segundos", required=False, help="Tempo máximo para execução do GRASP ou Busca Local.")
     parser.add_argument("--salvar_gantt", action="store_true", help="Se presente, salva o gráfico de GANTT.")
     seed = parser.parse_args().seed
     if seed:

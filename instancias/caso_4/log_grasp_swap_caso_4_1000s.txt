@@ -1,0 +1,1013 @@
+=== Iniciando GRASP (Max Tempo: 1000s, Alpha: 0.7) ===
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2034) ---
+  > [Iter 0] MELHORA! (-5) Trocando ordem 381 (pos 208) com 74 (pos 463).
+    Nova Penalidade: 2029
+  > [Iter 1] MELHORA! (-4) Trocando ordem 459 (pos 217) com 83 (pos 98).
+    Nova Penalidade: 2025
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 290) com 183 (pos 147).
+    Nova Penalidade: 2007
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 309) com 341 (pos 186).
+    Nova Penalidade: 1976
+  > [Iter 4] MELHORA! (-2) Trocando ordem 384 (pos 403) com 237 (pos 145).
+    Nova Penalidade: 1974
+  > [Iter 5] MELHORA! (-1) Trocando ordem 197 (pos 483) com 496 (pos 356).
+    Nova Penalidade: 1973
+  Resumo Iteração 7: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 20.99s. Penalidade Final: 1973 ---
+
+
+[*] NOVA MELHOR SOLUÇÃO NA ITERAÇÃO 1!
+    Penalidade: 1973
+    Alocadas: 458
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2139) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 124) com 102 (pos 85).
+    Nova Penalidade: 2094
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 228) com 237 (pos 36).
+    Nova Penalidade: 2092
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 240) com 183 (pos 3).
+    Nova Penalidade: 2074
+  > [Iter 3] MELHORA! (-5) Trocando ordem 381 (pos 298) com 74 (pos 462).
+    Nova Penalidade: 2069
+  > [Iter 4] MELHORA! (-4) Trocando ordem 459 (pos 301) com 83 (pos 112).
+    Nova Penalidade: 2065
+  > [Iter 5] MELHORA! (-31) Trocando ordem 65 (pos 331) com 305 (pos 181).
+    Nova Penalidade: 2034
+  > [Iter 6] MELHORA! (-60) Trocando ordem 224 (pos 350) com 351 (pos 314).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 474) com 437 (pos 370).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 20.66s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2057) ---
+  > [Iter 0] MELHORA! (-18) Trocando ordem 443 (pos 221) com 183 (pos 109).
+    Nova Penalidade: 2039
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 241) com 237 (pos 44).
+    Nova Penalidade: 2037
+  > [Iter 2] MELHORA! (-23) Trocando ordem 207 (pos 349) com 484 (pos 251).
+    Nova Penalidade: 2014
+  > [Iter 3] MELHORA! (-4) Trocando ordem 459 (pos 379) com 19 (pos 102).
+    Nova Penalidade: 2010
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 411) com 305 (pos 161).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 424) com 120 (pos 270).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 482) com 437 (pos 370).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 21.00s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2102) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 61) com 102 (pos 12).
+    Nova Penalidade: 2057
+  > [Iter 1] MELHORA! (-4) Trocando ordem 459 (pos 223) com 83 (pos 38).
+    Nova Penalidade: 2053
+  > [Iter 2] MELHORA! (-31) Trocando ordem 65 (pos 270) com 305 (pos 184).
+    Nova Penalidade: 2022
+  > [Iter 3] MELHORA! (-5) Trocando ordem 381 (pos 301) com 74 (pos 419).
+    Nova Penalidade: 2017
+  > [Iter 4] MELHORA! (-18) Trocando ordem 443 (pos 349) com 183 (pos 97).
+    Nova Penalidade: 1999
+  > [Iter 5] MELHORA! (-23) Trocando ordem 207 (pos 355) com 484 (pos 291).
+    Nova Penalidade: 1976
+  > [Iter 6] MELHORA! (-2) Trocando ordem 384 (pos 371) com 237 (pos 20).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 495) com 496 (pos 323).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 19.12s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2035) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 43) com 34 (pos 27).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 250) com 237 (pos 115).
+    Nova Penalidade: 2032
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 259) com 183 (pos 119).
+    Nova Penalidade: 2014
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 322) com 305 (pos 156).
+    Nova Penalidade: 1983
+  > [Iter 4] MELHORA! (-5) Trocando ordem 74 (pos 404) com 120 (pos 223).
+    Nova Penalidade: 1978
+  > [Iter 5] MELHORA! (-4) Trocando ordem 459 (pos 422) com 83 (pos 123).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 495) com 496 (pos 378).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 20.27s. Penalidade Final: 1973 ---
+
+... GRASP rodando. Iteração 5. Melhor Penalidade: 1973
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2098) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 91) com 102 (pos 28).
+    Nova Penalidade: 2053
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 174) com 237 (pos 23).
+    Nova Penalidade: 2051
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 192) com 183 (pos 9).
+    Nova Penalidade: 2033
+  > [Iter 3] MELHORA! (-5) Trocando ordem 381 (pos 309) com 74 (pos 464).
+    Nova Penalidade: 2028
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 312) com 305 (pos 199).
+    Nova Penalidade: 1997
+  > [Iter 5] MELHORA! (-23) Trocando ordem 207 (pos 346) com 484 (pos 310).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 487) com 496 (pos 395).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 16.99s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2004) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 240) com 34 (pos 57).
+    Nova Penalidade: 2003
+  > [Iter 1] MELHORA! (-18) Trocando ordem 443 (pos 265) com 183 (pos 172).
+    Nova Penalidade: 1985
+  > [Iter 2] MELHORA! (-2) Trocando ordem 384 (pos 287) com 237 (pos 38).
+    Nova Penalidade: 1983
+  > [Iter 3] MELHORA! (-5) Trocando ordem 381 (pos 336) com 74 (pos 420).
+    Nova Penalidade: 1978
+  > [Iter 4] MELHORA! (-4) Trocando ordem 459 (pos 397) com 83 (pos 118).
+    Nova Penalidade: 1974
+  > [Iter 5] MELHORA! (-1) Trocando ordem 197 (pos 487) com 496 (pos 395).
+    Nova Penalidade: 1973
+  Resumo Iteração 7: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 16.17s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2072) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 58) com 34 (pos 36).
+    Nova Penalidade: 2071
+  > [Iter 1] MELHORA! (-45) Trocando ordem 370 (pos 112) com 102 (pos 83).
+    Nova Penalidade: 2026
+  > [Iter 2] MELHORA! (-4) Trocando ordem 459 (pos 207) com 83 (pos 19).
+    Nova Penalidade: 2022
+  > [Iter 3] MELHORA! (-18) Trocando ordem 443 (pos 213) com 183 (pos 110).
+    Nova Penalidade: 2004
+  > [Iter 4] MELHORA! (-2) Trocando ordem 384 (pos 235) com 237 (pos 13).
+    Nova Penalidade: 2002
+  > [Iter 5] MELHORA! (-23) Trocando ordem 207 (pos 318) com 484 (pos 305).
+    Nova Penalidade: 1979
+  > [Iter 6] MELHORA! (-5) Trocando ordem 74 (pos 437) com 120 (pos 330).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 480) com 437 (pos 376).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 17.96s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2079) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 136) com 102 (pos 39).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-4) Trocando ordem 459 (pos 203) com 19 (pos 116).
+    Nova Penalidade: 2030
+  > [Iter 2] MELHORA! (-31) Trocando ordem 65 (pos 282) com 305 (pos 187).
+    Nova Penalidade: 1999
+  > [Iter 3] MELHORA! (-2) Trocando ordem 384 (pos 302) com 237 (pos 44).
+    Nova Penalidade: 1997
+  > [Iter 4] MELHORA! (-18) Trocando ordem 443 (pos 376) com 183 (pos 73).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 411) com 120 (pos 200).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 485) com 437 (pos 345).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 18.41s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2035) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 132) com 34 (pos 130).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-18) Trocando ordem 443 (pos 163) com 183 (pos 115).
+    Nova Penalidade: 2016
+  > [Iter 2] MELHORA! (-2) Trocando ordem 384 (pos 201) com 237 (pos 143).
+    Nova Penalidade: 2014
+  > [Iter 3] MELHORA! (-4) Trocando ordem 459 (pos 310) com 19 (pos 154).
+    Nova Penalidade: 2010
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 425) com 305 (pos 164).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 434) com 120 (pos 203).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 488) com 496 (pos 338).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 18.21s. Penalidade Final: 1973 ---
+
+... GRASP rodando. Iteração 10. Melhor Penalidade: 1973
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2099) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 28) com 34 (pos 10).
+    Nova Penalidade: 2098
+  > [Iter 1] MELHORA! (-45) Trocando ordem 370 (pos 110) com 102 (pos 11).
+    Nova Penalidade: 2053
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 159) com 183 (pos 34).
+    Nova Penalidade: 2035
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 208) com 305 (pos 152).
+    Nova Penalidade: 2004
+  > [Iter 4] MELHORA! (-2) Trocando ordem 384 (pos 277) com 237 (pos 0).
+    Nova Penalidade: 2002
+  > [Iter 5] MELHORA! (-23) Trocando ordem 207 (pos 346) com 484 (pos 256).
+    Nova Penalidade: 1979
+  > [Iter 6] MELHORA! (-5) Trocando ordem 74 (pos 385) com 120 (pos 242).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 483) com 496 (pos 397).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 17.43s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2058) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 108) com 34 (pos 3).
+    Nova Penalidade: 2057
+  > [Iter 1] MELHORA! (-5) Trocando ordem 381 (pos 205) com 74 (pos 443).
+    Nova Penalidade: 2052
+  > [Iter 2] MELHORA! (-2) Trocando ordem 384 (pos 207) com 237 (pos 75).
+    Nova Penalidade: 2050
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 335) com 305 (pos 252).
+    Nova Penalidade: 2019
+  > [Iter 4] MELHORA! (-4) Trocando ordem 459 (pos 373) com 19 (pos 151).
+    Nova Penalidade: 2015
+  > [Iter 5] MELHORA! (-23) Trocando ordem 207 (pos 382) com 484 (pos 301).
+    Nova Penalidade: 1992
+  > [Iter 6] MELHORA! (-18) Trocando ordem 443 (pos 398) com 183 (pos 137).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 484) com 496 (pos 227).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 21.89s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2035) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 124) com 34 (pos 46).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 191) com 237 (pos 61).
+    Nova Penalidade: 2032
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 250) com 183 (pos 64).
+    Nova Penalidade: 2014
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 252) com 305 (pos 171).
+    Nova Penalidade: 1983
+  > [Iter 4] MELHORA! (-4) Trocando ordem 459 (pos 312) com 83 (pos 3).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 384) com 120 (pos 207).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 489) com 437 (pos 394).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 17.58s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2058) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 67) com 34 (pos 5).
+    Nova Penalidade: 2057
+  > [Iter 1] MELHORA! (-5) Trocando ordem 381 (pos 169) com 74 (pos 449).
+    Nova Penalidade: 2052
+  > [Iter 2] MELHORA! (-2) Trocando ordem 384 (pos 194) com 237 (pos 77).
+    Nova Penalidade: 2050
+  > [Iter 3] MELHORA! (-4) Trocando ordem 459 (pos 316) com 83 (pos 21).
+    Nova Penalidade: 2046
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 323) com 305 (pos 292).
+    Nova Penalidade: 2015
+  > [Iter 5] MELHORA! (-18) Trocando ordem 443 (pos 333) com 183 (pos 40).
+    Nova Penalidade: 1997
+  > [Iter 6] MELHORA! (-23) Trocando ordem 207 (pos 354) com 484 (pos 299).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 478) com 437 (pos 394).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 19.39s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2058) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 97) com 34 (pos 1).
+    Nova Penalidade: 2057
+  > [Iter 1] MELHORA! (-5) Trocando ordem 381 (pos 176) com 74 (pos 431).
+    Nova Penalidade: 2052
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 204) com 183 (pos 140).
+    Nova Penalidade: 2034
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 233) com 341 (pos 182).
+    Nova Penalidade: 2003
+  > [Iter 4] MELHORA! (-2) Trocando ordem 384 (pos 311) com 237 (pos 124).
+    Nova Penalidade: 2001
+  > [Iter 5] MELHORA! (-4) Trocando ordem 459 (pos 330) com 83 (pos 109).
+    Nova Penalidade: 1997
+  > [Iter 6] MELHORA! (-23) Trocando ordem 207 (pos 333) com 484 (pos 175).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 491) com 437 (pos 385).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 16.80s. Penalidade Final: 1973 ---
+
+... GRASP rodando. Iteração 15. Melhor Penalidade: 1973
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2075) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 128) com 102 (pos 52).
+    Nova Penalidade: 2030
+  > [Iter 1] MELHORA! (-18) Trocando ordem 443 (pos 178) com 183 (pos 108).
+    Nova Penalidade: 2012
+  > [Iter 2] MELHORA! (-2) Trocando ordem 384 (pos 236) com 237 (pos 75).
+    Nova Penalidade: 2010
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 348) com 341 (pos 255).
+    Nova Penalidade: 1979
+  > [Iter 4] MELHORA! (-5) Trocando ordem 74 (pos 412) com 120 (pos 169).
+    Nova Penalidade: 1974
+  > [Iter 5] MELHORA! (-1) Trocando ordem 197 (pos 494) com 437 (pos 398).
+    Nova Penalidade: 1973
+  Resumo Iteração 7: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 16.80s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2026) ---
+  > [Iter 0] MELHORA! (-5) Trocando ordem 381 (pos 184) com 74 (pos 411).
+    Nova Penalidade: 2021
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 218) com 237 (pos 67).
+    Nova Penalidade: 2019
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 285) com 183 (pos 92).
+    Nova Penalidade: 2001
+  > [Iter 3] MELHORA! (-4) Trocando ordem 459 (pos 293) com 83 (pos 123).
+    Nova Penalidade: 1997
+  > [Iter 4] MELHORA! (-23) Trocando ordem 207 (pos 354) com 484 (pos 223).
+    Nova Penalidade: 1974
+  > [Iter 5] MELHORA! (-1) Trocando ordem 197 (pos 485) com 496 (pos 386).
+    Nova Penalidade: 1973
+  Resumo Iteração 7: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 16.97s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2079) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 69) com 102 (pos 56).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-18) Trocando ordem 443 (pos 192) com 183 (pos 70).
+    Nova Penalidade: 2016
+  > [Iter 2] MELHORA! (-2) Trocando ordem 384 (pos 257) com 237 (pos 123).
+    Nova Penalidade: 2014
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 319) com 341 (pos 261).
+    Nova Penalidade: 1983
+  > [Iter 4] MELHORA! (-4) Trocando ordem 459 (pos 390) com 83 (pos 17).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 438) com 120 (pos 232).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 485) com 437 (pos 362).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 20.10s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2075) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 74) com 102 (pos 2).
+    Nova Penalidade: 2030
+  > [Iter 1] MELHORA! (-18) Trocando ordem 443 (pos 170) com 183 (pos 37).
+    Nova Penalidade: 2012
+  > [Iter 2] MELHORA! (-5) Trocando ordem 381 (pos 226) com 74 (pos 384).
+    Nova Penalidade: 2007
+  > [Iter 3] MELHORA! (-2) Trocando ordem 384 (pos 304) com 237 (pos 95).
+    Nova Penalidade: 2005
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 364) com 341 (pos 166).
+    Nova Penalidade: 1974
+  > [Iter 5] MELHORA! (-1) Trocando ordem 197 (pos 488) com 496 (pos 396).
+    Nova Penalidade: 1973
+  Resumo Iteração 7: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 16.20s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2079) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 102) com 102 (pos 87).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-18) Trocando ordem 443 (pos 177) com 183 (pos 143).
+    Nova Penalidade: 2016
+  > [Iter 2] MELHORA! (-2) Trocando ordem 384 (pos 220) com 237 (pos 18).
+    Nova Penalidade: 2014
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 375) com 305 (pos 164).
+    Nova Penalidade: 1983
+  > [Iter 4] MELHORA! (-4) Trocando ordem 459 (pos 385) com 83 (pos 16).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 407) com 120 (pos 209).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 486) com 496 (pos 294).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 19.94s. Penalidade Final: 1973 ---
+
+... GRASP rodando. Iteração 20. Melhor Penalidade: 1973
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2102) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 80) com 102 (pos 71).
+    Nova Penalidade: 2057
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 286) com 237 (pos 8).
+    Nova Penalidade: 2055
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 314) com 183 (pos 135).
+    Nova Penalidade: 2037
+  > [Iter 3] MELHORA! (-4) Trocando ordem 459 (pos 321) com 83 (pos 36).
+    Nova Penalidade: 2033
+  > [Iter 4] MELHORA! (-23) Trocando ordem 207 (pos 332) com 484 (pos 196).
+    Nova Penalidade: 2010
+  > [Iter 5] MELHORA! (-5) Trocando ordem 381 (pos 368) com 74 (pos 429).
+    Nova Penalidade: 2005
+  > [Iter 6] MELHORA! (-31) Trocando ordem 65 (pos 393) com 305 (pos 193).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 483) com 496 (pos 278).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 19.07s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2048) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 131) com 102 (pos 16).
+    Nova Penalidade: 2003
+  > [Iter 1] MELHORA! (-4) Trocando ordem 459 (pos 166) com 83 (pos 121).
+    Nova Penalidade: 1999
+  > [Iter 2] MELHORA! (-2) Trocando ordem 384 (pos 287) com 237 (pos 25).
+    Nova Penalidade: 1997
+  > [Iter 3] MELHORA! (-18) Trocando ordem 443 (pos 301) com 183 (pos 101).
+    Nova Penalidade: 1979
+  > [Iter 4] MELHORA! (-5) Trocando ordem 74 (pos 416) com 120 (pos 175).
+    Nova Penalidade: 1974
+  > [Iter 5] MELHORA! (-1) Trocando ordem 197 (pos 481) com 496 (pos 374).
+    Nova Penalidade: 1973
+  Resumo Iteração 7: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 15.89s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2079) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 133) com 102 (pos 110).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 173) com 237 (pos 33).
+    Nova Penalidade: 2032
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 326) com 183 (pos 67).
+    Nova Penalidade: 2014
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 351) com 305 (pos 219).
+    Nova Penalidade: 1983
+  > [Iter 4] MELHORA! (-4) Trocando ordem 459 (pos 370) com 83 (pos 39).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 390) com 120 (pos 180).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 490) com 496 (pos 250).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 19.44s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2079) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 190) com 102 (pos 57).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-4) Trocando ordem 459 (pos 194) com 83 (pos 8).
+    Nova Penalidade: 2030
+  > [Iter 2] MELHORA! (-2) Trocando ordem 384 (pos 277) com 237 (pos 5).
+    Nova Penalidade: 2028
+  > [Iter 3] MELHORA! (-18) Trocando ordem 443 (pos 320) com 183 (pos 234).
+    Nova Penalidade: 2010
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 367) com 305 (pos 164).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 445) com 120 (pos 262).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 496) com 437 (pos 379).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 18.99s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2035) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 99) com 34 (pos 16).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-18) Trocando ordem 443 (pos 171) com 183 (pos 96).
+    Nova Penalidade: 2016
+  > [Iter 2] MELHORA! (-2) Trocando ordem 384 (pos 223) com 237 (pos 43).
+    Nova Penalidade: 2014
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 367) com 341 (pos 189).
+    Nova Penalidade: 1983
+  > [Iter 4] MELHORA! (-4) Trocando ordem 459 (pos 368) com 83 (pos 97).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 388) com 120 (pos 265).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 491) com 496 (pos 389).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 17.41s. Penalidade Final: 1973 ---
+
+... GRASP rodando. Iteração 25. Melhor Penalidade: 1973
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2102) ---
+  > [Iter 0] MELHORA! (-18) Trocando ordem 443 (pos 180) com 183 (pos 119).
+    Nova Penalidade: 2084
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 230) com 237 (pos 78).
+    Nova Penalidade: 2082
+  > [Iter 2] MELHORA! (-4) Trocando ordem 459 (pos 256) com 83 (pos 36).
+    Nova Penalidade: 2078
+  > [Iter 3] MELHORA! (-45) Trocando ordem 370 (pos 260) com 102 (pos 55).
+    Nova Penalidade: 2033
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 358) com 305 (pos 206).
+    Nova Penalidade: 2002
+  > [Iter 5] MELHORA! (-23) Trocando ordem 207 (pos 377) com 484 (pos 349).
+    Nova Penalidade: 1979
+  > [Iter 6] MELHORA! (-5) Trocando ordem 74 (pos 404) com 120 (pos 172).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 490) com 496 (pos 411).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 22.82s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2103) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 100) com 34 (pos 30).
+    Nova Penalidade: 2102
+  > [Iter 1] MELHORA! (-45) Trocando ordem 370 (pos 140) com 102 (pos 35).
+    Nova Penalidade: 2057
+  > [Iter 2] MELHORA! (-23) Trocando ordem 207 (pos 215) com 484 (pos 189).
+    Nova Penalidade: 2034
+  > [Iter 3] MELHORA! (-18) Trocando ordem 443 (pos 223) com 183 (pos 131).
+    Nova Penalidade: 2016
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 227) com 305 (pos 194).
+    Nova Penalidade: 1985
+  > [Iter 5] MELHORA! (-2) Trocando ordem 384 (pos 305) com 237 (pos 142).
+    Nova Penalidade: 1983
+  > [Iter 6] MELHORA! (-4) Trocando ordem 459 (pos 370) com 83 (pos 146).
+    Nova Penalidade: 1979
+  > [Iter 7] MELHORA! (-5) Trocando ordem 74 (pos 393) com 120 (pos 198).
+    Nova Penalidade: 1974
+  > [Iter 8] MELHORA! (-1) Trocando ordem 197 (pos 484) com 437 (pos 400).
+    Nova Penalidade: 1973
+  Resumo Iteração 10: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 18.72s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2057) ---
+  > [Iter 0] MELHORA! (-2) Trocando ordem 384 (pos 258) com 237 (pos 136).
+    Nova Penalidade: 2055
+  > [Iter 1] MELHORA! (-23) Trocando ordem 207 (pos 262) com 484 (pos 234).
+    Nova Penalidade: 2032
+  > [Iter 2] MELHORA! (-31) Trocando ordem 65 (pos 295) com 305 (pos 156).
+    Nova Penalidade: 2001
+  > [Iter 3] MELHORA! (-5) Trocando ordem 381 (pos 347) com 74 (pos 423).
+    Nova Penalidade: 1996
+  > [Iter 4] MELHORA! (-18) Trocando ordem 443 (pos 356) com 183 (pos 81).
+    Nova Penalidade: 1978
+  > [Iter 5] MELHORA! (-4) Trocando ordem 459 (pos 376) com 83 (pos 72).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 488) com 496 (pos 326).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 19.41s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2079) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 87) com 102 (pos 17).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-18) Trocando ordem 443 (pos 227) com 183 (pos 19).
+    Nova Penalidade: 2016
+  > [Iter 2] MELHORA! (-31) Trocando ordem 65 (pos 344) com 305 (pos 171).
+    Nova Penalidade: 1985
+  > [Iter 3] MELHORA! (-2) Trocando ordem 384 (pos 367) com 237 (pos 145).
+    Nova Penalidade: 1983
+  > [Iter 4] MELHORA! (-4) Trocando ordem 459 (pos 390) com 83 (pos 32).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 453) com 120 (pos 170).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 488) com 496 (pos 388).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 21.08s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2080) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 135) com 102 (pos 24).
+    Nova Penalidade: 2035
+  > [Iter 1] MELHORA! (-1) Trocando ordem 432 (pos 137) com 34 (pos 41).
+    Nova Penalidade: 2034
+  > [Iter 2] MELHORA! (-4) Trocando ordem 459 (pos 221) com 83 (pos 0).
+    Nova Penalidade: 2030
+  > [Iter 3] MELHORA! (-18) Trocando ordem 443 (pos 252) com 183 (pos 117).
+    Nova Penalidade: 2012
+  > [Iter 4] MELHORA! (-2) Trocando ordem 384 (pos 329) com 237 (pos 121).
+    Nova Penalidade: 2010
+  > [Iter 5] MELHORA! (-31) Trocando ordem 65 (pos 358) com 305 (pos 160).
+    Nova Penalidade: 1979
+  > [Iter 6] MELHORA! (-5) Trocando ordem 74 (pos 407) com 120 (pos 326).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 487) com 496 (pos 361).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 18.33s. Penalidade Final: 1973 ---
+
+... GRASP rodando. Iteração 30. Melhor Penalidade: 1973
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2080) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 140) com 102 (pos 60).
+    Nova Penalidade: 2035
+  > [Iter 1] MELHORA! (-1) Trocando ordem 432 (pos 149) com 34 (pos 81).
+    Nova Penalidade: 2034
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 200) com 183 (pos 93).
+    Nova Penalidade: 2016
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 231) com 305 (pos 180).
+    Nova Penalidade: 1985
+  > [Iter 4] MELHORA! (-2) Trocando ordem 384 (pos 312) com 237 (pos 118).
+    Nova Penalidade: 1983
+  > [Iter 5] MELHORA! (-5) Trocando ordem 381 (pos 341) com 74 (pos 441).
+    Nova Penalidade: 1978
+  > [Iter 6] MELHORA! (-4) Trocando ordem 459 (pos 355) com 83 (pos 39).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 489) com 496 (pos 388).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 18.15s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2030) ---
+  > [Iter 0] MELHORA! (-5) Trocando ordem 381 (pos 234) com 74 (pos 388).
+    Nova Penalidade: 2025
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 328) com 237 (pos 111).
+    Nova Penalidade: 2023
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 385) com 183 (pos 180).
+    Nova Penalidade: 2005
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 393) com 305 (pos 171).
+    Nova Penalidade: 1974
+  > [Iter 4] MELHORA! (-1) Trocando ordem 197 (pos 488) com 437 (pos 368).
+    Nova Penalidade: 1973
+  Resumo Iteração 6: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 17.87s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2103) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 63) com 34 (pos 39).
+    Nova Penalidade: 2102
+  > [Iter 1] MELHORA! (-45) Trocando ordem 370 (pos 95) com 102 (pos 88).
+    Nova Penalidade: 2057
+  > [Iter 2] MELHORA! (-23) Trocando ordem 207 (pos 223) com 484 (pos 219).
+    Nova Penalidade: 2034
+  > [Iter 3] MELHORA! (-2) Trocando ordem 384 (pos 240) com 237 (pos 21).
+    Nova Penalidade: 2032
+  > [Iter 4] MELHORA! (-18) Trocando ordem 443 (pos 266) com 183 (pos 75).
+    Nova Penalidade: 2014
+  > [Iter 5] MELHORA! (-4) Trocando ordem 459 (pos 299) com 83 (pos 83).
+    Nova Penalidade: 2010
+  > [Iter 6] MELHORA! (-31) Trocando ordem 65 (pos 315) com 305 (pos 286).
+    Nova Penalidade: 1979
+  > [Iter 7] MELHORA! (-5) Trocando ordem 74 (pos 441) com 120 (pos 203).
+    Nova Penalidade: 1974
+  > [Iter 8] MELHORA! (-1) Trocando ordem 197 (pos 482) com 496 (pos 273).
+    Nova Penalidade: 1973
+  Resumo Iteração 10: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 18.98s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2049) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 62) com 102 (pos 17).
+    Nova Penalidade: 2004
+  > [Iter 1] MELHORA! (-1) Trocando ordem 432 (pos 155) com 34 (pos 70).
+    Nova Penalidade: 2003
+  > [Iter 2] MELHORA! (-4) Trocando ordem 459 (pos 167) com 83 (pos 40).
+    Nova Penalidade: 1999
+  > [Iter 3] MELHORA! (-18) Trocando ordem 443 (pos 204) com 183 (pos 35).
+    Nova Penalidade: 1981
+  > [Iter 4] MELHORA! (-2) Trocando ordem 384 (pos 223) com 237 (pos 28).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 465) com 120 (pos 244).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 491) com 437 (pos 401).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 15.48s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2035) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 87) com 34 (pos 68).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 195) com 237 (pos 40).
+    Nova Penalidade: 2032
+  > [Iter 2] MELHORA! (-4) Trocando ordem 459 (pos 305) com 83 (pos 4).
+    Nova Penalidade: 2028
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 356) com 341 (pos 184).
+    Nova Penalidade: 1997
+  > [Iter 4] MELHORA! (-18) Trocando ordem 443 (pos 385) com 183 (pos 112).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 426) com 120 (pos 262).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 488) com 496 (pos 388).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 19.13s. Penalidade Final: 1973 ---
+
+... GRASP rodando. Iteração 35. Melhor Penalidade: 1973
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2035) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 91) com 34 (pos 33).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 185) com 237 (pos 18).
+    Nova Penalidade: 2032
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 228) com 183 (pos 82).
+    Nova Penalidade: 2014
+  > [Iter 3] MELHORA! (-4) Trocando ordem 459 (pos 289) com 83 (pos 106).
+    Nova Penalidade: 2010
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 382) com 341 (pos 180).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 422) com 120 (pos 237).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 495) com 496 (pos 372).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 17.86s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2035) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 141) com 34 (pos 111).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 259) com 237 (pos 66).
+    Nova Penalidade: 2032
+  > [Iter 2] MELHORA! (-31) Trocando ordem 65 (pos 290) com 305 (pos 148).
+    Nova Penalidade: 2001
+  > [Iter 3] MELHORA! (-18) Trocando ordem 443 (pos 329) com 183 (pos 5).
+    Nova Penalidade: 1983
+  > [Iter 4] MELHORA! (-5) Trocando ordem 381 (pos 345) com 74 (pos 414).
+    Nova Penalidade: 1978
+  > [Iter 5] MELHORA! (-4) Trocando ordem 459 (pos 355) com 83 (pos 55).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 478) com 496 (pos 367).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 18.15s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2034) ---
+  > [Iter 0] MELHORA! (-2) Trocando ordem 384 (pos 189) com 237 (pos 66).
+    Nova Penalidade: 2032
+  > [Iter 1] MELHORA! (-18) Trocando ordem 443 (pos 214) com 183 (pos 90).
+    Nova Penalidade: 2014
+  > [Iter 2] MELHORA! (-4) Trocando ordem 459 (pos 227) com 83 (pos 45).
+    Nova Penalidade: 2010
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 293) com 305 (pos 167).
+    Nova Penalidade: 1979
+  > [Iter 4] MELHORA! (-5) Trocando ordem 74 (pos 437) com 120 (pos 292).
+    Nova Penalidade: 1974
+  > [Iter 5] MELHORA! (-1) Trocando ordem 197 (pos 494) com 496 (pos 332).
+    Nova Penalidade: 1973
+  Resumo Iteração 7: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 15.15s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2080) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 67) com 102 (pos 1).
+    Nova Penalidade: 2035
+  > [Iter 1] MELHORA! (-1) Trocando ordem 432 (pos 103) com 34 (pos 55).
+    Nova Penalidade: 2034
+  > [Iter 2] MELHORA! (-4) Trocando ordem 459 (pos 166) com 83 (pos 104).
+    Nova Penalidade: 2030
+  > [Iter 3] MELHORA! (-2) Trocando ordem 384 (pos 182) com 237 (pos 80).
+    Nova Penalidade: 2028
+  > [Iter 4] MELHORA! (-18) Trocando ordem 443 (pos 239) com 183 (pos 153).
+    Nova Penalidade: 2010
+  > [Iter 5] MELHORA! (-31) Trocando ordem 65 (pos 341) com 341 (pos 225).
+    Nova Penalidade: 1979
+  > [Iter 6] MELHORA! (-5) Trocando ordem 74 (pos 457) com 120 (pos 205).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 482) com 496 (pos 375).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 17.96s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2075) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 130) com 102 (pos 101).
+    Nova Penalidade: 2030
+  > [Iter 1] MELHORA! (-18) Trocando ordem 443 (pos 179) com 183 (pos 31).
+    Nova Penalidade: 2012
+  > [Iter 2] MELHORA! (-2) Trocando ordem 384 (pos 291) com 237 (pos 134).
+    Nova Penalidade: 2010
+  > [Iter 3] MELHORA! (-5) Trocando ordem 74 (pos 350) com 120 (pos 178).
+    Nova Penalidade: 2005
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 370) com 341 (pos 210).
+    Nova Penalidade: 1974
+  > [Iter 5] MELHORA! (-1) Trocando ordem 197 (pos 486) com 437 (pos 323).
+    Nova Penalidade: 1973
+  Resumo Iteração 7: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 16.09s. Penalidade Final: 1973 ---
+
+... GRASP rodando. Iteração 40. Melhor Penalidade: 1973
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2034) ---
+  > [Iter 0] MELHORA! (-18) Trocando ordem 443 (pos 226) com 183 (pos 12).
+    Nova Penalidade: 2016
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 228) com 237 (pos 33).
+    Nova Penalidade: 2014
+  > [Iter 2] MELHORA! (-4) Trocando ordem 459 (pos 247) com 83 (pos 112).
+    Nova Penalidade: 2010
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 316) com 305 (pos 181).
+    Nova Penalidade: 1979
+  > [Iter 4] MELHORA! (-5) Trocando ordem 381 (pos 382) com 74 (pos 427).
+    Nova Penalidade: 1974
+  > [Iter 5] MELHORA! (-1) Trocando ordem 197 (pos 488) com 437 (pos 368).
+    Nova Penalidade: 1973
+  Resumo Iteração 7: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 15.06s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2048) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 67) com 102 (pos 66).
+    Nova Penalidade: 2003
+  > [Iter 1] MELHORA! (-18) Trocando ordem 443 (pos 190) com 183 (pos 33).
+    Nova Penalidade: 1985
+  > [Iter 2] MELHORA! (-2) Trocando ordem 384 (pos 290) com 237 (pos 107).
+    Nova Penalidade: 1983
+  > [Iter 3] MELHORA! (-4) Trocando ordem 459 (pos 308) com 83 (pos 63).
+    Nova Penalidade: 1979
+  > [Iter 4] MELHORA! (-5) Trocando ordem 74 (pos 372) com 120 (pos 216).
+    Nova Penalidade: 1974
+  > [Iter 5] MELHORA! (-1) Trocando ordem 197 (pos 492) com 496 (pos 366).
+    Nova Penalidade: 1973
+  Resumo Iteração 7: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 14.68s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2080) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 61) com 102 (pos 24).
+    Nova Penalidade: 2035
+  > [Iter 1] MELHORA! (-1) Trocando ordem 432 (pos 139) com 34 (pos 73).
+    Nova Penalidade: 2034
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 228) com 183 (pos 42).
+    Nova Penalidade: 2016
+  > [Iter 3] MELHORA! (-2) Trocando ordem 384 (pos 259) com 237 (pos 59).
+    Nova Penalidade: 2014
+  > [Iter 4] MELHORA! (-4) Trocando ordem 459 (pos 275) com 83 (pos 47).
+    Nova Penalidade: 2010
+  > [Iter 5] MELHORA! (-31) Trocando ordem 65 (pos 341) com 341 (pos 183).
+    Nova Penalidade: 1979
+  > [Iter 6] MELHORA! (-5) Trocando ordem 74 (pos 376) com 120 (pos 190).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 484) com 496 (pos 366).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 16.79s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2075) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 133) com 102 (pos 91).
+    Nova Penalidade: 2030
+  > [Iter 1] MELHORA! (-18) Trocando ordem 443 (pos 203) com 183 (pos 83).
+    Nova Penalidade: 2012
+  > [Iter 2] MELHORA! (-2) Trocando ordem 384 (pos 216) com 237 (pos 19).
+    Nova Penalidade: 2010
+  > [Iter 3] MELHORA! (-5) Trocando ordem 381 (pos 287) com 74 (pos 470).
+    Nova Penalidade: 2005
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 322) com 305 (pos 249).
+    Nova Penalidade: 1974
+  > [Iter 5] MELHORA! (-1) Trocando ordem 197 (pos 484) com 496 (pos 337).
+    Nova Penalidade: 1973
+  Resumo Iteração 7: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 14.08s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2102) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 49) com 102 (pos 39).
+    Nova Penalidade: 2057
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 261) com 237 (pos 80).
+    Nova Penalidade: 2055
+  > [Iter 2] MELHORA! (-23) Trocando ordem 207 (pos 312) com 484 (pos 197).
+    Nova Penalidade: 2032
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 314) com 305 (pos 241).
+    Nova Penalidade: 2001
+  > [Iter 4] MELHORA! (-5) Trocando ordem 74 (pos 400) com 120 (pos 272).
+    Nova Penalidade: 1996
+  > [Iter 5] MELHORA! (-4) Trocando ordem 459 (pos 405) com 83 (pos 106).
+    Nova Penalidade: 1992
+  > [Iter 6] MELHORA! (-18) Trocando ordem 443 (pos 420) com 183 (pos 126).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 489) com 496 (pos 401).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 21.20s. Penalidade Final: 1973 ---
+
+... GRASP rodando. Iteração 45. Melhor Penalidade: 1973
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2035) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 87) com 34 (pos 7).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 223) com 237 (pos 125).
+    Nova Penalidade: 2032
+  > [Iter 2] MELHORA! (-4) Trocando ordem 459 (pos 302) com 19 (pos 133).
+    Nova Penalidade: 2028
+  > [Iter 3] MELHORA! (-18) Trocando ordem 443 (pos 359) com 183 (pos 132).
+    Nova Penalidade: 2010
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 406) com 305 (pos 149).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 418) com 120 (pos 259).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 490) com 496 (pos 330).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 20.22s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2035) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 96) com 34 (pos 90).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 165) com 237 (pos 82).
+    Nova Penalidade: 2032
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 223) com 183 (pos 49).
+    Nova Penalidade: 2014
+  > [Iter 3] MELHORA! (-4) Trocando ordem 459 (pos 328) com 19 (pos 138).
+    Nova Penalidade: 2010
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 363) com 305 (pos 237).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 399) com 120 (pos 184).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 486) com 496 (pos 387).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 18.85s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2075) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 72) com 102 (pos 26).
+    Nova Penalidade: 2030
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 171) com 237 (pos 28).
+    Nova Penalidade: 2028
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 238) com 183 (pos 124).
+    Nova Penalidade: 2010
+  > [Iter 3] MELHORA! (-31) Trocando ordem 65 (pos 320) com 341 (pos 197).
+    Nova Penalidade: 1979
+  > [Iter 4] MELHORA! (-5) Trocando ordem 74 (pos 421) com 120 (pos 282).
+    Nova Penalidade: 1974
+  > [Iter 5] MELHORA! (-1) Trocando ordem 197 (pos 486) com 437 (pos 363).
+    Nova Penalidade: 1973
+  Resumo Iteração 7: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 16.27s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2079) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 87) com 102 (pos 70).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-5) Trocando ordem 381 (pos 196) com 74 (pos 417).
+    Nova Penalidade: 2029
+  > [Iter 2] MELHORA! (-31) Trocando ordem 65 (pos 200) com 305 (pos 168).
+    Nova Penalidade: 1998
+  > [Iter 3] MELHORA! (-18) Trocando ordem 443 (pos 247) com 183 (pos 132).
+    Nova Penalidade: 1980
+  > [Iter 4] MELHORA! (-2) Trocando ordem 384 (pos 268) com 237 (pos 102).
+    Nova Penalidade: 1978
+  > [Iter 5] MELHORA! (-4) Trocando ordem 459 (pos 297) com 83 (pos 81).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 494) com 437 (pos 326).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 14.84s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2058) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 45) com 34 (pos 20).
+    Nova Penalidade: 2057
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 184) com 237 (pos 42).
+    Nova Penalidade: 2055
+  > [Iter 2] MELHORA! (-4) Trocando ordem 459 (pos 286) com 83 (pos 52).
+    Nova Penalidade: 2051
+  > [Iter 3] MELHORA! (-18) Trocando ordem 443 (pos 311) com 183 (pos 28).
+    Nova Penalidade: 2033
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 324) com 305 (pos 134).
+    Nova Penalidade: 2002
+  > [Iter 5] MELHORA! (-23) Trocando ordem 207 (pos 367) com 484 (pos 310).
+    Nova Penalidade: 1979
+  > [Iter 6] MELHORA! (-5) Trocando ordem 74 (pos 439) com 120 (pos 199).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 485) com 437 (pos 401).
+    Nova Penalidade: 1973
+  Resumo Iteração 9: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 19.71s. Penalidade Final: 1973 ---
+
+... GRASP rodando. Iteração 50. Melhor Penalidade: 1973
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2016) ---
+  > [Iter 0] MELHORA! (-2) Trocando ordem 384 (pos 211) com 237 (pos 37).
+    Nova Penalidade: 2014
+  > [Iter 1] MELHORA! (-31) Trocando ordem 65 (pos 312) com 305 (pos 166).
+    Nova Penalidade: 1983
+  > [Iter 2] MELHORA! (-4) Trocando ordem 459 (pos 342) com 83 (pos 68).
+    Nova Penalidade: 1979
+  > [Iter 3] MELHORA! (-5) Trocando ordem 74 (pos 371) com 120 (pos 262).
+    Nova Penalidade: 1974
+  > [Iter 4] MELHORA! (-1) Trocando ordem 197 (pos 488) com 496 (pos 368).
+    Nova Penalidade: 1973
+  Resumo Iteração 6: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 15.12s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2079) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 46) com 102 (pos 1).
+    Nova Penalidade: 2034
+  > [Iter 1] MELHORA! (-5) Trocando ordem 381 (pos 207) com 74 (pos 416).
+    Nova Penalidade: 2029
+  > [Iter 2] MELHORA! (-2) Trocando ordem 384 (pos 262) com 237 (pos 108).
+    Nova Penalidade: 2027
+  > [Iter 3] MELHORA! (-4) Trocando ordem 459 (pos 324) com 83 (pos 36).
+    Nova Penalidade: 2023
+  > [Iter 4] MELHORA! (-18) Trocando ordem 443 (pos 349) com 183 (pos 18).
+    Nova Penalidade: 2005
+  > [Iter 5] MELHORA! (-31) Trocando ordem 65 (pos 374) com 305 (pos 167).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 495) com 496 (pos 365).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 17.82s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2057) ---
+  > [Iter 0] MELHORA! (-4) Trocando ordem 459 (pos 189) com 83 (pos 9).
+    Nova Penalidade: 2053
+  > [Iter 1] MELHORA! (-31) Trocando ordem 65 (pos 243) com 305 (pos 171).
+    Nova Penalidade: 2022
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 270) com 183 (pos 14).
+    Nova Penalidade: 2004
+  > [Iter 3] MELHORA! (-23) Trocando ordem 207 (pos 327) com 484 (pos 288).
+    Nova Penalidade: 1981
+  > [Iter 4] MELHORA! (-2) Trocando ordem 384 (pos 330) com 237 (pos 82).
+    Nova Penalidade: 1979
+  > [Iter 5] MELHORA! (-5) Trocando ordem 74 (pos 432) com 120 (pos 181).
+    Nova Penalidade: 1974
+  > [Iter 6] MELHORA! (-1) Trocando ordem 197 (pos 477) com 496 (pos 388).
+    Nova Penalidade: 1973
+  Resumo Iteração 8: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 20.06s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2000) ---
+  > [Iter 0] MELHORA! (-1) Trocando ordem 432 (pos 137) com 34 (pos 17).
+    Nova Penalidade: 1999
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 176) com 237 (pos 134).
+    Nova Penalidade: 1997
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 316) com 183 (pos 116).
+    Nova Penalidade: 1979
+  > [Iter 3] MELHORA! (-5) Trocando ordem 74 (pos 400) com 120 (pos 267).
+    Nova Penalidade: 1974
+  > [Iter 4] MELHORA! (-1) Trocando ordem 197 (pos 480) com 496 (pos 385).
+    Nova Penalidade: 1973
+  Resumo Iteração 6: 20958 pares vistos (Foco), 95 calculados.
+--- Fim Busca Local. Tempo: 14.99s. Penalidade Final: 1973 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2080) ---
+  > [Iter 0] MELHORA! (-45) Trocando ordem 370 (pos 115) com 102 (pos 39).
+    Nova Penalidade: 2035
+  > [Iter 1] MELHORA! (-2) Trocando ordem 384 (pos 187) com 237 (pos 35).
+    Nova Penalidade: 2033
+  > [Iter 2] MELHORA! (-18) Trocando ordem 443 (pos 243) com 183 (pos 120).
+    Nova Penalidade: 2015
+  > [Iter 3] MELHORA! (-1) Trocando ordem 432 (pos 277) com 34 (pos 47).
+    Nova Penalidade: 2014
+  > [Iter 4] MELHORA! (-31) Trocando ordem 65 (pos 291) com 305 (pos 165).
+    Nova Penalidade: 1983
+  > [Iter 5] MELHORA! (-4) Trocando ordem 459 (pos 304) com 83 (pos 24).
+    Nova Penalidade: 1979
+  > [Iter 6] MELHORA! (-5) Trocando ordem 74 (pos 380) com 120 (pos 251).
+    Nova Penalidade: 1974
+  > [Iter 7] MELHORA! (-1) Trocando ordem 197 (pos 485) com 437 (pos 367).
+    Nova Penalidade: 1973
+--- Fim Busca Local. Tempo: 17.48s. Penalidade Final: 1973 ---
+
+... GRASP rodando. Iteração 55. Melhor Penalidade: 1973
+
+=== FIM GRASP ===
+Total Iterações: 55
+Melhor Penalidade Encontrada: 1973

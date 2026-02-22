@@ -11,7 +11,7 @@ def tem_interseccao(ordem1, ordem2):
     return inicio_max <= fim_min
 
 
-def busca_local_first_improvement(ordens, equipes, solucao_inicial, tipo_movimento="swap", max_tempo_segundos=None):
+def busca_local_first_improvement(ordens, equipes, solucao_inicial, tipo_movimento, max_tempo_segundos):
     """
     Busca Local First Improvement OTIMIZADA.
 

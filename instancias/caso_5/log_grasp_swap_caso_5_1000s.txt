@@ -1,0 +1,126 @@
+=== Iniciando GRASP (Max Tempo: 1000s, Alpha: 0.7) ===
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2872) ---
+  > [Iter 0] MELHORA! (-56) Trocando ordem 409 (pos 394) com 871 (pos 158).
+    Nova Penalidade: 2816
+  > [Iter 1] MELHORA! (-28) Trocando ordem 12 (pos 682) com 1410 (pos 404).
+    Nova Penalidade: 2788
+  > [Iter 2] MELHORA! (-12) Trocando ordem 365 (pos 702) com 1155 (pos 334).
+    Nova Penalidade: 2776
+  > [Iter 3] MELHORA! (-67) Trocando ordem 1323 (pos 868) com 1289 (pos 589).
+    Nova Penalidade: 2709
+  > [Iter 4] MELHORA! (-62) Trocando ordem 408 (pos 1072) com 482 (pos 55).
+    Nova Penalidade: 2647
+  > [Iter 5] MELHORA! (-64) Trocando ordem 978 (pos 1114) com 461 (pos 633).
+    Nova Penalidade: 2583
+  > [Iter 6] MELHORA! (-57) Trocando ordem 692 (pos 1143) com 1369 (pos 507).
+    Nova Penalidade: 2526
+  > [Iter 7] MELHORA! (-8) Trocando ordem 964 (pos 1236) com 993 (pos 644).
+    Nova Penalidade: 2518
+--- Fim Busca Local. Tempo: 166.76s. Penalidade Final: 2518 ---
+
+
+[*] NOVA MELHOR SOLUÇÃO NA ITERAÇÃO 1!
+    Penalidade: 2518
+    Alocadas: 1440
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2868) ---
+  > [Iter 0] MELHORA! (-18) Trocando ordem 1054 (pos 173) com 290 (pos 33).
+    Nova Penalidade: 2850
+  > [Iter 1] MELHORA! (-56) Trocando ordem 409 (pos 226) com 871 (pos 3).
+    Nova Penalidade: 2794
+  > [Iter 2] MELHORA! (-62) Trocando ordem 408 (pos 640) com 482 (pos 405).
+    Nova Penalidade: 2732
+  > [Iter 3] MELHORA! (-12) Trocando ordem 365 (pos 690) com 1155 (pos 86).
+    Nova Penalidade: 2720
+  > [Iter 4] MELHORA! (-28) Trocando ordem 12 (pos 793) com 1410 (pos 409).
+    Nova Penalidade: 2692
+  > [Iter 5] MELHORA! (-8) Trocando ordem 1333 (pos 871) com 1418 (pos 43).
+    Nova Penalidade: 2684
+  > [Iter 6] MELHORA! (-8) Trocando ordem 964 (pos 1143) com 1344 (pos 573).
+    Nova Penalidade: 2676
+  > [Iter 7] MELHORA! (-64) Trocando ordem 978 (pos 1223) com 461 (pos 939).
+    Nova Penalidade: 2612
+  > [Iter 8] MELHORA! (-50) Trocando ordem 374 (pos 1255) com 223 (pos 699).
+    Nova Penalidade: 2562
+--- Fim Busca Local. Tempo: 166.71s. Penalidade Final: 2562 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2782) ---
+  > [Iter 0] MELHORA! (-56) Trocando ordem 409 (pos 349) com 871 (pos 287).
+    Nova Penalidade: 2726
+  > [Iter 1] MELHORA! (-18) Trocando ordem 1054 (pos 430) com 290 (pos 12).
+    Nova Penalidade: 2708
+  > [Iter 2] MELHORA! (-62) Trocando ordem 408 (pos 634) com 482 (pos 291).
+    Nova Penalidade: 2646
+  > [Iter 3] MELHORA! (-12) Trocando ordem 365 (pos 719) com 1155 (pos 308).
+    Nova Penalidade: 2634
+  > [Iter 4] MELHORA! (-28) Trocando ordem 12 (pos 939) com 1410 (pos 272).
+    Nova Penalidade: 2606
+  > [Iter 5] MELHORA! (-8) Trocando ordem 1333 (pos 981) com 1418 (pos 83).
+    Nova Penalidade: 2598
+  > [Iter 6] MELHORA! (-35) Trocando ordem 531 (pos 1101) com 191 (pos 42).
+    Nova Penalidade: 2563
+  > [Iter 7] MELHORA! (-8) Trocando ordem 964 (pos 1297) com 1344 (pos 512).
+    Nova Penalidade: 2555
+--- Fim Busca Local. Tempo: 166.96s. Penalidade Final: 2555 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2654) ---
+  > [Iter 0] MELHORA! (-18) Trocando ordem 1054 (pos 434) com 290 (pos 140).
+    Nova Penalidade: 2636
+  > [Iter 1] MELHORA! (-12) Trocando ordem 365 (pos 625) com 1155 (pos 172).
+    Nova Penalidade: 2624
+  > [Iter 2] MELHORA! (-62) Trocando ordem 408 (pos 691) com 482 (pos 44).
+    Nova Penalidade: 2562
+  > [Iter 3] MELHORA! (-28) Trocando ordem 12 (pos 817) com 1410 (pos 111).
+    Nova Penalidade: 2534
+  > [Iter 4] MELHORA! (-8) Trocando ordem 1333 (pos 1069) com 292 (pos 87).
+    Nova Penalidade: 2526
+  > [Iter 5] MELHORA! (-8) Trocando ordem 964 (pos 1258) com 1344 (pos 733).
+    Nova Penalidade: 2518
+  Resumo Iteração 7: 89940 pares vistos (Foco), 144 calculados.
+--- Fim Busca Local. Tempo: 150.12s. Penalidade Final: 2518 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2678) ---
+  > [Iter 0] MELHORA! (-28) Trocando ordem 12 (pos 541) com 1410 (pos 245).
+    Nova Penalidade: 2650
+  > [Iter 1] MELHORA! (-62) Trocando ordem 408 (pos 583) com 482 (pos 88).
+    Nova Penalidade: 2588
+  > [Iter 2] MELHORA! (-8) Trocando ordem 1333 (pos 721) com 292 (pos 112).
+    Nova Penalidade: 2580
+  > [Iter 3] MELHORA! (-12) Trocando ordem 365 (pos 1002) com 1155 (pos 66).
+    Nova Penalidade: 2568
+  > [Iter 4] MELHORA! (-35) Trocando ordem 531 (pos 1096) com 191 (pos 211).
+    Nova Penalidade: 2533
+  > [Iter 5] MELHORA! (-8) Trocando ordem 964 (pos 1154) com 1344 (pos 453).
+    Nova Penalidade: 2525
+  > [Iter 6] MELHORA! (-7) Trocando ordem 85 (pos 1455) com 1256 (pos 777).
+    Nova Penalidade: 2518
+--- Fim Busca Local. Tempo: 166.95s. Penalidade Final: 2518 ---
+
+... GRASP rodando. Iteração 5. Melhor Penalidade: 2518
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2728) ---
+  > [Iter 0] MELHORA! (-18) Trocando ordem 1054 (pos 429) com 1187 (pos 153).
+    Nova Penalidade: 2710
+  > [Iter 1] MELHORA! (-12) Trocando ordem 365 (pos 710) com 1155 (pos 388).
+    Nova Penalidade: 2698
+  > [Iter 2] MELHORA! (-62) Trocando ordem 408 (pos 717) com 482 (pos 423).
+    Nova Penalidade: 2636
+  > [Iter 3] MELHORA! (-8) Trocando ordem 964 (pos 1014) com 1344 (pos 631).
+    Nova Penalidade: 2628
+  > [Iter 4] MELHORA! (-8) Trocando ordem 1333 (pos 1043) com 292 (pos 244).
+    Nova Penalidade: 2620
+  > [Iter 5] MELHORA! (-67) Trocando ordem 1323 (pos 1131) com 1110 (pos 1125).
+    Nova Penalidade: 2553
+  > [Iter 6] MELHORA! (-28) Trocando ordem 12 (pos 1249) com 1410 (pos 420).
+    Nova Penalidade: 2525
+--- Fim Busca Local. Tempo: 166.78s. Penalidade Final: 2525 ---
+
+--- Iniciando Busca Local Otimizada (Penalidade Inicial: 2691) ---
+  > [Iter 0] MELHORA! (-18) Trocando ordem 1054 (pos 366) com 290 (pos 321).
+    Nova Penalidade: 2673
+  > [Iter 1] MELHORA! (-28) Trocando ordem 12 (pos 557) com 1410 (pos 77).
+    Nova Penalidade: 2645
+--- Fim Busca Local. Tempo: 11.62s. Penalidade Final: 2645 ---
+
+
+=== FIM GRASP ===
+Total Iterações: 7
+Melhor Penalidade Encontrada: 2518

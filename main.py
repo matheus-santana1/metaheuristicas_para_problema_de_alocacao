@@ -30,7 +30,7 @@ def main():
 
     if solucao.penalidade_total > 0:
         print("\nIniciando refinamento via Busca Local...")
-        solucao = busca_local_first_improvement(ordens, equipes, solucao, tipo_movimento)
+        solucao = busca_local_first_improvement(ordens, equipes, solucao, tipo_movimento, max_tempo_segundos)
     else:
         print("\nBusca Local pulada (Solução já é ótima com penalidade 0).")
 
@@ -40,14 +40,13 @@ def main():
 class Logger(object):
     def __init__(self, filename):
         self.terminal = sys.stdout
-        self.log = open(filename, "a", encoding="utf-8")
+        self.log = open(filename, "w", encoding="utf-8")
 
     def write(self, message):
         self.terminal.write(message)
         self.log.write(message)
 
     def flush(self):
-        # Necessário para compatibilidade com o sys.stdout
         self.terminal.flush()
         self.log.flush()
 

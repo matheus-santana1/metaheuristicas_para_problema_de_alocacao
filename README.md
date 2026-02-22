@@ -78,19 +78,23 @@ O script `main.py` é o ponto de entrada principal para a execução das meta-he
 python main.py --equipes="instancias/caso_6/equipes.csv"
 --ordem="instancias/caso_6/ordens.csv"
 --arquivo="caso_6"
+--seed=10
 --algoritmo="parcialmente_gulosa"
 --tipo_movimento="shift"
---seed=10
+--max_tempo_segundos=1000
+--salvar_gantt
 ```
 
-| Argumento          | Descrição                                                                    | Valores Possíveis (Exemplos)           |
-|:-------------------|:-----------------------------------------------------------------------------|:---------------------------------------|
-| `--equipes`        | Caminho para o arquivo CSV com os dados das equipes.                         | `instancias/caso_3/equipes.csv`        |
-| `--ordem`          | Caminho para o arquivo CSV com os dados das ordens de manutenção.            | `instancias/caso_3/ordens.csv`         |
-| `--seed`           | Semente para o gerador de números pseudoaleatórios (para reprodutibilidade). | `10`, `42`, etc.                       |
-| `--arquivo`        | Nome base para os arquivos de saída (resultados).                            | `caso_3`                               |
-| `--algoritmo`      | Tipo de heurística a ser executada.                                          | `simples`, `parcialmente_gulosa`, etc. |
-| `--tipo_movimento` | Tipo de movimento a ser executado.                                           | `shift`, `swap`, etc.                  |
+| Argumento              | Descrição                                                                    | Valores Possíveis (Exemplos)              |
+|:-----------------------|:-----------------------------------------------------------------------------|:------------------------------------------|
+| `--equipes`            | Caminho para o arquivo CSV com os dados das equipes.                         | `instancias/caso_3/equipes.csv`           |
+| `--ordem`              | Caminho para o arquivo CSV com os dados das ordens de manutenção.            | `instancias/caso_3/ordens.csv`            |
+| `--arquivo`            | Nome base para os arquivos de saída (resultados).                            | `caso_3`                                  |
+| `--seed`               | Semente para o gerador de números pseudoaleatórios (para reprodutibilidade). | `10`, `42`, etc.                          |
+| `--algoritmo`          | Tipo de heurística a ser executada.                                          | `simples`, `parcialmente_gulosa`, `grasp` |
+| `--tipo_movimento`     | Tipo de movimento a ser executado.                                           | `shift`, `swap`, etc.                     |
+| `--max_tempo_segundos` | Tempo máximo para execução do GRASP ou Busca Local.                          | `10`, `100`, `1000`, etc.                 |
+| `--salvar_gantt`       | Se presente, salva o gráfico de GANTT.                                       | None.                                     |
 
 #### Execução de Geração de Soluções (via `gerar_solucoes.py`)
 
@@ -108,9 +112,9 @@ Consulte o arquivo `args.py` para a lista completa de opções e parâmetros dis
 
 - ![status](https://img.shields.io/badge/Heurísticas_Construtivas-OK-success)
 - ![status](https://img.shields.io/badge/Busca_Local-OK-success)
-- ![status](https://img.shields.io/badge/GRASP-Não_Implementado-critical)
+- ![status](https://img.shields.io/badge/GRASP-OK-success)
 - ![status](https://img.shields.io/badge/Testes_Instâncias-OK-success)
-- ![status](https://img.shields.io/badge/Documentação_Completa-Não_Realizado-critical)
+- ![status](https://img.shields.io/badge/Documentação_Completa-OK-success)
 
 ---
 
