@@ -51,7 +51,7 @@ class Logger(object):
         self.log.flush()
 
 if __name__ == "__main__":
-    nome_arquivo_log = f"log_{args.algoritmo}_{args.tipo_movimento}.txt"
+    nome_arquivo_log = f"log_{args.arquivo}_{args.algoritmo}_{args.tipo_movimento}.txt"
     sys.stdout = Logger(nome_arquivo_log)
     solucao = main()
     if args.salvar_gantt:

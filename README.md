@@ -85,16 +85,16 @@ python main.py --equipes="instancias/caso_6/equipes.csv"
 --salvar_gantt
 ```
 
-| Argumento              | Descrição                                                                    | Valores Possíveis (Exemplos)              |
-|:-----------------------|:-----------------------------------------------------------------------------|:------------------------------------------|
-| `--equipes`            | Caminho para o arquivo CSV com os dados das equipes.                         | `instancias/caso_3/equipes.csv`           |
-| `--ordem`              | Caminho para o arquivo CSV com os dados das ordens de manutenção.            | `instancias/caso_3/ordens.csv`            |
-| `--arquivo`            | Nome base para os arquivos de saída (resultados).                            | `caso_3`                                  |
-| `--seed`               | Semente para o gerador de números pseudoaleatórios (para reprodutibilidade). | `10`, `42`, etc.                          |
-| `--algoritmo`          | Tipo de heurística a ser executada.                                          | `simples`, `parcialmente_gulosa`, `grasp` |
-| `--tipo_movimento`     | Tipo de movimento a ser executado.                                           | `shift`, `swap`, etc.                     |
-| `--max_tempo_segundos` | Tempo máximo para execução do GRASP ou Busca Local.                          | `10`, `100`, `1000`, etc.                 |
-| `--salvar_gantt`       | Se presente, salva o gráfico de GANTT.                                       | None.                                     |
+| Argumento              | Descrição                                                                    | Valores Possíveis (Exemplos)               |
+|:-----------------------|:-----------------------------------------------------------------------------|:-------------------------------------------|
+| `--equipes`            | Caminho para o arquivo CSV com os dados das equipes.                         | `instancias/caso_3/equipes.csv`.           |
+| `--ordem`              | Caminho para o arquivo CSV com os dados das ordens de manutenção.            | `instancias/caso_3/ordens.csv`.            |
+| `--arquivo`            | Nome base para os arquivos de saída (resultados).                            | `caso_3`.                                  |
+| `--seed`               | Semente para o gerador de números pseudoaleatórios (para reprodutibilidade). | `10`, `42`, etc.                           |
+| `--algoritmo`          | Tipo de heurística a ser executada.                                          | `simples`, `parcialmente_gulosa`, `grasp`. |
+| `--tipo_movimento`     | Tipo de movimento a ser executado.                                           | `shift`, `swap`.                           |
+| `--max_tempo_segundos` | Tempo máximo para execução do GRASP ou Busca Local.                          | `10`, `100`, `1000`, etc.                  |
+| `--salvar_gantt`       | Se presente, salva o gráfico de GANTT.                                       | `None`.                                    |
 
 #### Execução de Geração de Soluções (via `gerar_solucoes.py`)
 
@@ -107,6 +107,20 @@ python gerar_solucoes.py
 ```
 
 Consulte o arquivo `args.py` para a lista completa de opções e parâmetros disponíveis para ambos os scripts.
+
+### 5. Execução via Kaggle
+
+Para facilitar a experimentação e garantir que todas as dependências estejam configuradas corretamente, o algoritmo também está disponível em um ambiente de nuvem pronto para uso.
+
+Você pode acessar, modificar e rodar o código diretamente pelo link abaixo:
+
+Notebook Interativo: [Otimização - Kaggle](https://www.kaggle.com/code/matheussantana1/otimizacao)
+
+#### Dicas de uso:
+
+Clique em "Copy & Edit" no canto superior direito para criar sua própria versão editável.
+
+Utilize o comando "Run All" para executar todas as células e visualizar os gráficos e resultados gerados.
 
 ## ✅ Status do Projeto
 
